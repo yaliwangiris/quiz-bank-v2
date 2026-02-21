@@ -24,9 +24,16 @@
         "text": "可以，因兩家公司分屬不同縣市"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "A公司已不得再為他人保證"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "③④"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -111,16 +132,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "該政府機關自行參選監察人，且另推派10名自然人代表參選董事 5依照我國公司法之規定，下列何種機關不會出現於有限公司？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "董事"
+        "text": "該政府機關自行參選監察人，且另推派10名自然人代表參選董事"
       }
+    ],
+    "answer": [
+      "C"
     ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -148,9 +172,16 @@
         "text": "監察人"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -178,9 +209,16 @@
         "text": "由乙代表A公司與甲訂立買賣契約"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -208,9 +246,16 @@
         "text": "該臨時動議未違反股東會召集程序之規定"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -238,9 +283,16 @@
         "text": "三位董事自行召集前，未先經主管機關許可，並不合法"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -249,7 +301,7 @@
     "subject_code": "4301",
     "question_no": 9,
     "question_type": "single",
-    "stem": "A股份有限公司（下稱A公司）從未公開發行股票，其董事長甲因私自挪用公司資產，被法院判決有罪、處有期徒刑3年，甲因不服該判決而上訴，以致本案仍未確定。今甲從羈押中釋放出來，又再回任A公司董事長。股東乙持有A公司已發行股份總數百分之三之股份已有半年，因不滿現狀，於 A公司受理股東提案期間內，以書面向公司提出下列股東常會議案，案由為：「公司負責人首重誠實\n信用，本公司現任董事長甲因私自挪用公司資產，業經法院判決有罪，繼續留任顯將嚴重影響本公司正常營運及股東權利，爰擬解任其董事職務，請予同意，謹提請討論。」A公司董事會應否將上述乙之提案列入股東會議案？",
+    "stem": "A股份有限公司（下稱A公司）從未公開發行股票，其董事長甲因私自挪用公司資產，被法院判決有罪、處有期徒刑3年，甲因不服該判決而上訴，以致本案仍未確定。今甲從羈押中釋放出來，又再回任A公司董事長。股東乙持有A公司已發行股份總數百分之三之股份已有半年，因不滿現狀，於 A公司受理股東提案期間內，以書面向公司提出下列股東常會議案，案由為：「公司負責人首重誠實 信用，本公司現任董事長甲因私自挪用公司資產，業經法院判決有罪，繼續留任顯將嚴重影響本公司正常營運及股東權利，爰擬解任其董事職務，請予同意，謹提請討論。」A公司董事會應否將上述乙之提案列入股東會議案？",
     "choices": [
       {
         "choice_id": "c1",
@@ -268,9 +320,16 @@
         "text": "不應該，乙之提案非股東會所得決議者"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -279,7 +338,7 @@
     "subject_code": "4301",
     "question_no": 10,
     "question_type": "single",
-    "stem": "A股份有限公司經營不善，股東們對於董事會效能非常不滿意，打算召集股東臨時會改選董監。其中小股東甲為繼續1年以上持股1%的股東，乙為繼續6個月以上持股10%的股東，丙為繼續6個月以\n上持股25%的股東，丁為繼續3個月以上持股30%的股東，戊為公司監察人。下列關於股東會之敘述，何者正確？",
+    "stem": "A股份有限公司經營不善，股東們對於董事會效能非常不滿意，打算召集股東臨時會改選董監。其中小股東甲為繼續1年以上持股1%的股東，乙為繼續6個月以上持股10%的股東，丙為繼續6個月以 上持股25%的股東，丁為繼續3個月以上持股30%的股東，戊為公司監察人。下列關於股東會之敘述，何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -295,16 +354,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "戊若未持有股份，則不得自行召集股東臨時會 11甲為A公開發行股票之公司（下稱A公司）之董事，選任時持股10,000股，任期中再買進10,000 股，後將其持有20,000股全部設定質權。依實務見解，A公司股東會中甲最多得行使表決權之股份數為何？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "0股"
+        "text": "戊若未持有股份，則不得自行召集股東臨時會"
       }
+    ],
+    "answer": [
+      "C"
     ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -332,9 +394,16 @@
         "text": "15,000股"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -362,9 +431,16 @@
         "text": "甲僅就議案（三）不得行使表決權，而B公司就議案（二）得行使表決權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -392,9 +468,16 @@
         "text": "常務董事會決議解任A之董事長職務後，A仍為公司董事"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -403,7 +486,7 @@
     "subject_code": "4301",
     "question_no": 14,
     "question_type": "single",
-    "stem": "A股份有限公司（下稱A公司）為非公開發行股票之公司，章程記載資本總額為新臺幣（下同）  10億元，已發行9.9億元，為擴充廠房，需增資3億元。下列敘述何者正確？",
+    "stem": "A股份有限公司（下稱A公司）為非公開發行股票之公司，章程記載資本總額為新臺幣（下同） 10億元，已發行9.9億元，為擴充廠房，需增資3億元。下列敘述何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -422,9 +505,16 @@
         "text": "A公司所需之3億資金，必須一次募足，不得分次發行"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -433,7 +523,7 @@
     "subject_code": "4301",
     "question_no": 15,
     "question_type": "single",
-    "stem": "A股份有限公司（下稱A公司）為B股份有限公司（下稱B公司）之控制公司，當B公司欲任命任何高階業務主管時，均事先徵得A公司之同意。去年A公司為其自身利益，間接使B公司為不利益之經營，但未於會計年度終了時為適當之補償，致B公司受有損害，但A公司未賠償B公司之損害。甲於2年前借給B公司新臺幣50萬元，尚未獲得清償，屢屢函請B公司儘速對A公司採取法\n律行動，未料B公司卻逕自聲明不會為此向A公司求償，下列敘述何者正確？",
+    "stem": "A股份有限公司（下稱A公司）為B股份有限公司（下稱B公司）之控制公司，當B公司欲任命任何高階業務主管時，均事先徵得A公司之同意。去年A公司為其自身利益，間接使B公司為不利益之經營，但未於會計年度終了時為適當之補償，致B公司受有損害，但A公司未賠償B公司之損害。甲於2年前借給B公司新臺幣50萬元，尚未獲得清償，屢屢函請B公司儘速對A公司採取法 律行動，未料B公司卻逕自聲明不會為此向A公司求償，下列敘述何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -449,16 +539,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "甲得以自己名義行使B公司權利，請求A公司對B公司為給付 16原保險契約與再保險契約皆另行於契約條款約定，原保險之被保險人得直接向再保險人請求保險金， 而再保險人也得向原保險之要保人請求保險費。若原保險契約之原保險人失去清償能力，原被保險人得否直接向再保險人請求保險金？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "可，原被保險人本來就是再保險契約保護之對象，該契約條款純屬多餘"
+        "text": "甲得以自己名義行使B公司權利，請求A公司對B公司為給付"
       }
+    ],
+    "answer": [
+      "D"
     ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -486,9 +579,16 @@
         "text": "否，該契約條款牴觸保險法第54條之1之規定而無效"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -516,9 +616,16 @@
         "text": "危險增加，若係因防護保險人之利益者，即使該危險增加係因要保人之行為所導致，亦無需通知保險人"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -546,9 +653,16 @@
         "text": "A保險公司得解除契約，並請求損害賠償"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -576,9 +690,16 @@
         "text": "保險人不得對被保險人之家屬或受僱人行使代位權，但損失係由其故意或重大過失所引起者，不在此限"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -606,9 +727,16 @@
         "text": "本件事故之發生與虛報車價之間無因果關係，保險公司仍應就保險金額之全部為理賠"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -617,7 +745,7 @@
     "subject_code": "4301",
     "question_no": 21,
     "question_type": "single",
-    "stem": "A公司於民國（下同）105年1月向B產物保險股份有限公司（下稱B公司）投保公共意外責任險。 A公司廠房於105年5月失火，火勢延燒造成C公司廠房損失。C公司於105年10月起訴A公司，\n於108年10月判決確定A公司應賠償C公司之損失。因A公司失火後即不再營業，亦無資產可供執行，C公司乃於110年9月依保險法第94條向B公司提起訴訟，請求保險理賠。試問：C公司對 B公司之訴訟有無罹於時效？該時效應自何時起算？",
+    "stem": "A公司於民國（下同）105年1月向B產物保險股份有限公司（下稱B公司）投保公共意外責任險。 A公司廠房於105年5月失火，火勢延燒造成C公司廠房損失。C公司於105年10月起訴A公司， 於108年10月判決確定A公司應賠償C公司之損失。因A公司失火後即不再營業，亦無資產可供執行，C公司乃於110年9月依保險法第94條向B公司提起訴訟，請求保險理賠。試問：C公司對 B公司之訴訟有無罹於時效？該時效應自何時起算？",
     "choices": [
       {
         "choice_id": "c1",
@@ -633,16 +761,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "應自被保險人對第三人應負損失賠償責任確定時起算，亦即應自108年10月起算二年，因此尚未罹於時效 22甲以自己為被保險人投保終身壽險，一年後因欠繳保險費，經保險人催告後仍未繳，契約停止效力。甲在停效後六個月內，向保險人申請復效。下列有關復效規定之敘述，何者錯誤？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "甲申請恢復效力時，保險人不得請求甲提供可保證明"
+        "text": "應自被保險人對第三人應負損失賠償責任確定時起算，亦即應自108年10月起算二年，因此尚未罹於時效"
       }
+    ],
+    "answer": [
+      "D"
     ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -670,9 +801,16 @@
         "text": "保險人不得拒絕甲之申請恢復契約效力"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -700,9 +838,16 @@
         "text": "保險業對利害關係人之放款皆應經董事會特別決議通過"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -730,9 +875,16 @@
         "text": "被保險人於契約訂約二年後故意自殺"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -757,16 +909,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "國際發生重大事故導致再保險費提高，B公司僅得依保險法第60條第1項之規定向A公司主張終止契約 26票據上之權利，因時效或手續之欠缺，而歸於消滅時，執票人對於發票人或承兌人，於其實質上所得之利益之限度，仍得請求償還其利益，票據法第22條第4項定有明文。甲簽發即期支票，執票人乙之利益償還請求權之消滅時效期間，依最高法院見解，下列之計算方法，何者正確？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "乙僅得自退票日起算3年內向甲請求"
+        "text": "國際發生重大事故導致再保險費提高，B公司僅得依保險法第60條第1項之規定向A公司主張終止契約"
       }
+    ],
+    "answer": [
+      "C"
     ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -794,9 +949,16 @@
         "text": "乙得自支票時效完成後15年內向甲請求"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -824,9 +986,16 @@
         "text": "丙不負任何票據責任"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -854,9 +1023,16 @@
         "text": "戊若行使追索權，得向丙請求20萬元"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -884,9 +1060,16 @@
         "text": "乙之印章蓋在票據上，故須負票據責任"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -914,9 +1097,16 @@
         "text": "102年6月9日"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -944,9 +1134,16 @@
         "text": "甲、乙、丙、丁均應負票據責任"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -974,9 +1171,16 @@
         "text": "丙行使追索權時，得請求追索之必要費用"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1004,9 +1208,16 @@
         "text": "未記載發票地，該支票無效"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1034,9 +1245,16 @@
         "text": "丙應遵守法定提示期間，方得行使票據權利"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1064,9 +1282,16 @@
         "text": "丁僅可向甲行使追索權"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1094,9 +1319,16 @@
         "text": "不可行，因基於此一目的所為股份之買回，屬於證券交易法所禁止的連續交易行為"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1124,9 +1356,16 @@
         "text": "得直接經由全體獨立董事三分之二以上同意之決議為之"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1154,9 +1393,16 @@
         "text": "90日"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1184,9 +1430,16 @@
         "text": "A公司監察人與董事間皆為二親等以內親屬，則監察人中所得選票代表選舉權較低者，其當選失其效力"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1214,9 +1467,16 @@
         "text": "自然人甲得僅受股東B一人之委託，代理股東B出席本次股東會，行使B全部之表決權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1244,9 +1504,16 @@
         "text": "A公司身為B公司之控制股東，則其未取得B公司股東會同意之前，不得採用公開收購方式來買進B公司股票"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1271,16 +1538,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "依法決議後，可於2年內分次辦理 43甲是剛踏入社會的新鮮人，想將部分積蓄拿來投資上市有價證券，下列有關國內證券市場相關法制之敘述何者錯誤？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "政府發行之債券，其上市由主管機關以命令行之，不適用證券交易法有關上市之規定"
+        "text": "依法決議後，可於2年內分次辦理"
       }
+    ],
+    "answer": [
+      "A"
     ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1308,9 +1578,16 @@
         "text": "上市有價證券之買賣，應於證券交易所開設之有價證券集中交易市場為之。但私人間之直接讓受，其數量不超過該證券1個成交單位，且前後兩次之讓受行為相隔不少於6個月者，不在此限"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1319,7 +1596,7 @@
     "subject_code": "4301",
     "question_no": 44,
     "question_type": "single",
-    "stem": "X公司是一家上市電子公司，今X公司欲透過發行有價證券之方式，籌措公司所需之資金，故與Y  證券公司簽訂有價證券承銷契約。契約中載明於承銷期間屆滿後，對於約定承銷之有價證券，若未能全數銷售者，其賸餘數額之有價證券，應由Y證券公司自行認購之。依證券交易法之規定，此種有價證券承銷方式稱為：",
+    "stem": "X公司是一家上市電子公司，今X公司欲透過發行有價證券之方式，籌措公司所需之資金，故與Y 證券公司簽訂有價證券承銷契約。契約中載明於承銷期間屆滿後，對於約定承銷之有價證券，若未能全數銷售者，其賸餘數額之有價證券，應由Y證券公司自行認購之。依證券交易法之規定，此種有價證券承銷方式稱為：",
     "choices": [
       {
         "choice_id": "c1",
@@ -1338,9 +1615,16 @@
         "text": "分銷"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1365,16 +1649,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "A公司非上市公司，故甲無須負任何責任 46甲在X法院起訴請求乙給付新臺幣（下同）800萬元，獲勝訴判決並宣告供擔保後得假執行。乙提起上訴；甲依假執行判決供擔保，就乙在X法院轄區之丙銀行A存款（50萬元）及在Y法院轄區之B房地（價值700萬元）聲請強制執行。下列敘述，何者正確？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "甲向X法院聲請執行乙之A存款及B房地時，X法院就A存款得扣押、換價，就B房地得查封、拍賣"
+        "text": "A公司非上市公司，故甲無須負任何責任"
       }
+    ],
+    "answer": [
+      "A"
     ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1402,9 +1689,16 @@
         "text": "判決確定前，執行法院僅得扣押A存款及查封B房地，不能實施換價"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1432,9 +1726,16 @@
         "text": "通知乙、丙到場對質，並命甲、乙辯論，調查A屋權利歸屬後，據以處置"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1462,9 +1763,16 @@
         "text": "未拍定，執行債權人亦不願承受時，應撤銷該動產之拍賣"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1492,9 +1800,16 @@
         "text": "A地既以「拍定後不點交」為拍賣條件，丁於拍定後即不得再為相反主張，執行法院應駁回其異議"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1522,9 +1837,16 @@
         "text": "債權人甲聲請執行債務人乙之礦業權，應準用不動產之執行程序辦理"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1552,9 +1874,16 @@
         "text": "拍賣併強制管理"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1582,9 +1911,16 @@
         "text": "丁並非執行名義效力所及之人，且乙已將丙安置在丁處所，甲僅能另行對丁取得執行名義，執行法院應駁回甲之強制執行聲請"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1612,9 +1948,16 @@
         "text": "命債務人乙協同債權人甲向監理機關辦理B車過戶登記"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1642,9 +1985,16 @@
         "text": "應視丙之假扣押執行為參與分配，以其應受分配金額予以提存"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1672,9 +2022,16 @@
         "text": "應予准許，因先後執行債權人所執行之權利不同"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1702,9 +2059,16 @@
         "text": "Defamation"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1713,7 +2077,7 @@
     "subject_code": "4301",
     "question_no": 57,
     "question_type": "single",
-    "stem": "While a crime such as murder or shoplifting is a wrong committed against society, a tort is a   committed against an individual.",
+    "stem": "While a crime such as murder or shoplifting is a wrong committed against society, a tort is a committed against an individual.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1732,9 +2096,16 @@
         "text": "contradict wrong"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1743,7 +2114,7 @@
     "subject_code": "4301",
     "question_no": 58,
     "question_type": "single",
-    "stem": "Rachel is a babysitter. She left Michael, a two-year-old boy, at home alone and sneaked out to go shopping. After 30 minutes, Michael put a fork into an electric plug and was seriously injured. Rachel was negligent for breaching of  .",
+    "stem": "Rachel is a babysitter. She left Michael, a two-year-old boy, at home alone and sneaked out to go shopping. After 30 minutes, Michael put a fork into an electric plug and was seriously injured. Rachel was negligent for breaching of .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1762,9 +2133,16 @@
         "text": "watching of obligation"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1773,7 +2151,7 @@
     "subject_code": "4301",
     "question_no": 59,
     "question_type": "single",
-    "stem": "According to the Restatement (Second) of Contracts, a natural person who manifests assent to a transaction has full legal capacity to incur contractual duties thereby unless he is under guardianship, an infant, mentally ill or defective, or  .",
+    "stem": "According to the Restatement (Second) of Contracts, a natural person who manifests assent to a transaction has full legal capacity to incur contractual duties thereby unless he is under guardianship, an infant, mentally ill or defective, or .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1792,9 +2170,16 @@
         "text": "disoriented"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1822,9 +2207,16 @@
         "text": "Financial Supervisory Commission"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1852,9 +2244,16 @@
         "text": "Public investors"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1882,9 +2281,16 @@
         "text": "Proportionality"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1893,7 +2299,7 @@
     "subject_code": "4301",
     "question_no": 63,
     "question_type": "single",
-    "stem": "According to Article 156(2) of the Code of Criminal Procedure, a conviction cannot be solely based on the   of the accused.",
+    "stem": "According to Article 156(2) of the Code of Criminal Procedure, a conviction cannot be solely based on the of the accused.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1912,9 +2318,16 @@
         "text": "accusation"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1942,9 +2355,16 @@
         "text": "Exculpatory evidence"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1972,9 +2392,16 @@
         "text": "embezzlement"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1983,7 +2410,7 @@
     "subject_code": "4301",
     "question_no": 66,
     "question_type": "single",
-    "stem": "A person or group who is not a party to an action, but has a strong interest in the matter, will petition the court for permission to submit a brief in the action with the intent of influencing the court’s decision. Such briefs are called “  briefs.”",
+    "stem": "A person or group who is not a party to an action, but has a strong interest in the matter, will petition the court for permission to submit a brief in the action with the intent of influencing the court’s decision. Such briefs are called “ briefs.”",
     "choices": [
       {
         "choice_id": "c1",
@@ -2002,9 +2429,16 @@
         "text": "appellate"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2032,9 +2466,16 @@
         "text": "scrutiny"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2062,9 +2503,16 @@
         "text": "compelling interests"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2073,7 +2521,7 @@
     "subject_code": "4301",
     "question_no": 69,
     "question_type": "single",
-    "stem": "The U.S. Supreme Court ruled that the law, which allows union organizers to enter farms to speak to workers during nonworking hours, unconstitutionally   private land by allowing organizers to go on farm property.",
+    "stem": "The U.S. Supreme Court ruled that the law, which allows union organizers to enter farms to speak to workers during nonworking hours, unconstitutionally private land by allowing organizers to go on farm property.",
     "choices": [
       {
         "choice_id": "c1",
@@ -2092,9 +2540,16 @@
         "text": "authorizes"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2122,9 +2577,16 @@
         "text": "Res judicata"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

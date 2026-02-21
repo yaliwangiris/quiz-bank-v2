@@ -24,9 +24,16 @@
         "text": "經輔助人承認後有效"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "B 屋屬乙所有，C 樹屬甲所有"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "並非各自獨立之物，有一個所有權"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -114,9 +135,16 @@
         "text": "乙與丙間關於 G 土地之買賣契約無效；移轉 G 土地所有權予丙之物權行為效力未定"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "經丙承認後有效"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -174,9 +209,16 @@
         "text": "要約一旦由要約人為之，並不會因要約人之死亡、行為能力受到限制而受影響"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -204,9 +246,16 @@
         "text": "乙對丙之損害賠償責任亦因而免除"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -234,9 +283,16 @@
         "text": "貸與人善意不知其情事者，借用人得請求返還現存之增價額"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -264,9 +320,16 @@
         "text": "損害非因商品欠缺所致"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -294,9 +357,16 @@
         "text": "乙尚未給付價金"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -324,9 +394,16 @@
         "text": "丙已取得 A 畫所有權"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -354,9 +431,16 @@
         "text": "寄託契約"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -384,9 +468,16 @@
         "text": "自始不能，乙僅得請求信賴利益之損害賠償"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -414,9 +505,16 @@
         "text": "乙得向甲請求因受傷不能開車營業之損失"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -444,9 +542,16 @@
         "text": "出賣人故意不告知物之瑕疵時，不適用前述 6 個月期間之規定"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -474,9 +579,16 @@
         "text": "合意解除是由當事人另訂契約以消滅原來有效之契約，於當事人合意時即生契約解除之效力，其效果適用民法第 259 條之規定回復原狀"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -504,9 +616,16 @@
         "text": "法院得不終止租賃關係，單獨將土地拍賣"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -515,7 +634,7 @@
     "subject_code": "3301",
     "question_no": 18,
     "question_type": "single",
-    "stem": "甲、乙共有土地一宗，面積  200  坪，應有部分各為二分之一。下列敘述，何者正確？",
+    "stem": "甲、乙共有土地一宗，面積 200 坪，應有部分各為二分之一。下列敘述，何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -534,9 +653,16 @@
         "text": "甲、乙對共有之土地，各有一所有權，但其權利之行使應受應有部分之限制"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -564,9 +690,16 @@
         "text": "甲、丙間之區分地上權若已獲乙之同意而設定者，則其效力優先於甲、乙間之普通地上權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -594,9 +727,16 @@
         "text": "丙得將自己之占有與乙占有合併而為主張"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -624,9 +764,16 @@
         "text": "不動產共有人間關於共有物分割之約定，非經登記，對於應有部分之受讓人不生效力"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -654,9 +801,16 @@
         "text": "甲如係無權占有乙之土地建屋時，未完成之建築依附合之規定，應為乙所有"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -665,7 +819,7 @@
     "subject_code": "3301",
     "question_no": 23,
     "question_type": "single",
-    "stem": "甲、乙、丙共有建地一宗，面積 100 坪，應有部分甲為十分之五，乙為十分之四、丙為十分之一。甲將其應有部分設定普通抵押權於丁，以擔保欠款之清償。乙訴請法院裁判分割共有之建地，訴訟進行中，乙通知丁參加訴訟，丁不予理會。法院判決之分割方法為：建地由甲取得依測量圖所示  A 部分（面積 55.6 坪），由乙取得依測量圖所示 B 部分（面積 54.4 坪），甲、乙應各補償丙 55 萬 6 千元、54 萬 4 千元。該判決因當事人未上訴而確定。下列敘述，何者正確？",
+    "stem": "甲、乙、丙共有建地一宗，面積 100 坪，應有部分甲為十分之五，乙為十分之四、丙為十分之一。甲將其應有部分設定普通抵押權於丁，以擔保欠款之清償。乙訴請法院裁判分割共有之建地，訴訟進行中，乙通知丁參加訴訟，丁不予理會。法院判決之分割方法為：建地由甲取得依測量圖所示 A 部分（面積 55.6 坪），由乙取得依測量圖所示 B 部分（面積 54.4 坪），甲、乙應各補償丙 55 萬 6 千元、54 萬 4 千元。該判決因當事人未上訴而確定。下列敘述，何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -684,9 +838,16 @@
         "text": "丁之抵押權移存於 A 地，但劣於丙對該地之法定抵押權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -714,9 +875,16 @@
         "text": "設定合意"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -724,7 +892,7 @@
     "year": 104,
     "subject_code": "3301",
     "question_no": 25,
-    "question_type": "multiple",
+    "question_type": "single",
     "stem": "有關結婚之同意，下列敘述，何者錯誤？",
     "choices": [
       {
@@ -744,10 +912,18 @@
         "text": "未成年之婦女已結婚者，因夫死亡而再婚時，無須法定代理人之同意"
       }
     ],
+    "answer": [
+      "A",
+      "D"
+    ],
     "correct_choice_ids": [
       "c1",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -775,9 +951,16 @@
         "text": "非婚生子女得否認生父之認領"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -786,7 +969,7 @@
     "subject_code": "3301",
     "question_no": 27,
     "question_type": "single",
-    "stem": "甲男乙女未婚生子   A，因甲不告而別，乙女自殺身亡，下列何者得向甲男提起認領之訴？",
+    "stem": "甲男乙女未婚生子 A，因甲不告而別，乙女自殺身亡，下列何者得向甲男提起認領之訴？",
     "choices": [
       {
         "choice_id": "c1",
@@ -805,9 +988,16 @@
         "text": "社會福利主管機關"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -835,9 +1025,16 @@
         "text": "監護人有顯不適任之情事者"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -865,9 +1062,16 @@
         "text": "可，因甲之妻乙已死亡"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -895,9 +1099,16 @@
         "text": "丙不得成為乙之婚生子女"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -925,9 +1136,16 @@
         "text": "效力未定"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -955,9 +1173,16 @@
         "text": "與甲之祖父母平均分配"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -985,9 +1210,16 @@
         "text": "推定就繼承開始時，債務人庚之支付能力，負擔保之責"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1015,9 +1247,16 @@
         "text": "乙、丙無須負擔 100 萬元債務"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1045,9 +1284,16 @@
         "text": "遺囑有效"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1075,9 +1321,16 @@
         "text": "依法確認無繼承人承認繼承，並清償債務、交付遺贈後，將剩餘遺產移交國庫"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1105,9 +1358,16 @@
         "text": "戊、A、B、C 各繼承 90 萬元"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1116,7 +1376,7 @@
     "subject_code": "3301",
     "question_no": 38,
     "question_type": "single",
-    "stem": "遺囑人甲於 A 有效遺囑中遺贈 100 本集郵冊給乙，依民法規定，下列何者不產生一部或全部撤回 A\n遺囑之效力？",
+    "stem": "遺囑人甲於 A 有效遺囑中遺贈 100 本集郵冊給乙，依民法規定，下列何者不產生一部或全部撤回 A 遺囑之效力？",
     "choices": [
       {
         "choice_id": "c1",
@@ -1135,9 +1395,16 @@
         "text": "甲於數年後寫了 X 有效遺囑，指定將 100 本集郵冊全數捐給慈善機構，但對於 A 遺囑隻字未提"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1165,9 +1432,16 @@
         "text": "若乙銀行請求返還之金額為新臺幣 10 萬元，甲係有限公司。縱受訴法院認該合意管轄約定，按其情形，顯失公平，亦應認受訴法院有管轄權，不得以裁定移送於臺北地方法院以外之其他法定管轄法院"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1195,9 +1469,16 @@
         "text": "原告之訴是否具備訴之利益"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1225,9 +1506,16 @@
         "text": "抗告人提起抗告時未表明抗告理由，經審判長定期間命抗告人提出抗告理由書，如抗告人復未依上開期限提出抗告理由書時，原裁定法院得認其抗告為不合法，而以裁定駁回其抗告"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1255,9 +1543,16 @@
         "text": "民事訴訟法上簡易訴訟事件得與通常訴訟事件合併提起"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1285,9 +1580,16 @@
         "text": "分公司就其業務範圍內事項涉訟，其所受確定判決之效力不及於總公司"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1315,9 +1617,16 @@
         "text": "b 約款係訴訟成立要件，法院不待當事人抗辯即應調查與審酌"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1345,9 +1654,16 @@
         "text": "土地共有人中之二人以他共有人為被告，請求分割共有物，原告中之一人起訴後撤回起訴，其撤回對他原告不生效力；土地共有人中之二人以他共有人為被告，請求分割共有物，第一審判決准予分割，僅原告中之一人不服分割方法提起第二審上訴，嗣提起上訴之原告撤回上訴，未提起上訴之原告既未上訴，本件訴訟即告終結"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1375,9 +1691,16 @@
         "text": "②④⑤"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1405,9 +1728,16 @@
         "text": "在兩造於起訴前達成被告應提出某文書之協議時，如該被告經受訴法院依該協議命提出該文書卻置之不理，則法院得審酌情形認原告關於該文書之主張為真實"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1435,9 +1765,16 @@
         "text": "先行自認"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1465,9 +1802,16 @@
         "text": "本件訴訟屬法定訴訟擔當，非意定訴訟擔當，故甲 3 就本件訴訟之本案確定判決，不論甲 1 勝訴或敗訴，均有提起第三人撤銷訴訟之原告適格"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1495,9 +1839,16 @@
         "text": "如丙承當訴訟，本訴訟之判決效力仍及於脫離訴訟之乙"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1525,9 +1876,16 @@
         "text": "第一審法院依通常訴訟程序審理，為乙敗訴判決，法院應依職權宣告假執行"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1555,9 +1913,16 @@
         "text": "本件原告訴之聲明具有全部請求之性質，並非一部訴求"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1585,9 +1950,16 @@
         "text": "甲於言詞辯論終結前，得隨時聲明證據，法院均應為調查"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1615,9 +1987,16 @@
         "text": "第三審法院認為上訴有理由，將事件發回原法院時，受發回之法院，根據法官審判獨立原則，得不以第三審法院所為廢棄理由之法律上判斷為其判決基礎，而依自己所確信之法律見解為判決"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1645,9 +2024,16 @@
         "text": "②③"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1675,9 +2061,16 @@
         "text": "乙主張因甲前次買賣超收價金 10 萬元而請求判決命甲給付 10 萬元"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1705,9 +2098,16 @@
         "text": "裁定駁回，因為甲已在法院撤銷假處分裁定前，對丙提起訴訟"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1735,9 +2135,16 @@
         "text": "債務人就支付命令提出異議者，應附具書面理由"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1765,9 +2172,16 @@
         "text": "本訴訟之受訴法院判決甲勝訴後，乙提起上訴之同時，甲另行向第一審法院起訴列乙為被告，請求判決准許甲與乙離婚，受理此後訴訟之法院應自為判決"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1795,9 +2209,16 @@
         "text": "若乙對通姦事實自認，法院原則上應以自認之內容為裁判之基礎"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1825,9 +2246,16 @@
         "text": "扶養請求事件"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1855,9 +2283,16 @@
         "text": "不論就前訴訟或後訴訟，兩造當事人均得以書面合意由臺北地方法院審判管轄 二、複選題（第 63 題至第 74 題，每題 3 分，占 36 分） 說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答 或答錯多於二個選項（不含二個）者，該題以零分計算。"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1889,12 +2324,22 @@
         "text": "乙拒絕承認時，甲對於丙應負無過失之損害賠償責任"
       }
     ],
+    "answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
     "correct_choice_ids": [
       "c1",
       "c2",
       "c4",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1926,11 +2371,20 @@
         "text": "乙女之夫仍得向甲男請求賠償精神上損害"
       }
     ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
     "correct_choice_ids": [
       "c2",
       "c3",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1962,11 +2416,20 @@
         "text": "過年收受子女所給的紅包"
       }
     ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
     "correct_choice_ids": [
       "c1",
       "c3",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1998,10 +2461,18 @@
         "text": "同時履行抗辯權"
       }
     ],
+    "answer": [
+      "B",
+      "C"
+    ],
     "correct_choice_ids": [
       "c2",
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2033,10 +2504,18 @@
         "text": "若甲僅將 50 萬元債權讓與丁，則甲、丁應屬同次序之抵押權人"
       }
     ],
+    "answer": [
+      "D",
+      "E"
+    ],
     "correct_choice_ids": [
       "c4",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2068,11 +2547,20 @@
         "text": "甲與乙訂立互易契約，將其所有之土地與乙所有之房屋互易，經由公證人作成公證書"
       }
     ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
     "correct_choice_ids": [
       "c2",
       "c3",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2104,10 +2592,18 @@
         "text": "16 歲之甲男於養父母死亡後，向法院聲請許可終止收養關係"
       }
     ],
+    "answer": [
+      "A",
+      "D"
+    ],
     "correct_choice_ids": [
       "c1",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2139,11 +2635,20 @@
         "text": "繼承開始前預為繼承之拋棄，應屬無效"
       }
     ],
+    "answer": [
+      "B",
+      "D",
+      "E"
+    ],
     "correct_choice_ids": [
       "c2",
       "c4",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2175,11 +2680,20 @@
         "text": "倘乙於言詞辯論期日僅辯稱：系爭價金給付請求權已於 102 年 4 月 5 日罹於短期時效而消滅云云， 對此甲則表示：乙曾於 102 年 3 月 20 日表示承認本件貨款債務，本件請求權應未罹於時效云云， 則甲就乙曾於 102 年 3 月 20 日承認本件貨款債務之事實，應負舉證之責"
       }
     ],
+    "answer": [
+      "B",
+      "C",
+      "E"
+    ],
     "correct_choice_ids": [
       "c2",
       "c3",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2211,10 +2725,18 @@
         "text": "第二審法院為甲全部敗訴之判決，甲須經第二審法院依法許可後，始得提起第三審上訴"
       }
     ],
+    "answer": [
+      "C",
+      "E"
+    ],
     "correct_choice_ids": [
       "c3",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2246,10 +2768,18 @@
         "text": "准許假扣押之裁定，經抗告法院廢棄而駁回假扣押之聲請時，已實施之假扣押執行程序失其效力"
       }
     ],
+    "answer": [
+      "B",
+      "D"
+    ],
     "correct_choice_ids": [
       "c2",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2281,10 +2811,18 @@
         "text": "於甲、乙間離婚請求事件，有關離婚事由該當事實之存否，兩造得約定就乙是否有與丁於某日夜宿某汽車旅館之事實不為爭執"
       }
     ],
+    "answer": [
+      "D",
+      "E"
+    ],
     "correct_choice_ids": [
       "c4",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

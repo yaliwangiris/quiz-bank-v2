@@ -24,9 +24,16 @@
         "text": "領土之範圍"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "國家對於身心障礙者，應予保障，並扶助其自立與發展"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "強制隔離雖與刑事處罰之本質不同，仍應踐行相同程序保障"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -95,7 +116,7 @@
     "subject_code": "2301",
     "question_no": 4,
     "question_type": "single",
-    "stem": "依司法院釋字第  558  號解釋意旨，中華民國國民具備下列何項要件者，不得禁止入境？",
+    "stem": "依司法院釋字第 558 號解釋意旨，中華民國國民具備下列何項要件者，不得禁止入境？",
     "choices": [
       {
         "choice_id": "c1",
@@ -114,9 +135,16 @@
         "text": "在臺灣地區設有住所而有戶籍"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "商業言論所提供之訊息，內容非虛偽不實或不致產生誤導作用，以合法交易為目的而有助於消費大眾作出經濟上之合理抉擇者，應受言論自由之保障"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -155,7 +190,7 @@
     "subject_code": "2301",
     "question_no": 6,
     "question_type": "single",
-    "stem": "依司法院釋字第  748  號解釋，同性婚姻應受何種憲法權利之保障？",
+    "stem": "依司法院釋字第 748 號解釋，同性婚姻應受何種憲法權利之保障？",
     "choices": [
       {
         "choice_id": "c1",
@@ -174,9 +209,16 @@
         "text": "平等權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -204,9 +246,16 @@
         "text": "立法委員戊兼任地方自治團體行政職務"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -234,9 +283,16 @@
         "text": "區長選舉"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -245,7 +301,7 @@
     "subject_code": "2301",
     "question_no": 9,
     "question_type": "single",
-    "stem": "依憲法及司法院大法官解釋，下列何者並非憲法第  22  條所保障之非明文權利？",
+    "stem": "依憲法及司法院大法官解釋，下列何者並非憲法第 22 條所保障之非明文權利？",
     "choices": [
       {
         "choice_id": "c1",
@@ -264,9 +320,16 @@
         "text": "一般行為自由"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -294,9 +357,16 @@
         "text": "平等權"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -324,9 +394,16 @@
         "text": "比例原則"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -354,9 +431,16 @@
         "text": "得僅以書面回覆檢察官之訊問"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -384,9 +468,16 @@
         "text": "由總統提請行政院院長任命之"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -414,9 +505,16 @@
         "text": "立法院通過對行政院院長提出之不信任案時，行政院院長即得逕行解散立法院"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -444,9 +542,16 @@
         "text": "監察委員 3 人以上之提議，全體委員三分之一以上之審查及決定"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -474,9 +579,16 @@
         "text": "法院院長及各庭庭長之職位均屬憲法第 81 條之身分保障對象"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -504,9 +616,16 @@
         "text": "立法院"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -534,9 +653,16 @@
         "text": "法官聲請解釋判例違憲"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -564,9 +690,16 @@
         "text": "縣有立法權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -594,9 +727,16 @@
         "text": "行政院得依據職權函告該自治條例無效"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -624,9 +764,16 @@
         "text": "中央三級行政機關之設立，應有法律之依據"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -654,9 +801,16 @@
         "text": "受刑人丁不服監獄對其所為之禁止通訊處分，得循序提起行政訴訟"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -684,9 +838,16 @@
         "text": "基隆關稅局核發稅單，命義務人繳納"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -714,9 +875,16 @@
         "text": "請求權不因原權利人死亡而當然消滅"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -744,9 +912,16 @@
         "text": "新北市政府採購申訴審議委員會"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -774,9 +949,16 @@
         "text": "人民對改制後行政法人之行政處分不服者，得向改制前之行政機關提起訴願"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -804,9 +986,16 @@
         "text": "原管轄權之機關除依行政程序法第 18 條規定喪失管轄權外，不因其將權限之一部委任其他機關辦理，而喪失管轄權"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -834,9 +1023,16 @@
         "text": "地方自治團體辦理自治事項，自治權受上級監督機關侵害時，得提起行政訴訟"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -864,9 +1060,16 @@
         "text": "不適用公務人員任用法"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -894,9 +1097,16 @@
         "text": "行政規則"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -924,9 +1134,16 @@
         "text": "裁量基準以登載於政府公報之方式發布之，毋須下達下級機關或屬官"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -954,9 +1171,16 @@
         "text": "依 A 函釋所為之行政處分已確定者，於 B 函釋生效後，除 A 函釋確有違法之情形外，該處分之效力不受影響"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -965,7 +1189,7 @@
     "subject_code": "2301",
     "question_no": 33,
     "question_type": "single",
-    "stem": "關於行政機關依行政程序法第  117  條以下規定撤銷行政處分之敘述，下列何者正確？",
+    "stem": "關於行政機關依行政程序法第 117 條以下規定撤銷行政處分之敘述，下列何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -984,9 +1208,16 @@
         "text": "行政處分經行政法院確定判決者，行政機關不得撤銷，係為確保行政處分之存續力"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1014,9 +1245,16 @@
         "text": "裁量處分與羈束處分均得附解除條件"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1044,9 +1282,16 @@
         "text": "行政處分之作成有裁量權者，附加附款時應符合比例原則"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1074,9 +1319,16 @@
         "text": "行政機關以書面確認交通違規人應繳納之罰鍰數額，並限期給付之"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1104,9 +1356,16 @@
         "text": "甲得以主管教育行政機關為被告，對該核准處分提起行政爭訟"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1134,9 +1393,16 @@
         "text": "違反強制或禁止規定，情節重大"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1164,9 +1430,16 @@
         "text": "行政處分之廢止"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1194,9 +1467,16 @@
         "text": "3 則廣告應以 3 次行為認定，且 A、B、C 三報故意共同實施違反行政法上義務之行為，與甲公司分別處罰之"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1224,9 +1504,16 @@
         "text": "裁處拘留"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1254,9 +1541,16 @@
         "text": "法規命令"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1284,9 +1578,16 @@
         "text": "行政訴訟法"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1314,9 +1615,16 @@
         "text": "主管機關依法要求人民接受疫苗注射"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1344,9 +1652,16 @@
         "text": "行政機關作成經聽證之行政處分時，得以書面、言詞或其他方式為之"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1374,9 +1689,16 @@
         "text": "可以，且得對乙之拒絕提供相關資料直接提起訴願、行政訴訟"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1404,9 +1726,16 @@
         "text": "公務人員不服年終考績丙等所提起之復審程序"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1434,9 +1763,16 @@
         "text": "甲得分別就行政處分 A、B 二部分表示不服，以乙為被告提起行政訴訟"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1464,9 +1800,16 @@
         "text": "向行政法院逕行提起訴訟"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1494,9 +1837,16 @@
         "text": "對行政機關處以怠金"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1524,9 +1874,16 @@
         "text": "請原告撤回起訴後，再以正確之被告機關起訴"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1554,9 +1911,16 @@
         "text": "於審理課予義務訴訟事件時，審酌請求權是否罹於時效"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1584,9 +1948,16 @@
         "text": "行政法院在對於原告不利益之範圍內，不得依職權調查證據"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1614,9 +1985,16 @@
         "text": "行政處分已執行完畢者，即不得提起確認行政處分為違法之訴訟"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1644,9 +2022,16 @@
         "text": "賠償義務機關業經改組，仍由改組前之機關為賠償義務機關"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1655,7 +2040,7 @@
     "subject_code": "2301",
     "question_no": 56,
     "question_type": "single",
-    "stem": "以下何者屬於國際社會所公認絕對不許損抑之國際「強行法（jus   cogens）」？",
+    "stem": "以下何者屬於國際社會所公認絕對不許損抑之國際「強行法（jus cogens）」？",
     "choices": [
       {
         "choice_id": "c1",
@@ -1674,9 +2059,16 @@
         "text": "禁止侵略原則"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1704,9 +2096,16 @@
         "text": "聯合國安全理事會（United Nations Security Council）"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1734,9 +2133,16 @@
         "text": "調解（conciliation）"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1764,9 +2170,16 @@
         "text": "國家派駐國際組織之代表，為議定在該組織內議定之條約，得毋須出具全權證書"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1794,9 +2207,16 @@
         "text": "文明國家所承認的法律一般原則"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1824,9 +2244,16 @@
         "text": "條約得直接課以個人違犯國際犯罪行為的刑事責任"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1854,9 +2281,16 @@
         "text": "國家有取得系爭領土主權之主觀意思"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1884,9 +2318,16 @@
         "text": "乙國大使館享有不可侵犯權，故甲國不得進入乙國大使館逮捕 A"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1914,9 +2355,16 @@
         "text": "有關政治庇護之規定已屬習慣國際法"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1925,7 +2373,7 @@
     "subject_code": "2301",
     "question_no": 65,
     "question_type": "single",
-    "stem": "依據羅馬規約（Rome   Statute）及國際刑事法院裁判實務，關於戰爭罪，下列敘述何者錯誤？",
+    "stem": "依據羅馬規約（Rome Statute）及國際刑事法院裁判實務，關於戰爭罪，下列敘述何者錯誤？",
     "choices": [
       {
         "choice_id": "c1",
@@ -1944,9 +2392,16 @@
         "text": "懲罰範圍包括違反 1949 年日內瓦公約之行為"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1974,9 +2429,16 @@
         "text": "應適用甲、乙之本國法，即沙烏地阿拉伯法律，甲、乙之婚姻有效，但甲、乙婚姻有效之結果違背我國善良風俗，故不適用沙烏地阿拉伯法律"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2004,9 +2466,16 @@
         "text": "依當事人之居所地法定其應適用之法律"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2034,9 +2503,16 @@
         "text": "僱傭契約、買賣契約均適用 A 國法"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2064,9 +2540,16 @@
         "text": "此一事件，關於死亡宣告之效力，僅得依失蹤人之本國法"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2094,9 +2577,16 @@
         "text": "得依我國法、A 國法或 B 國法"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2124,9 +2614,16 @@
         "text": "選擇適用日本法或香港法"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2154,9 +2651,16 @@
         "text": "依涉外民事法律適用法第 10 條第 1 項規定：人之行為能力，依其本國法。所謂本國法專指訴訟時之本國法"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2184,9 +2688,16 @@
         "text": "如果認為可適用不便利法庭原則，法官即駁回原告之訴"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2214,9 +2725,16 @@
         "text": "依其婚姻效力的準據法"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2244,9 +2762,16 @@
         "text": "甲公司所製造之行動電話未於我國銷售，故縱使乙主張以我國法為準據法，我國法院仍不得以我國法決定甲公司對乙之損害賠償"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

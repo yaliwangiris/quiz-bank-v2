@@ -24,9 +24,16 @@
         "text": "司法院釋字第630號解釋準強盜罪之強暴、脅迫，達於使人難以抗拒之程度"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "性侵害犯罪防治法第22條之1第1項規定，對刑法第91條之1規定修正施行前曾犯性侵害犯罪之加害人施以強制治療，違反法律不溯及既往原則"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "中華民國國民甲於印度洋海域犯海盜罪"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -114,9 +135,16 @@
         "text": "修正後刑法第185條之3第2項係屬修正前刑法第185條之3及刑法第276條第1項規定之體例 調整與文義修正，無關有利或不利於行為人，非屬法律變更，無新舊法比較適用之問題，應適用裁判時法"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "丁依速限駕車直行至有號誌之交岔路口時，見號誌為綠燈，乃注意兩側是否有來車後繼續依速限直行，卻撞上從慢車道超速駛出、違規左轉之機車騎士"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -174,9 +209,16 @@
         "text": "不純正不作為犯之成立，僅限於既遂犯"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -204,9 +246,16 @@
         "text": "甲之行為係誤想避難，仍可阻卻違法，不成立犯罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -234,9 +283,16 @@
         "text": "甲偷拿其父乙的錢去花用，乙知悉後大發雷霆，憤怒之餘持籐條將甲打得遍體鱗傷"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -264,9 +320,16 @@
         "text": "以100萬元存定存，而賺得利息1萬元，利息為犯罪所生之物，應予宣告沒收"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -294,9 +357,16 @@
         "text": "甲對A之死亡，構成故意毀損一般財物罪"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -324,9 +394,16 @@
         "text": "殺人既遂罪與損壞屍體罪為兩個行為分別實現之罪名，係針對同一行為客體不同階段之攻擊行為，應依法條競合之法理，僅成立殺人既遂罪"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -354,9 +431,16 @@
         "text": "甲、A間屬民事糾葛，甲不構成刑事犯罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -384,9 +468,16 @@
         "text": "員警身穿便服混入賭場中，以行蒐證。正當其蒐證完畢欲逮捕賭場負責人A而大喊「通通不要動」時，A誤認員警為其仇家，乃以強暴之方式，出拳毆傷員警"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -414,9 +505,16 @@
         "text": "A平日即與某B員警不睦。一日，A路過B執勤中的派出所，見B因執行便衣任務而將警察制服掛於牆上，遂趁B不注意，割破該警察制服"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -444,9 +542,16 @@
         "text": "A為使友人B當選里長，而虛偽遷徙戶籍取得投票權，並予投票。然因B得票數過少並未當選，則A僅成立刑法第146條第2項、第3項之未遂犯而非既遂犯"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -474,9 +579,16 @@
         "text": "乙不成立湮滅刑事證據罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -504,9 +616,16 @@
         "text": "本罪所謂虛偽之陳述，依實務見解係指與案件之真正事實相悖，而足以陷偵審於錯誤之危險者而言"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -534,9 +653,16 @@
         "text": "放火燒燬路邊日常經營業務所用之簡易搭設、可移置的檳榔攤，成立刑法第173條第1項之罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -564,9 +690,16 @@
         "text": "甲跳機逃離的行為，應論以不作為過失致死罪、不作為過失致重傷罪、不作為過失傷害罪，數罪併罰"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -594,9 +727,16 @@
         "text": "甲駕駛自用小客車，經警攔查，其吐氣酒精濃度達每公升0.4毫克，雖甲酒量甚佳，駕駛毫無異狀，且未發生事故，仍會構成本條之不能安全駕駛罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -624,9 +764,16 @@
         "text": "買家A如持該偽造之契約向銀行取得較高額之貸款，另可能成立詐欺罪"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -654,9 +801,16 @@
         "text": "甲、乙成立加重強制性交罪之共同正犯"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -684,9 +838,16 @@
         "text": "甲強拉女子上車，非強制性交行為的著手，應成立刑法第302條妨害自由罪；強灌女子烈酒，才是強制性交行為的著手，且以酒類犯之，應成立刑法第222條加重強制性交罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -714,9 +875,16 @@
         "text": "醫學院教授丁為了教學目的，在醫學院課堂上展示男女性器官之照片"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -744,9 +912,16 @@
         "text": "和誘與略誘之成立，係以脫離監督權人而置於行為人實力支配下為要件"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -774,9 +949,16 @@
         "text": "甲、丙共同施強暴於乙而未成傷時，甲、丙成立刑法第281條施暴行於直系血親尊親屬罪之共同正犯"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -804,9 +986,16 @@
         "text": "前者對行為主體並未要求特定之保護義務來源，後者則限於保護義務須來自法令或契約"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -834,9 +1023,16 @@
         "text": "甲要求乙下跪或揚言打人，都不成立犯罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -864,9 +1060,16 @@
         "text": "丁散布消息，稱「某公司債台高築」，但公司非自然人，故丁不成立妨害信用罪"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -894,9 +1097,16 @@
         "text": "醫師丁於某大學兼課，於課堂後得知有修課學生與社會人士發生性關係，乃通知該生導師，丁應成立本罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -924,9 +1134,16 @@
         "text": "大學生甲在下雨天至校外買早餐，為免冒雨，於經過上課中教室時，取走教室外傘桶內雨傘1把，再於10分鐘內買完早餐將雨傘放回原傘桶"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -954,9 +1171,16 @@
         "text": "甲在飛機內竊取隔壁乘客乙之護照"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -984,9 +1208,16 @@
         "text": "甲以尖刀抵住計程車司機乙的脖子，要求乙無償載甲回家，乙從之，甲構成刑法第328條第2項強盜得利罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1014,12 +1245,16 @@
         "text": "甲強擄乙至深山中拘禁，並撥打電話請乙之家人攜1000萬元前來贖人，惟於未取得贖款前，即心生憐憫，自主決定釋放乙，令乙離去，僅構成刑法第347條擄人勒贖罪之中止未遂"
       }
     ],
-    "correct_choice_ids": [
-      "c2"
+    "answer": [
+      "ALL"
     ],
+    "correct_choice_ids": [],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": [],
-    "disputed": true,
-    "answer_note": "本題於 110 年律師考試中，考選部公告一律給分。"
+    "answer_note": "一律給分"
   },
   {
     "question_id": "110-1301-035",
@@ -1046,9 +1281,16 @@
         "text": "甲在乙之個人臉書網頁連續留言100則，甲構成刑法第360條干擾電腦罪"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1076,9 +1318,16 @@
         "text": "第三審法官戊撤銷第二審判決，發回更審，又因遷調為第二審審判長，再參與該案件在第二審更審之審判"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1106,9 +1355,16 @@
         "text": "不問有利或不利於甲之證據，法院如未依職權調查，即有應於審判期日調查之證據而未予調查之違法"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1136,9 +1392,16 @@
         "text": "不可以，因法院尚未決定羈押"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1166,9 +1429,16 @@
         "text": "有辯護人之被告經法院許可者，被告得在確保卷宗及證物安全之前提下檢閱之"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1196,9 +1466,16 @@
         "text": "附帶搜索的範圍僅限於甲正在使用之車輛，甲若有其他車輛則不在搜索範圍內"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1226,9 +1503,16 @@
         "text": "雖無緊急情況，甲以電話報請檢察官同意後，即可打開手機查看其內之訊息、通話紀錄"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1256,9 +1540,16 @@
         "text": "無令狀搜索僅限於受搜索人同意，方得實施"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1286,9 +1577,16 @@
         "text": "司法警察搜索合法，因就客觀情形已可合理相信有人在內犯罪而情形急迫"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1316,9 +1614,16 @@
         "text": "被告如果符合命具保之法定事由者，依法亦得命限制出境、出海"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1346,9 +1651,16 @@
         "text": "司法警察官認有為扣押之必要時，亦得向法院聲請，但必須事先報請檢察官許可"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1376,9 +1688,16 @@
         "text": "檢察官構成詐欺取得自白，法院應依刑事訴訟法第156條第1項認無證據能力"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1406,9 +1725,16 @@
         "text": "執行監聽機關自始偽以有「本案監聽」之罪名而聲請核發通訊監察書，於監聽過程中發現「另案」證據者，該另案監聽自始不符正當法律程序，應予絕對排除其證據能力"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1436,9 +1762,16 @@
         "text": "被告提出時有證據能力，檢察官提出則無證據能力"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1466,9 +1799,16 @@
         "text": "被害人警詢筆錄不得作為有罪唯一證據"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1496,9 +1836,16 @@
         "text": "共同被告本質上為證人，得為程序分離，並依人證之方式為調查"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1526,9 +1873,16 @@
         "text": "檢察官應交由其他警局協助採集"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1556,9 +1910,16 @@
         "text": "法院應先依刑法第2條第1項規定為新舊法比較，再依刑事訴訟法第300條規定變更起訴法條，並判決免刑"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1586,9 +1947,16 @@
         "text": "審判期日之指定"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1616,9 +1984,16 @@
         "text": "被告如因疾病不能到庭，且顯有應諭知無罪之情形時，仍得進行審判程序"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1646,9 +2021,16 @@
         "text": "簡式審判程序因被告為有罪陳述，所以可簡化調查證據程序，但為保障被告訴訟上權利，法院仍應行合議審判以求慎重"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1676,9 +2058,16 @@
         "text": "二審依上訴審程序為第一審判決，駁回上訴"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1706,9 +2095,16 @@
         "text": "法院得依職權裁定命第三人參與沒收程序，並諭知沒收"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1736,9 +2132,16 @@
         "text": "關於自白任意性之調查，屬於訴訟法上之事實，以自由證明為已足"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1766,9 +2169,16 @@
         "text": "僅能審理偽造有價證券罪嫌部分；但檢察官於第三審判決前倘有爭執，則例外及於行使偽造私文書罪嫌部分"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1796,9 +2206,16 @@
         "text": "甲得向高等法院聲明疑義"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1826,9 +2243,16 @@
         "text": "丁法官公開在社群網站上貼文，敘述自己審理某個案的當事人姓名與細節，並引為笑談"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1856,9 +2280,16 @@
         "text": "丁法官於獨任審判時，發現旁聽席中被告之母親正用手機錄影開庭情形，經制止後不從，遂禁止其旁聽"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1886,9 +2317,16 @@
         "text": "法官購屋時表明其職位身分，請賣方給與特別的折扣優惠"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1916,9 +2354,16 @@
         "text": "法官於任職期間不得為任何政治團體募款"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1946,9 +2391,16 @@
         "text": "職務上一切行為，如易被認為不當者，法官即應避免為之，以彰顯法官之素質優良，判斷無失，具備足以勝任審判職務之卓越能力。至於職務外之活動，因與法官職務之執行無關，毋須苛求"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1976,9 +2428,16 @@
         "text": "法官、檢察官與律師，在執行職務上，常有相互制衡、利害衝突的迴避事項，故為免發生法律倫理衝突，法官、檢察官、律師，私下不宜交往或成為男、女朋友"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2006,9 +2465,16 @@
         "text": "乙律師深夜接受當事人委任為辯護人，因時間急迫，在甲檢察官同意外出迴避後，請當事人至其與甲檢察官居住之檢察官職務宿舍內商討案情"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2036,9 +2502,16 @@
         "text": "如甲現在所承辦案件無與乙律師所承辦案件相關者，甲和乙可以共同主辦大學同學會"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2066,9 +2539,16 @@
         "text": "甲固然不必主動告知A其有無承辦類似案件之經驗，但其接任後，如努力精研此方面之法令及實務，即不違反律師倫理規範"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2096,9 +2576,16 @@
         "text": "兼任法官評鑑委員會委員"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2126,9 +2613,16 @@
         "text": "因為和當事人名譽有關係，所以不可以，只有和當事人名譽無關的秘密才可以洩漏"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2156,9 +2650,16 @@
         "text": "甲律師已經暗示其有不當影響司法的能力，即使實際上未影響司法，亦已違反律師倫理規範"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2186,9 +2687,16 @@
         "text": "甲律師僅可以收取A代付B的律師費用，但不可以進一步和A另外約定收受後酬"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2216,9 +2724,16 @@
         "text": "在法院閱卷之後，到看守所對刑事案件當事人告知卷宗筆錄內容，使當事人得知悉卷證之內容"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2246,9 +2761,16 @@
         "text": "如果甲律師與乙律師熟識，則可以提供；如果是第一次合作，彼此沒有信賴關係則可以不必提供"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

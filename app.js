@@ -542,9 +542,10 @@ function handleAnswer(selectedIds) {
   const correctIds = q.correct_choice_ids || [];
 
   // Grade
-  const isCorrect =
+  const answeredCorrectly =
     selectedIds.length === correctIds.length &&
     selectedIds.every(id => correctIds.includes(id));
+  const isCorrect = answeredCorrectly || !!q.disputed;
 
   if (isCorrect) state.score++;
 
@@ -583,8 +584,16 @@ function handleAnswer(selectedIds) {
     ? `<div class="disputed-notice">${escapeHtml(q.answer_note || '本題在當年考試中為送分題。')}</div>`
     : '';
 
-  if (isCorrect) {
+  if (answeredCorrectly) {
     feedbackEl.innerHTML = '<div class="feedback-correct">正確！</div>' + disputedHtml;
+    launchConfetti();
+  } else if (q.disputed) {
+    const explanation = correctIds.length > 0
+      ? `原公布答案為 ${correctLabels.join(', ')}，但本題一律給分。`
+      : '';
+    feedbackEl.innerHTML = `<div class="feedback-correct">一律給分！</div>` +
+      (explanation ? `<div class="explanation-box"><p>${escapeHtml(explanation)}</p></div>` : '') +
+      disputedHtml;
     launchConfetti();
   } else {
     const explanation = q.explanation ||

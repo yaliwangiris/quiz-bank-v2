@@ -24,9 +24,16 @@
         "text": "除公開發行股票公司外，其他公司均得將資金貸與任何人"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "有限公司須經股東表決權三分之二以上之同意，始得變更其組織為股份有限公司"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "X公司第一次發行股份總數為300萬股，甲、乙、丙三人並未實際繳納股款而以申請文件表明收足者，僅會受到行政罰鍰之處罰"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -114,9 +135,16 @@
         "text": "不得為非同類業務事業之無限責任股東"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "股東丁以書面或電子方式行使表決權時，其意思表示有重複時，以最先送達者為準"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -155,7 +190,7 @@
     "subject_code": "4301",
     "question_no": 6,
     "question_type": "single",
-    "stem": "A有限公司有股東甲、乙、丙三人，甲、乙為公司之董事，且甲為董事長。今甲個人有一間商業辦公空間，欲出租給A公司作為營業處所，該租賃契約應由何人代表A公司與甲簽訂契約？又A公司之  董事乙可否單方面無故辭去其董事一職？",
+    "stem": "A有限公司有股東甲、乙、丙三人，甲、乙為公司之董事，且甲為董事長。今甲個人有一間商業辦公空間，欲出租給A公司作為營業處所，該租賃契約應由何人代表A公司與甲簽訂契約？又A公司之 董事乙可否單方面無故辭去其董事一職？",
     "choices": [
       {
         "choice_id": "c1",
@@ -174,9 +209,16 @@
         "text": "該租賃契約應由丙代表A公司簽訂；又乙不得無故辭去董事職務"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -185,7 +227,7 @@
     "subject_code": "4301",
     "question_no": 7,
     "question_type": "single",
-    "stem": "A股份有限公司係一實收資本額新臺幣（以下同）2000萬元之非公開發行公司，該公司持有另一家實收資本額1000萬元之B股份有限公司百分之九十二的股權。今A、B兩家公司擬以吸收合併方式進\n行合併，並以A公司為存續公司。依公司法之規定，下列敘述何者正確？",
+    "stem": "A股份有限公司係一實收資本額新臺幣（以下同）2000萬元之非公開發行公司，該公司持有另一家實收資本額1000萬元之B股份有限公司百分之九十二的股權。今A、B兩家公司擬以吸收合併方式進 行合併，並以A公司為存續公司。依公司法之規定，下列敘述何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -201,16 +243,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "A、B兩家公司合併後，B公司為消滅公司，B公司依法應進行清算 8非公開發行股票且非閉鎖性之A股份有限公司，欲私募轉換公司債，須經何種程序？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "僅須經董事會普通決議"
+        "text": "A、B兩家公司合併後，B公司為消滅公司，B公司依法應進行清算"
       }
+    ],
+    "answer": [
+      "B"
     ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -238,9 +283,16 @@
         "text": "經董事會特別決議，並經股東會普通決議"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -268,9 +320,16 @@
         "text": "X公司擬發行無表決權特別股，並禁止該特別股股東出席股東會"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -298,9 +357,16 @@
         "text": "A、B公司均可發行限制員工權利新股給甲"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -325,16 +391,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "監察人丁如認為戊與Z不適任，丁得自行召集股東會，以股東會決議方式解任戊與Z之職務 12甲、乙、丙3人均為A股份有限公司（下稱A公司）監察人，下列敘述，何者錯誤？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "對於通常監察事務之執行，甲、乙、丙各可單獨為之"
+        "text": "監察人丁如認為戊與Z不適任，丁得自行召集股東會，以股東會決議方式解任戊與Z之職務"
       }
+    ],
+    "answer": [
+      "D"
     ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -362,9 +431,16 @@
         "text": "甲、乙、丙任期最長為3年，但得連選連任"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -392,9 +468,16 @@
         "text": "甲無須認股出資"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -422,9 +505,16 @@
         "text": "無上限"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -433,7 +523,7 @@
     "subject_code": "4301",
     "question_no": 15,
     "question_type": "single",
-    "stem": "X股份有限公司（下稱X公司）與Y股份有限公司（下稱Y公司）為控制與從屬公司。Y公司為調度資金，除向X公司借貸新臺幣（以下同）1億元並以名下土地設定抵押權作為擔保外，另向Z銀行借貸2億元。嗣後，X公司利用其對Y公司之支配力，促使Y公司從事不合營業常規之交易行  為，導致Y公司受有5千萬元之損害，不僅如此，Y公司事業經營均徹底失敗而瀕臨破產。下列敘述，何者錯誤？",
+    "stem": "X股份有限公司（下稱X公司）與Y股份有限公司（下稱Y公司）為控制與從屬公司。Y公司為調度資金，除向X公司借貸新臺幣（以下同）1億元並以名下土地設定抵押權作為擔保外，另向Z銀行借貸2億元。嗣後，X公司利用其對Y公司之支配力，促使Y公司從事不合營業常規之交易行 為，導致Y公司受有5千萬元之損害，不僅如此，Y公司事業經營均徹底失敗而瀕臨破產。下列敘述，何者錯誤？",
     "choices": [
       {
         "choice_id": "c1",
@@ -449,16 +539,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "X公司若未對Y公司賠償5千萬元，繼續六個月以上持有Y公司股份之股東，得以自己名義，請求X公司對Y公司為給付 16甲經常在家中抽菸，其子乙恐甲不慎釀成火災，遂以甲之房屋為標的物投保火災保險。下列關於保險契約效力之敘述，何者正確？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "有效"
+        "text": "X公司若未對Y公司賠償5千萬元，繼續六個月以上持有Y公司股份之股東，得以自己名義，請求X公司對Y公司為給付"
       }
+    ],
+    "answer": [
+      "D"
     ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -486,9 +579,16 @@
         "text": "得撤銷"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -516,9 +616,16 @@
         "text": "甲得依投保比例請求償還所支出之避免損害必要費用"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -546,9 +653,16 @@
         "text": "除得解除契約外，並得請求損害賠償"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -576,9 +690,16 @@
         "text": "與保險契約有關之一切事項，不問過去現在或未來，均得以特約條款約定之"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -606,9 +727,16 @@
         "text": "依一般保險實務，罹患高血壓症為人壽保險之重要詢問事項，A保險公司應得解除契約，拒絕給付"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -636,9 +764,16 @@
         "text": "待修汽車5部及員工自有汽車3部均無須理賠"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -666,9 +801,16 @@
         "text": "自契約訂立兩年後，甲精神疾病再度復發，保險人亦不得解除契約"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -696,9 +838,16 @@
         "text": "契約存續期間，受益人之變更應經被保險人書面承認"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -726,9 +875,16 @@
         "text": "終止契約"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -756,9 +912,16 @@
         "text": "萬分之一"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -786,9 +949,16 @@
         "text": "戊為無償取得票據，因而不能向背書人乙主張追索權，而只得向發票人請求"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -816,9 +986,16 @@
         "text": "此票據未經乙背書，故票據背書不連續，丁無法主張善意取得"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -846,9 +1023,16 @@
         "text": "該本票因欠缺應記載事項，故甲、乙均得對丙主張票據無效"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -876,9 +1060,16 @@
         "text": "乙之附記有效"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -906,9 +1097,16 @@
         "text": "未載保證年月日，故保證無效"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -936,9 +1134,16 @@
         "text": "無被參加付款人"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -966,9 +1171,16 @@
         "text": "應予准許。本票執票人雖未遵期提示，但仍得依票據法第123條裁定後強制執行"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -996,9 +1208,16 @@
         "text": "甲及戊係真正蓋乙及丁印章之人，故甲及戊應負票據責任"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1023,16 +1242,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "C銀行違法對於B公司付款，可處最高110萬元之罰鍰 35甲簽發以A銀行為付款人之支票一紙交付予乙，支票上由A銀行記載保付字樣並蓋章，其後乙於票 載發票日屆至向A銀行提示不獲付款，有關乙行使票據權利之消滅時效期間，下列敘述，何者正確？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "乙對A付款請求權有效期間為一年"
+        "text": "C銀行違法對於B公司付款，可處最高110萬元之罰鍰"
       }
+    ],
+    "answer": [
+      "C"
     ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1060,9 +1282,16 @@
         "text": "乙對A追索權有效期間為三年"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1090,9 +1319,16 @@
         "text": "同年7月16日"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1117,16 +1353,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "A公司應設置薪資報酬委員會 38自然人甲與A公開發行公司（下稱A公司）均為B公開發行公司（下稱B公司）之股東。甲及A公司 均當選為B公司董事，A公司並指派自然人乙為其法人董事代表人，代表行使職務。下列何者所持有 B公司股票持股轉讓，不致因該身分關係而受到證券交易法第22條之2股權轉讓方式規定的限制？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "甲之妻"
+        "text": "A公司應設置薪資報酬委員會"
       }
+    ],
+    "answer": [
+      "C"
     ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1154,9 +1393,16 @@
         "text": "乙之妻"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1184,9 +1430,16 @@
         "text": "A公司若採公開收購，在公開收購期間未屆滿前，若應募股數已達百分之三十八，A公司即應提前停止公開收購"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1214,9 +1467,16 @@
         "text": "340萬零1"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1241,16 +1501,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "8萬股 42甲多年來持有A上市公司股票1萬股及B上櫃公司股票2萬股，因近日股市長紅，甲小有獲利，擬 將所持有之A、B二家公司股票全數直接賣給同事乙。如甲並非A、B二家公司之董事、監察人及經理人，亦非為此等人持股之人，就本件甲、乙間讓受A、B二家公司股票之行為，依證券交易法之規定，下列敘述何者正確？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "本件讓受A、B二家公司股票之行為均合法"
+        "text": "8萬股"
       }
+    ],
+    "answer": [
+      "B"
     ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1278,9 +1541,16 @@
         "text": "本件讓受A、B二家公司股票之行為均違法"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1308,9 +1578,16 @@
         "text": "A公司僅得於櫃檯買賣市場進行股份買回"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1338,9 +1615,16 @@
         "text": "承銷商丙"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1349,7 +1633,7 @@
     "subject_code": "4301",
     "question_no": 45,
     "question_type": "single",
-    "stem": "A上市公司董事長甲於2018年1月2日買進可轉換公司債10張（可轉換為普通股1萬股），當日普通股收盤價新臺幣（以下同）80元，同年2月2日賣出A公司認售權證1萬股，當日普通股收盤價 90元，3月2日賣出普通股股票10張，平均賣價每股100元，4月2日賣出普通股股票10張，平均\n賣價每股105元，本案依現行法令，在不加計股息、法定利息，及未扣除交易手續費、證券交易稅的前提下，甲應歸入A公司之利益為多少？",
+    "stem": "A上市公司董事長甲於2018年1月2日買進可轉換公司債10張（可轉換為普通股1萬股），當日普通股收盤價新臺幣（以下同）80元，同年2月2日賣出A公司認售權證1萬股，當日普通股收盤價 90元，3月2日賣出普通股股票10張，平均賣價每股100元，4月2日賣出普通股股票10張，平均 賣價每股105元，本案依現行法令，在不加計股息、法定利息，及未扣除交易手續費、證券交易稅的前提下，甲應歸入A公司之利益為多少？",
     "choices": [
       {
         "choice_id": "c1",
@@ -1365,16 +1649,19 @@
       },
       {
         "choice_id": "c4",
-        "text": "35萬元 46甲持命乙給付金錢之確定判決為執行名義，聲請執行法院查封乙所占用未辦理保存登記之A屋。下列敘述，何者錯誤？"
-      },
-      {
-        "choice_id": "c5",
-        "text": "如A屋係丙出資興建，則丙得對本件執行提起第三人異議之訴"
+        "text": "35萬元"
       }
+    ],
+    "answer": [
+      "D"
     ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1402,9 +1689,16 @@
         "text": "如A屋係丙出資興建，出售於乙，乙再出售於丁，則丁不得代位丙提起第三人異議之訴"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1432,9 +1726,16 @@
         "text": "執行法院仍應實施後案執行"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1462,9 +1763,16 @@
         "text": "執行法院未通知債權人、債務人於拍賣日到場，而拍賣程序已終結時，拍賣仍有效"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1492,9 +1800,16 @@
         "text": "丙如否認乙對其有薪資債權，得於接受扣押命令後10日內，向法院聲明異議"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1522,9 +1837,16 @@
         "text": "A屋經乙作為倉儲使用，自查封前即由乙之保全人員戊管理"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1552,9 +1874,16 @@
         "text": "執行法院之扣押命令效力僅及於扣押命令到達丙時已屆期之租金債權"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1582,9 +1911,16 @@
         "text": "B建物興建於上開確定判決最後事實審言詞辯論終結之後，執行法院應指示甲另行取得拆除B建物之執行名義，並在取得之前停止全部執行程序"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1612,9 +1948,16 @@
         "text": "執行法院將B屋拆除、點交A地予甲占有後，乙復即占有A地，甲得持原確定判決再聲請強制執行，惟應另行繳納執行費"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1642,9 +1985,16 @@
         "text": "如A地價值超過300萬元，執行法院應駁回甲之追加執行聲請"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1672,9 +2022,16 @@
         "text": "甲之前案執行停止，不得由後案執行受分配"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1683,7 +2040,7 @@
     "subject_code": "4301",
     "question_no": 56,
     "question_type": "single",
-    "stem": "While negligence law most often imposes liability on the basis of individual “fault,” the concept of   has held some people responsible for the injuries negligently caused by others.",
+    "stem": "While negligence law most often imposes liability on the basis of individual “fault,” the concept of has held some people responsible for the injuries negligently caused by others.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1702,9 +2059,16 @@
         "text": "joint and several liability"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1713,7 +2077,7 @@
     "subject_code": "4301",
     "question_no": 57,
     "question_type": "single",
-    "stem": "According to the Restatement (Second) of Torts, a public   is an unreasonable interference with a right common to the general public. For example, a conduct involves a significant interference with the public health or safety is considered as unreasonable.",
+    "stem": "According to the Restatement (Second) of Torts, a public is an unreasonable interference with a right common to the general public. For example, a conduct involves a significant interference with the public health or safety is considered as unreasonable.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1732,9 +2096,16 @@
         "text": "defamation"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1743,7 +2114,7 @@
     "subject_code": "4301",
     "question_no": 58,
     "question_type": "single",
-    "stem": "Peter sets fire to Mary’s house for the purpose to kill her. Peter knows that Mary’s son, Tom is home with Mary at that time. Peter does not want to harm Tom but he knows the fire is substantially certain to do so. Tom is injured in the fire. Peter is  .",
+    "stem": "Peter sets fire to Mary’s house for the purpose to kill her. Peter knows that Mary’s son, Tom is home with Mary at that time. Peter does not want to harm Tom but he knows the fire is substantially certain to do so. Tom is injured in the fire. Peter is .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1762,9 +2133,16 @@
         "text": "liable to Tom for nuisance"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1792,9 +2170,16 @@
         "text": "Force majeure"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1803,7 +2188,7 @@
     "subject_code": "4301",
     "question_no": 60,
     "question_type": "single",
-    "stem": "Under article 158 of Taiwan Civil Code, an offeree’s power of   is terminated at the time specified in the offer.",
+    "stem": "Under article 158 of Taiwan Civil Code, an offeree’s power of is terminated at the time specified in the offer.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1822,9 +2207,16 @@
         "text": "counter-offer"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1833,7 +2225,7 @@
     "subject_code": "4301",
     "question_no": 61,
     "question_type": "single",
-    "stem": "According to the Restatement (Second) of Torts,   is the maker who is not confident in the accuracy or knows he has no basis of his representation.",
+    "stem": "According to the Restatement (Second) of Torts, is the maker who is not confident in the accuracy or knows he has no basis of his representation.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1852,9 +2244,16 @@
         "text": "fraudulent misrepresentation"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1882,9 +2281,16 @@
         "text": "John worked as the head of a government agency that directly supervises ABC Inc.’s business activities. After retiring in late 2016, John joined ABC’s board as an independent director in spring 2017."
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1912,9 +2318,16 @@
         "text": "A shareholder needs to hold more than 1 percent of outstanding shares to file a shareholder derivative suit."
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1923,7 +2336,7 @@
     "subject_code": "4301",
     "question_no": 64,
     "question_type": "single",
-    "stem": "The right of   is supposed to guarantee the accused the right to know his or her accuser.",
+    "stem": "The right of is supposed to guarantee the accused the right to know his or her accuser.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1942,9 +2355,16 @@
         "text": "counsel"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1972,9 +2392,16 @@
         "text": "unreasonable"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2002,9 +2429,16 @@
         "text": "self-discipline"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2013,7 +2447,7 @@
     "subject_code": "4301",
     "question_no": 67,
     "question_type": "single",
-    "stem": "A   is an official restriction imposed upon speech or other forms of expression in advance of actual publication.",
+    "stem": "A is an official restriction imposed upon speech or other forms of expression in advance of actual publication.",
     "choices": [
       {
         "choice_id": "c1",
@@ -2032,9 +2466,16 @@
         "text": "prior restraint"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2043,7 +2484,7 @@
     "subject_code": "4301",
     "question_no": 68,
     "question_type": "single",
-    "stem": "In Palko v. Connecticut, the petitioner argued that the Fourteenth Amendment  , as against the States, the Fifth Amendment requirement that no person “be subject for the same offence to be twice put in jeopardy of life or limb.” The Court disagreed, holding that federal double jeopardy standards were not applicable against the States.",
+    "stem": "In Palko v. Connecticut, the petitioner argued that the Fourteenth Amendment , as against the States, the Fifth Amendment requirement that no person “be subject for the same offence to be twice put in jeopardy of life or limb.” The Court disagreed, holding that federal double jeopardy standards were not applicable against the States.",
     "choices": [
       {
         "choice_id": "c1",
@@ -2062,9 +2503,16 @@
         "text": "enumerated"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2092,9 +2540,16 @@
         "text": "Gender discrimination"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2122,9 +2577,16 @@
         "text": "fair and balanced doctrine"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

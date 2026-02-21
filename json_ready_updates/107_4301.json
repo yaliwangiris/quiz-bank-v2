@@ -24,9 +24,16 @@
         "text": "B 公司之請求權已逾消滅時效，甲可提出時效抗辯"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "章程中規定公司得設置經理人，且必須經法定程序委任"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "有罪判決確定後，若經主管機關限期補正，且乙已補正後，即可無須撤銷或廢止 X 公司登記"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -114,9 +135,16 @@
         "text": "無效，因要求 B 公司提供抵押擔保"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "本次投資需股東會決議，因總投資金額已達實收資本百分之四十"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -174,9 +209,16 @@
         "text": "股東會推選之非股東戊"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -204,9 +246,16 @@
         "text": "若股東會決議通過該議案，股東甲於決議前曾以書面通知公司反對該議案，並於股東會已為反對者，得請求公司以當時公平價格收買其所有股份"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -234,9 +283,16 @@
         "text": "自然人戊受乙及其他股東共計 5 人委託出席股東會，其代理之表決權不得超過已發行股份總數表決權之百分之三"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -264,9 +320,16 @@
         "text": "不能分派"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -294,9 +357,16 @@
         "text": "公司非於盈餘公積填補資本虧損，仍有不足時，不得以資本公積補充之"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -324,9 +394,16 @@
         "text": "①、②及③皆符合"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -354,9 +431,16 @@
         "text": "甲律師之報酬由公司現存財產中儘先給付"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -384,9 +468,16 @@
         "text": "因甲轉讓 10 萬股已超過 A 公司已發行股份總數十分之一，故董事當然解任"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -414,9 +505,16 @@
         "text": "受股東會決議之委託代表 A 公司向其董事提起民事訴訟"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -444,9 +542,16 @@
         "text": "公司規模逐漸成長，股東人數眾多，應向證券主管機關申請辦理公開發行程序"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -474,9 +579,16 @@
         "text": "我國司法實務見解認為再保險無保險代位之適用"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -504,9 +616,16 @@
         "text": "保險公證人公司"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -534,9 +653,16 @@
         "text": "財產保險契約之功能在填補損失"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -544,7 +670,7 @@
     "year": 107,
     "subject_code": "4301",
     "question_no": 19,
-    "question_type": "multiple",
+    "question_type": "single",
     "stem": "A 銀行與 B 保險公司訂立保險契約，約定銀行職員如有侵占公款，B 保險公司應予以理賠。甲任職於 A 銀行，乙為甲之人事保證人，今甲侵占公款百萬臺幣，B 保險公司賠付後，依保險法第 53 條向乙訴請給付該百萬臺幣。下列關於 B 保險公司對乙之請求，有無理由之敘述，何者正確？",
     "choices": [
       {
@@ -564,10 +690,18 @@
         "text": "有理由，因乙非保險法第 53 條第 2 項之「家屬」或「受僱人」"
       }
     ],
+    "answer": [
+      "B",
+      "C"
+    ],
     "correct_choice_ids": [
       "c2",
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -595,9 +729,16 @@
         "text": "甲對 A 公司提起賠償請求經判決確定後，即得直接向 B 保險公司請求給付保險金"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -625,9 +766,16 @@
         "text": "請求損害賠償"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -655,9 +803,16 @@
         "text": "超額承保部分無效"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -685,9 +840,16 @@
         "text": "乙如於 16 歲因意外傷害事故住院治療時，保險人負給付醫療保險金之責"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -715,9 +877,16 @@
         "text": "無理由，因僅投保時在妊娠中者，健康保險人始得拒賠，而甲罹癌非妊娠，亦非因生產住院"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -745,9 +914,16 @@
         "text": "保險業辦理保險金信託業務，除其他經主管機關核准之資金運用方式外，其資金運用範圍限於現金或銀行存款、公債或金融債券、短期票券及不動產"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -756,11 +932,35 @@
     "subject_code": "4301",
     "question_no": 26,
     "question_type": "single",
-    "stem": "甲簽發本票一紙與乙，其上記載到期日為民國 102 年 2 月 30 日，乙隨即背書轉讓丙，丙於同年 3 月",
-    "choices": [],
+    "stem": "甲簽發本票一紙與乙，其上記載到期日為民國 102 年 2 月 30 日，乙隨即背書轉讓丙，丙於同年 3 月 2 日提示未獲付款，丙乃訴請甲、乙連帶給付票款，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "本票到期日為曆法上不存在之日期，應將到期日解為發票日，丙之提示合法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "本票到期日為曆法上不存在之日期，應解為該月末日為到期日，丙之提示合法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因到期日必為可能之日期，曆法上不存在者，乃不可能提示與付款，該本票欠缺應記載事項應屬無效"
+      },
+      {
+        "choice_id": "c4",
+        "text": "曆法上所無之到期日，應解為該月末日為到期日，丙之提示逾期對乙喪失追索權"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -788,9 +988,16 @@
         "text": "乙為甲之使者或機關，於乙填載發票日完成後，票據應屬有效"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -818,9 +1025,16 @@
         "text": "新臺幣 0 元，因為該本票有瑕疵而無效"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -848,9 +1062,16 @@
         "text": "因甲為期後付款，故執票人乙不得拒絕"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -878,9 +1099,16 @@
         "text": "丙對戊有抗辯事由，因戊未遵期提示請求付款"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -908,9 +1136,16 @@
         "text": "執票人丙逾越付款之提示期間，但執票人丙對發票人甲之追索權時效期間為 3 年，對背書人之追 索權時效為 1 年，故丙對甲、乙均得行使追索權"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -938,9 +1173,16 @@
         "text": "此本票欠缺應記載事項，所以發票人甲得對丙主張發票行為無效，但背書人乙之背書仍有效，因為票據行為具有獨立性"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -968,9 +1210,16 @@
         "text": "甲、乙、丙、丁、戊"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -998,9 +1247,16 @@
         "text": "同年 3 月 25 日"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1028,9 +1284,16 @@
         "text": "A 銀行之付款責任與匯票承兌人同"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1058,9 +1321,16 @@
         "text": "A 公司登錄創櫃板後，即有證券交易法第 157 條之 1 內線交易禁止規定之適用"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1088,9 +1358,16 @@
         "text": "獨立董事於任期中轉讓超過選任當時所持有之公司股份數額二分之一時，該獨立董事當然解任"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1118,9 +1395,16 @@
         "text": "無效，因須先向主管機關申報，並於申報之日起 3 日後，方得於集中交易市場出售該等股票"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1148,9 +1432,16 @@
         "text": "A 公司證明 B 公司財務狀況發生重大變化並經主管機關核准後，即得停止公開收購"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1178,9 +1469,16 @@
         "text": "A 公司應於買回之日起 3 年內將買回之股份轉讓；逾期未轉讓者，視為公司未發行股份，並應辦理變更登記"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1208,9 +1506,16 @@
         "text": "A 公司應至少提撥發行新股總額之百分之十五對外公開發行"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1238,9 +1543,16 @@
         "text": "甲原本要買 A 公司股票，知悉該利空消息後就不買了"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1268,9 +1580,16 @@
         "text": "甲之損害賠償請求權，自其知有得受賠償之原因時起 1 年間不行使而消滅；自募集、發行或買賣 之日起逾 2 年者亦同"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1298,9 +1617,16 @@
         "text": "臺灣存託憑證"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1328,9 +1654,16 @@
         "text": "證券交易法第 155 條第 1 項第 3 款所定之相對委託"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1358,9 +1691,16 @@
         "text": "丙如提起異議之訴，執行法院為避免丙受損害無法回復，得依職權命丙供擔保後停止執行"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1388,9 +1728,16 @@
         "text": "臺中地院對甲取得之執行名義是否有效成立不得加以審查，應受士林地院囑託逕行實施強制執行"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1418,9 +1765,16 @@
         "text": "乙於 A 牛被查封後，將其出賣給丙，乙、丙間之買賣契約為無效"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1448,9 +1802,16 @@
         "text": "丁於開標前如未繳納保證金，應認其投標無效，不得補正"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1478,9 +1839,16 @@
         "text": "丁以丙之執行債權已罹於消滅時效，法院應將丙之受分配額剔除"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1508,9 +1876,16 @@
         "text": "甲就 A 屋之拍賣並無優先承買權"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1538,9 +1913,16 @@
         "text": "法院判決原物分割確定，甲所分得部分為丙占有時，甲得以該判決為執行名義，聲請執行法院排除丙之占有"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1568,9 +1950,16 @@
         "text": "如甲、乙任一方已攜丙出國，我國法院無法囑託外國法院代為執行"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1598,9 +1987,16 @@
         "text": "臺中地院應否准乙假處分之聲請"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1628,9 +2024,16 @@
         "text": "撤銷甲之假處分執行"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1639,7 +2042,7 @@
     "subject_code": "4301",
     "question_no": 56,
     "question_type": "single",
-    "stem": "In recent decades, in the U.S., cases involving many people injured by the same conduct, known as  , have become more important than before.",
+    "stem": "In recent decades, in the U.S., cases involving many people injured by the same conduct, known as , have become more important than before.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1658,9 +2061,16 @@
         "text": "mass spectrometry"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1688,9 +2098,16 @@
         "text": "A wrongdoer"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1699,7 +2116,7 @@
     "subject_code": "4301",
     "question_no": 58,
     "question_type": "single",
-    "stem": "Pursuant to Article 188 of R.O.C. Civil Code, Paragraph one, an employer shall be jointly and severally liable for any injury which the employee has wrongfully caused to the rights of another in the performance of his duties. In other words, an employer is   liable for the negligent acts by his employees.",
+    "stem": "Pursuant to Article 188 of R.O.C. Civil Code, Paragraph one, an employer shall be jointly and severally liable for any injury which the employee has wrongfully caused to the rights of another in the performance of his duties. In other words, an employer is liable for the negligent acts by his employees.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1718,9 +2135,16 @@
         "text": "vexatiously"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1729,7 +2153,7 @@
     "subject_code": "4301",
     "question_no": 59,
     "question_type": "single",
-    "stem": "Under R.O.C. Civil Code, if an offeree responds to an offer by making a  –in effect, proposes terms other than those contained in the original offer—the law treats that response as the legal equivalent of a rejection.",
+    "stem": "Under R.O.C. Civil Code, if an offeree responds to an offer by making a –in effect, proposes terms other than those contained in the original offer—the law treats that response as the legal equivalent of a rejection.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1748,9 +2172,16 @@
         "text": "counteroffer"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1778,9 +2209,16 @@
         "text": "Implied warranty of fitness for particular purpose"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1789,7 +2227,7 @@
     "subject_code": "4301",
     "question_no": 61,
     "question_type": "single",
-    "stem": "Generally, a contract operates to confer rights and impose duties only on the parties to the contract and no other parties. This contractual relationship is summed up in the term  .",
+    "stem": "Generally, a contract operates to confer rights and impose duties only on the parties to the contract and no other parties. This contractual relationship is summed up in the term .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1808,9 +2246,16 @@
         "text": "privity in possession"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1838,9 +2283,16 @@
         "text": "Encouraging investors to take due risk and enjoy economic growth"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1868,9 +2320,16 @@
         "text": "The corporate charter should stipulate a clear limitation on the free transferability of shares."
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1879,7 +2338,7 @@
     "subject_code": "4301",
     "question_no": 64,
     "question_type": "single",
-    "stem": "The right to have the assistance of counsel for his or her defense is mainly based upon the theory of  .",
+    "stem": "The right to have the assistance of counsel for his or her defense is mainly based upon the theory of .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1898,9 +2357,16 @@
         "text": "double jeopardy"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1909,7 +2375,7 @@
     "subject_code": "4301",
     "question_no": 65,
     "question_type": "single",
-    "stem": "The warning of the   must be accompanied by the explanation that anything said can and will be used against the individual in court. This warning is needed in order to make him aware not only of the privilege, but also of the consequences of forgoing it.",
+    "stem": "The warning of the must be accompanied by the explanation that anything said can and will be used against the individual in court. This warning is needed in order to make him aware not only of the privilege, but also of the consequences of forgoing it.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1928,9 +2394,16 @@
         "text": "right to remain silent"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1958,9 +2431,16 @@
         "text": "unethical"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1988,9 +2468,16 @@
         "text": "religious equality"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1999,7 +2486,7 @@
     "subject_code": "4301",
     "question_no": 68,
     "question_type": "single",
-    "stem": "When I worked in the Department of Justice in the Office of the  , it was my job to argue cases for the United States before the Supreme Court.",
+    "stem": "When I worked in the Department of Justice in the Office of the , it was my job to argue cases for the United States before the Supreme Court.",
     "choices": [
       {
         "choice_id": "c1",
@@ -2018,9 +2505,16 @@
         "text": "Solicitor General"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2029,7 +2523,7 @@
     "subject_code": "4301",
     "question_no": 69,
     "question_type": "single",
-    "stem": "To ensure all parties involved in civil proceedings are fairly and timely informed, a set of rules is created to determine how to properly deliver and exchange court papers and documents to and among the parties. Such rules are rules of  .",
+    "stem": "To ensure all parties involved in civil proceedings are fairly and timely informed, a set of rules is created to determine how to properly deliver and exchange court papers and documents to and among the parties. Such rules are rules of .",
     "choices": [
       {
         "choice_id": "c1",
@@ -2048,9 +2542,16 @@
         "text": "service"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2078,9 +2579,16 @@
         "text": "answer defendant"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

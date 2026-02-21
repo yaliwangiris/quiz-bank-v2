@@ -24,9 +24,16 @@
         "text": "甲犯意變更，應論以普通傷害罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "乙未遂行擄人之行為，係因甲與路人 B、C 之阻力所致，其無力克服，乃屬不能發生結果之不能犯"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "甲為謀延長在日本居留許可期間，偽造日本某公司之聘書，向日本主管機關申請延長居留，為日本官員發現，遭日本法院判刑確定並執行完畢後，遣送回臺"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -114,9 +135,16 @@
         "text": "乙、丙需對 C 負共同傷害罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "加重結果犯，以刑法對於加重之結果有明文規定者為限，始能論以加重結果犯"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -174,9 +209,16 @@
         "text": "乙成立普通侵占罪，論以普通侵占之刑"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -204,9 +246,16 @@
         "text": "甲若於判決確定後執行期間又犯傷害罪，應就傷害罪處斷後，與其他判決更定其應執行之刑"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -234,9 +283,16 @@
         "text": "甲在緩刑期內因過失更犯罪，而在緩刑期內受 6 月有期徒刑之宣告確定"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -264,9 +320,16 @@
         "text": "罰金刑應於裁判確定後 2 個月內完納，不能完納者，得許 1 年內分期繳納"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -294,9 +357,16 @@
         "text": "雷管雖屬 A 合法所有，但為甲作為犯罪工具，已變成違禁物，故不問何人所有均應沒收之"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -324,9 +394,16 @@
         "text": "判決主文應宣告沒收 10 萬元，發還 3 萬元。蓋偽造之全數應扣除正當之欠款"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -354,9 +431,16 @@
         "text": "對甲而言，該汽車乃他人犯竊盜罪所取得之贓物，甲改色噴漆以藏匿之，並成立寄藏贓物罪，但依刑法第 351 條規定，得免除其刑"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -364,7 +448,7 @@
     "year": 104,
     "subject_code": "1301",
     "question_no": 13,
-    "question_type": "multiple",
+    "question_type": "single",
     "stem": "下列有關罪數判斷之實務見解，何者錯誤？",
     "choices": [
       {
@@ -384,10 +468,18 @@
         "text": "意圖使他人受刑事追訴，偽造證據於前，並進而持該證據向檢察署告發某人涉嫌犯罪，因所侵害國家審判權之法益僅一，應成立一個誣告罪"
       }
     ],
+    "answer": [
+      "C",
+      "D"
+    ],
     "correct_choice_ids": [
       "c3",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -415,9 +507,16 @@
         "text": "無。偽證罪並未成立，亦不需檢討刑的問題"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -445,9 +544,16 @@
         "text": "甲之行為成立偽造有價證券罪，乙之行為成立該罪之幫助犯"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -475,9 +581,16 @@
         "text": "甲將 4 張百元偽鈔分散於真鈔中，持往 4 家檳榔攤購物之行為，應僅論以接續犯之一罪"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -505,9 +618,16 @@
         "text": "甲之行為論以刑法第 304 條第 1 項之強制罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -535,9 +655,16 @@
         "text": "甲成立刑法第 212 條之偽造特種文書罪"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -545,7 +672,7 @@
     "year": 104,
     "subject_code": "1301",
     "question_no": 19,
-    "question_type": "multiple",
+    "question_type": "single",
     "stem": "甲為某警察分駐所所長，對於轄區內乙經營地下賭場早有所聞，惟因私交甚篤，並未查辦。下列敘述，何者正確？",
     "choices": [
       {
@@ -565,10 +692,18 @@
         "text": "甲係因與乙私交甚篤，故而成立刑法第 270 條之包庇賭博罪；倘若二人並無私交，則甲自不成立包庇賭博罪"
       }
     ],
+    "answer": [
+      "A",
+      "B"
+    ],
     "correct_choice_ids": [
       "c1",
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -596,9 +731,16 @@
         "text": "因甲尚未將 A 交與乙，A 亦未開始賣淫，甲、乙非屬刑法第 296 條之 1 買賣人口罪之必要共犯"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -626,9 +768,16 @@
         "text": "甲成立刑法第 342 條背信罪"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -656,9 +805,16 @@
         "text": "甲成立普通竊盜未遂罪"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -686,9 +842,16 @@
         "text": "無罪"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -697,7 +860,7 @@
     "subject_code": "1301",
     "question_no": 24,
     "question_type": "single",
-    "stem": "甲打破  A  宅窗戶，並對大門潑灑屎尿，以為洩憤。下列敘述，何者正確？",
+    "stem": "甲打破 A 宅窗戶，並對大門潑灑屎尿，以為洩憤。下列敘述，何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -716,9 +879,16 @@
         "text": "甲成立刑法第 353 條第 1 項及第 354 條之數罪併罰"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -746,9 +916,16 @@
         "text": "甲除成立刑法第 271 條第 1 項的殺人罪外，另成立第 185 條之 4 的肇事逃逸罪，二罪侵害法益不同，應論以想像競合犯"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -776,9 +953,16 @@
         "text": "甲成立刑法第 310 條第 2 項加重誹謗罪及第 235 條第 1 項散布猥褻物品罪，想像競合"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -806,9 +990,16 @@
         "text": "若甲迄未提起告訴，甲之法定代理人在甲被毆傷 6 個月後，始知悉上情，因被害人甲本人知悉犯 人之時間已超過 6 個月，故甲之法定代理人亦不得提起告訴"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -836,9 +1027,16 @@
         "text": "因甲所犯二罪，屬於同一案件，檢察官對法院之聲請簡易判決無效，B 法院不受其拘束"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -866,9 +1064,16 @@
         "text": "因非一案件上訴之故，C 法院雖發現為一案，應將 A、B 二法院之判決撤銷，發回 A 法院全部審理"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -896,9 +1101,16 @@
         "text": "己"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -926,9 +1138,16 @@
         "text": "檢察官之拘提合法，因為傳喚並不帶有直接強制力，故無嚴格之程式規定，檢察官得裁量使用最為有效率且便宜之方式為之。因此，檢察官之傳喚合法，甲無正當理由不到場時，自得予以拘提"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -956,9 +1175,16 @@
         "text": "丙聲請調查證據，法院認為與待證事實無關時，應由法院以裁定駁回之，並非審判長所得單獨決定處分"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -986,9 +1212,16 @@
         "text": "偵查中訊問被告時，毋庸通知辯護人"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1016,9 +1249,16 @@
         "text": "不合法。法院雖得引用刑事訴訟法第 300 條之規定，作為改判之依據。但程序上，未踐行告知被告罪名變更，故判決違法"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1046,9 +1286,16 @@
         "text": "檢察官所屬檢察署之檢察長，對已確定之不起訴處分得再依職權審核"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1076,9 +1323,16 @@
         "text": "過失致人於死之有罪判決"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1099,12 +1353,23 @@
       },
       {
         "choice_id": "c3",
-        "text": "甲在緩起訴前，因犯竊盜罪，經檢察官起訴，在緩起訴處分期間，經法院判處有期徒刑 2 月，緩刑"
+        "text": "甲在緩起訴前，因犯竊盜罪，經檢察官起訴，在緩起訴處分期間，經法院判處有期徒刑 2 月，緩刑 3 年確定"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲未於檢察官指定之期限內履行義務勞務"
       }
+    ],
+    "answer": [
+      "B"
     ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1132,9 +1397,16 @@
         "text": "甲雖於第二審法院宣示判決後死亡，但甲之配偶仍得獨立上訴"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1162,9 +1434,16 @@
         "text": "檢察官若要聲請羈押，應在拘提甲後 24 小時內向法院聲請之。但甲與辯護人丙接見時間應不得計 算在 24 小時之內"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1192,9 +1471,16 @@
         "text": "甲對系爭處分，依法並無單獨不服途徑，應隨同本案判決一併上訴救濟之"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1222,9 +1508,16 @@
         "text": "被告於原審之辯護人，得為被告之利益，獨立上訴"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1233,7 +1526,7 @@
     "subject_code": "1301",
     "question_no": 42,
     "question_type": "single",
-    "stem": "下列敘述，何者違反刑事訴訟法第  376  條上訴第三審之限制？",
+    "stem": "下列敘述，何者違反刑事訴訟法第 376 條上訴第三審之限制？",
     "choices": [
       {
         "choice_id": "c1",
@@ -1252,9 +1545,16 @@
         "text": "被告甲經第二審判處通姦罪刑，甲上訴主張，告訴人已依法撤回告訴，原審應為不受理判決卻為有罪判決，故有判決違背法令之事由"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1282,9 +1582,16 @@
         "text": "法院駁回被告聲請法官迴避之裁定"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1312,9 +1619,16 @@
         "text": "甲之供述作為認定乙之犯罪事實，該項供述內容需有補強證據"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1342,9 +1656,16 @@
         "text": "抗告書狀，提出於原審法院之後，原審法院認為抗告一部有理由、一部無理由者，不應更正其裁定，而應送交抗告法院"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1372,9 +1693,16 @@
         "text": "法官及檢察官自離職之日起 3 年內，不得在其離職前 3 年內曾任職務之法院或檢察署執行律師職務"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1402,9 +1730,16 @@
         "text": "甲法官如未收受報酬又無其他兼職時，得擔任該職"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1432,9 +1767,16 @@
         "text": "罰款"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1462,9 +1804,16 @@
         "text": "法官不得為參加公職選舉之候選人募款或提供協助，但如僅係對政治團體內部職務之候選人提供競選協助，則無不可"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1492,9 +1841,16 @@
         "text": "法官之審判即使因故意或重大過失，致有明顯而重大之違誤，但如果當事人已依上訴或抗告請求救濟，而遭駁回確定者，即不得再循評鑑程序，追究法官個人之紀律責任，以免造成評鑑程序與訴訟程序認定之歧異"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1522,9 +1878,16 @@
         "text": "以律師事務所名義致函各工商團體，表示該事務所設有全民法律服務中心，免費提供法律諮詢"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1552,9 +1915,16 @@
         "text": "檢察官於法庭執行公訴職務時，發現被告犯行之追訴期間已過，主動將資料訊息向法院陳報"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1582,9 +1952,16 @@
         "text": "檢察官訊問甲時告知甲，如甲供出乙之下落，且順利救出人質，就會立即釋放甲，並可以對甲為不起訴處分"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1612,9 +1989,16 @@
         "text": "檢察官到舞蹈教室學習國際標準舞，並參加國際標準舞比賽"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1642,9 +2026,16 @@
         "text": "甲是 B 公司於此案件委任之律師丙的女婿"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1672,9 +2063,16 @@
         "text": "必須為 A 設計安排，以便事後可以規避法律之制裁"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1702,9 +2100,16 @@
         "text": "僅③正確"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1732,9 +2137,16 @@
         "text": "丁律師在其事務所招牌上標榜「勝率高達九成」等語"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1762,9 +2174,16 @@
         "text": "如果得到甲公司同意就可以，如果沒有得到同意就不可以"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1792,9 +2211,16 @@
         "text": "只要得到己方當事人同意就好，不需要得到對方律師的同意 二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） 說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答 或答錯多於二個選項（不含二個）者，該題以零分計算。"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1826,10 +2252,18 @@
         "text": "甲於假釋中犯強盜罪，假釋期滿後 5 年，受有期徒刑 8 年判決確定"
       }
     ],
+    "answer": [
+      "A",
+      "B"
+    ],
     "correct_choice_ids": [
       "c1",
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1861,10 +2295,18 @@
         "text": "不論是既了未遂或未了未遂，均可能成立中止未遂"
       }
     ],
+    "answer": [
+      "B",
+      "C"
+    ],
     "correct_choice_ids": [
       "c2",
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1896,11 +2338,20 @@
         "text": "被警察通知到案之犯罪嫌疑人"
       }
     ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "correct_choice_ids": [
       "c1",
       "c2",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1932,10 +2383,18 @@
         "text": "使甲之屍體焦黑觸犯刑法第 247 條第 1 項毀壞屍體罪"
       }
     ],
+    "answer": [
+      "A",
+      "D"
+    ],
     "correct_choice_ids": [
       "c1",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1967,11 +2426,20 @@
         "text": "甲、乙兩人成立殺人未遂罪之共同正犯"
       }
     ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "correct_choice_ids": [
       "c1",
       "c2",
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2003,10 +2471,18 @@
         "text": "美工刀雖屬犯罪工具，但非甲所有，不得宣告沒收"
       }
     ],
+    "answer": [
+      "C",
+      "E"
+    ],
     "correct_choice_ids": [
       "c3",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2038,10 +2514,18 @@
         "text": "搜索票記載地點雖僅為甲之住宅，但樓梯間與甲住宅有密不可分關係，且鞋櫃亦屬甲所有。故搜索為合法"
       }
     ],
+    "answer": [
+      "D",
+      "E"
+    ],
     "correct_choice_ids": [
       "c4",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2073,11 +2557,20 @@
         "text": "被告主張其有不陳述之自由，法院仍不得為不利被告之認定"
       }
     ],
+    "answer": [
+      "C",
+      "D",
+      "E"
+    ],
     "correct_choice_ids": [
       "c3",
       "c4",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2109,10 +2602,18 @@
         "text": "乙委任律師為代理人向地方法院自訴甲犯誣告罪嫌後，不得再自訴甲犯偽證罪嫌"
       }
     ],
+    "answer": [
+      "A",
+      "E"
+    ],
     "correct_choice_ids": [
       "c1",
       "c5"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2144,10 +2645,18 @@
         "text": "如檢察官起訴甲犯過失致死罪嫌後，乙告訴後於審判中撤回告訴，法院對甲過失傷害乙部分應判決不受理"
       }
     ],
+    "answer": [
+      "A",
+      "D"
+    ],
     "correct_choice_ids": [
       "c1",
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

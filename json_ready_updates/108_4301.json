@@ -24,9 +24,16 @@
         "text": "①①③皆不符合"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -54,9 +61,16 @@
         "text": "由董事會召集股東常會，並於會議中決議解任甲之董事長職務"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -84,9 +98,16 @@
         "text": "無法產生有權代表 A 公司簽訂該租賃契約之人"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -114,9 +135,16 @@
         "text": "公司內部依法定程序選用外文名稱後，可不必辦理登記"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -144,9 +172,16 @@
         "text": "16 人"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -174,9 +209,16 @@
         "text": "股份有限公司之臨時管理人在執行業務範圍內，為公司負責人"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -204,9 +246,16 @@
         "text": "倘若 X 公司為公開發行股票公司，並設有審計委員會，則於董事會決議併購前，應先由審計委員會就本次併購計畫與交易之公平性、合理性進行審議"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -234,9 +283,16 @@
         "text": "A 公司合併，應經股東表決權三分之二以上之同意"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -264,9 +320,16 @@
         "text": "相當於 A 公司負債總金額 10%以上之公司債權人，得聲請重整"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -294,9 +357,16 @@
         "text": "非得其他全體股東同意，不得轉讓於他人之特別股"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -305,11 +375,35 @@
     "subject_code": "4301",
     "question_no": 11,
     "question_type": "single",
-    "stem": "A  股份有限公司為非公開發行公司，原設有董事  5  人，於本年度之股東常會變更章程將董事減為",
-    "choices": [],
+    "stem": "A 股份有限公司為非公開發行公司，原設有董事 5 人，於本年度之股東常會變更章程將董事減為 2 人。下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "此違反董事人數不得少於 3 人之規定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "僅一人公司之董事人數可少於 3 人"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A 公司之董事會職權由董事個別行使"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A 公司已無董事會"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -337,9 +431,16 @@
         "text": "本會計年度不能為盈餘期中分派，會計年度終了後得為盈餘分派，盈餘分派決定權限歸屬股東會"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -367,9 +468,16 @@
         "text": "股東乙為公司提起訴訟，得向法院聲請選任律師為訴訟代理人"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -397,9 +505,16 @@
         "text": "若乙公司欲召集股東會選舉董事時，甲公司僅得行使其所持有乙公司已發行有表決權股份總數之三分之一"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -427,9 +542,16 @@
         "text": "A 公司未對 B 公司為賠償時，B 公司之債權人，得以自己名義行使 B 公司之權利，請求 A 公司及其負責人為給付"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -457,9 +579,16 @@
         "text": "甲、丙、丁、戊皆不得請求"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -487,9 +616,16 @@
         "text": "甲違反通知義務，保險人得拒絕給付"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -517,9 +653,16 @@
         "text": "條款 X 無效，條款 Y 有效"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -547,9 +690,16 @@
         "text": "保險公司應給付甲 120 萬元"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -577,9 +727,16 @@
         "text": "關於 48 小時內通知事故發生之約定及不負賠償責任之約定，均為有效"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -607,9 +764,16 @@
         "text": "人壽保險因屬長期保險，故保險費皆為分期交付"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -637,9 +801,16 @@
         "text": "保險公司之給付若有遲延，遲延利息為年息百分之十"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -667,9 +838,16 @@
         "text": "30 日"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -697,9 +875,16 @@
         "text": "殘廢保險"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -727,9 +912,16 @@
         "text": "無理由，因由被保險人負擔公證費用之約定，違反保險法第 54 條之 1 無效"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -757,9 +949,16 @@
         "text": "A 公司及董事長丙均應支付 10 萬元之票款"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -787,9 +986,16 @@
         "text": "新臺幣 0 元"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -817,9 +1023,16 @@
         "text": "若乙善意時，甲應支付新臺幣 2 萬元"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -847,9 +1060,16 @@
         "text": "丙不可向甲請求 X 元，但可向甲請求 Y 元，並可向乙請求 X 及 Y 元"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -877,9 +1097,16 @@
         "text": "如執票人允許延期承兌，應於延期之末日或其後 5 日內作成拒絕證書"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -907,9 +1134,16 @@
         "text": "連續，因執票人丁收受本票時並未爭執背書不連續"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -918,7 +1152,7 @@
     "subject_code": "4301",
     "question_no": 32,
     "question_type": "single",
-    "stem": "依票據法第  123  條規定，關於本票之強制執行，下列敘述，何者錯誤？",
+    "stem": "依票據法第 123 條規定，關於本票之強制執行，下列敘述，何者錯誤？",
     "choices": [
       {
         "choice_id": "c1",
@@ -937,9 +1171,16 @@
         "text": "本票之背書人並非本票強制執行之對象"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -967,9 +1208,16 @@
         "text": "丁得向甲追索，不得向乙、丙追索"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -997,9 +1245,16 @@
         "text": "票據行為仍為有效，惟付款銀行得拒絕付款"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1027,9 +1282,16 @@
         "text": "有理由。因支票為乙所簽發，丙為背書人，但無任何對價關係，今甲僅訴請丙負責，丙自可以其與乙之間並無對價或受讓票據權利，而不負給付票款之責"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1057,9 +1319,16 @@
         "text": "政府債券"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1087,9 +1356,16 @@
         "text": "甲在任期中轉讓超過選任當時所持有之 A 公司股份數額二分之一時，並不會發生解任之效果"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1117,9 +1393,16 @@
         "text": "甲之配偶從 7 月 28 日至 8 月 30 日止，都不得於櫃檯買賣市場購買 B 上櫃公司股票"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1147,9 +1430,16 @@
         "text": "A 公司應編製年報，於本次股東會分送股東"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1177,9 +1467,16 @@
         "text": "若 A 公司不再設立監察人而改設審計委員會，則原全體監察人之最低持股數應加計在全體董事的最低持股數中"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1207,9 +1504,16 @@
         "text": "發行人募集發行有價證券時，按認股人或應募人之合理請求，負有交付公開說明書的義務"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1237,9 +1541,16 @@
         "text": "50 萬元"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1267,9 +1578,16 @@
         "text": "A 公司之董事長丁如無法證明其已盡相當注意，且有正當理由合理確信經甲簽證之財務報告內容 無虛偽隱匿情事時，即須負賠償責任"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1297,9 +1615,16 @@
         "text": "丁係自非 A 公司內部人之丙得知 A 公司虧損之消息，故丁不構成內線交易"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1327,9 +1652,16 @@
         "text": "得於退件之緣由改善或消滅後，備妥相關文件，重行申請上市"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1357,9 +1689,16 @@
         "text": "債務人係計程車司機，其所有之計程車為職業上所必需之物品，債權人亦一律不得聲請查封拍賣之"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1387,9 +1726,16 @@
         "text": "甲如於 106 年 7 月 25 日向執行法院提出已起訴證明，法院應駁回甲之分配表異議之訴"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1417,9 +1763,16 @@
         "text": "乙之 A 車於查封後失竊"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1447,9 +1800,16 @@
         "text": "丙、丁得主張，其他人不得主張"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1477,9 +1837,16 @@
         "text": "執行法院就分配金額無異議之部分亦應停止分配"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1507,9 +1874,16 @@
         "text": "甲因強制執行而支出之費用"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1537,9 +1911,16 @@
         "text": "執行法院得酌定數額命乙預納，並以乙預納之費用採買與 A 車同廠牌、規格之汽車交付予甲，以代 A 車原物返還之執行"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1567,9 +1948,16 @@
         "text": "對乙處以怠金，續經定期履行而仍不履行時，再處以怠金或管收"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1578,7 +1966,7 @@
     "subject_code": "4301",
     "question_no": 54,
     "question_type": "single",
-    "stem": "債權人甲聲請對債務人乙所有  A  地為假扣押執行後，乙之另一金錢債權人丙持確定判決聲請執行  A\n地。下列敘述，何者正確？",
+    "stem": "債權人甲聲請對債務人乙所有 A 地為假扣押執行後，乙之另一金錢債權人丙持確定判決聲請執行 A 地。下列敘述，何者正確？",
     "choices": [
       {
         "choice_id": "c1",
@@ -1597,9 +1985,16 @@
         "text": "執行法院就拍賣 A 地所得價金，應先扣除丙之債權額後，再將餘額分配予甲並提存之"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1627,9 +2022,16 @@
         "text": "甲得以保全執行在先為由，對於執行法院就丙之聲請准予執行，聲明異議"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1638,7 +2040,7 @@
     "subject_code": "4301",
     "question_no": 56,
     "question_type": "single",
-    "stem": "Tort law can be defined as the law of  .",
+    "stem": "Tort law can be defined as the law of .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1657,9 +2059,16 @@
         "text": "civil disability"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1687,9 +2096,16 @@
         "text": "strict liability"
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1717,9 +2133,16 @@
         "text": "Larry is a shop owner who knows his customer Jane is in his shop. But he locks the only door of the shop to prevent a third person from entering when he goes out for his lunch."
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1728,7 +2151,7 @@
     "subject_code": "4301",
     "question_no": 59,
     "question_type": "single",
-    "stem": "When parties enter into a contract, they often wish to calculate the damages which would arise for one or both of the parties in the event that there is a breach of contract by the other party. Provisions in a contract stipulating the amount required to compensate an injured party in the event of a breach are referred to as   clauses.",
+    "stem": "When parties enter into a contract, they often wish to calculate the damages which would arise for one or both of the parties in the event that there is a breach of contract by the other party. Provisions in a contract stipulating the amount required to compensate an injured party in the event of a breach are referred to as clauses.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1747,9 +2170,16 @@
         "text": "expectation damages"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1777,9 +2207,16 @@
         "text": "A third-party beneficiary contract"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1807,9 +2244,16 @@
         "text": "As the CEO and chairman, John is not required to excuse himself from voting at the shareholder meeting automatically, unless he has a conflict of interest that could result in a possible breach of fiduciary responsibility."
       }
     ],
+    "answer": [
+      "C"
+    ],
     "correct_choice_ids": [
       "c3"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1818,7 +2262,7 @@
     "subject_code": "4301",
     "question_no": 62,
     "question_type": "single",
-    "stem": "Money   fixed by improper methods is unconstitutional.",
+    "stem": "Money fixed by improper methods is unconstitutional.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1837,9 +2281,16 @@
         "text": "note"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1848,7 +2299,7 @@
     "subject_code": "4301",
     "question_no": 63,
     "question_type": "single",
-    "stem": "Self-defense is a   for criminal manslaughter offense.",
+    "stem": "Self-defense is a for criminal manslaughter offense.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1867,9 +2318,16 @@
         "text": "causation"
       }
     ],
+    "answer": [
+      "A"
+    ],
     "correct_choice_ids": [
       "c1"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1878,7 +2336,7 @@
     "subject_code": "4301",
     "question_no": 64,
     "question_type": "single",
-    "stem": "The U.S. Supreme Court is to decide whether there is a constitutional limit to the practice of  . That is drawing legislative and congressional district lines to benefit the party in power.",
+    "stem": "The U.S. Supreme Court is to decide whether there is a constitutional limit to the practice of . That is drawing legislative and congressional district lines to benefit the party in power.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1897,9 +2355,16 @@
         "text": "voter intimidation"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1927,9 +2392,16 @@
         "text": "substantive due process"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1938,7 +2410,7 @@
     "subject_code": "4301",
     "question_no": 66,
     "question_type": "single",
-    "stem": "When a judicial decision cannot have any practical legal effect because the issues that generated it either have been resolved or disappeared, it is said that the case has become  .",
+    "stem": "When a judicial decision cannot have any practical legal effect because the issues that generated it either have been resolved or disappeared, it is said that the case has become .",
     "choices": [
       {
         "choice_id": "c1",
@@ -1957,9 +2429,16 @@
         "text": "reserved"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1968,7 +2447,7 @@
     "subject_code": "4301",
     "question_no": 67,
     "question_type": "single",
-    "stem": "When a judge has a financial interest in the case assigned to him (or her), is related to a party, or there is a strong possibility that the judge’s decision will be biased, any party may request such a judge to   himself (or herself) from the case.",
+    "stem": "When a judge has a financial interest in the case assigned to him (or her), is related to a party, or there is a strong possibility that the judge’s decision will be biased, any party may request such a judge to himself (or herself) from the case.",
     "choices": [
       {
         "choice_id": "c1",
@@ -1987,9 +2466,16 @@
         "text": "deduce"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -1998,7 +2484,7 @@
     "subject_code": "4301",
     "question_no": 68,
     "question_type": "single",
-    "stem": "To make sure that a plaintiff with a valid cause of action will timely exercise his (or her) right, the law imposes time limits on a cause of action. If a plaintiff fails to file a complaint within the time limits, the defendant may plead such failure as a defense. Such time limits are called  .",
+    "stem": "To make sure that a plaintiff with a valid cause of action will timely exercise his (or her) right, the law imposes time limits on a cause of action. If a plaintiff fails to file a complaint within the time limits, the defendant may plead such failure as a defense. Such time limits are called .",
     "choices": [
       {
         "choice_id": "c1",
@@ -2017,9 +2503,16 @@
         "text": "Durational conditions"
       }
     ],
+    "answer": [
+      "B"
+    ],
     "correct_choice_ids": [
       "c2"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2047,9 +2540,16 @@
         "text": "A majority of supervisors can convene a meeting and remove a director if all supervisors agree to it."
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   },
   {
@@ -2058,7 +2558,7 @@
     "subject_code": "4301",
     "question_no": 70,
     "question_type": "single",
-    "stem": "If the identity or the character of the property being sold is overtly misrepresented by one of the contracting parties, then the other party’s assent is obviously less than meaningful and any agreement that results will be regarded as  .",
+    "stem": "If the identity or the character of the property being sold is overtly misrepresented by one of the contracting parties, then the other party’s assent is obviously less than meaningful and any agreement that results will be regarded as .",
     "choices": [
       {
         "choice_id": "c1",
@@ -2077,9 +2577,16 @@
         "text": "voidable"
       }
     ],
+    "answer": [
+      "D"
+    ],
     "correct_choice_ids": [
       "c4"
     ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
     "tags": []
   }
 ]

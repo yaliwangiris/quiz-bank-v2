@@ -2,7 +2,7 @@
 
 台灣律師第一試歷屆考題線上練習平台。純靜態網頁，無需安裝任何套件，開啟即用。
 
-**線上使用：** [GitHub Pages 連結](https://edward-playground.github.io/quiz-bank-v2/)
+**線上使用：** [GitHub Pages 連結](https://yaliwangiris.github.io/quiz-bank-v2/)
 
 ## 功能
 

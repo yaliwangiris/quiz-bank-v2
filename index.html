@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>律師一試考題專家</title>
+  <link rel="icon" href="bank/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+
+    <!-- ===== 首頁 ===== -->
+    <section id="screen-home">
+      <header class="home-header">
+        <h1>律師一試<span class="accent">考題專家</span></h1>
+        <p class="home-subtitle">選擇練習方式開始作答</p>
+        <p id="bank-status" class="bank-status loading">題庫載入中...</p>
+      </header>
+
+      <div class="mode-cards">
+        <button class="mode-card" id="btn-mode-subject">
+          <div class="mode-icon">📚</div>
+          <h2 class="mode-title">依科目練習</h2>
+          <p class="mode-desc">跨年度混合出題，專攻特定科目</p>
+        </button>
+        <button class="mode-card" id="btn-mode-year">
+          <div class="mode-icon">📅</div>
+          <h2 class="mode-title">依年份練習</h2>
+          <p class="mode-desc">選擇特定年度與科目作答</p>
+        </button>
+      </div>
+    </section>
+
+    <!-- ===== 選科目 ===== -->
+    <section id="screen-pick-subject" class="hidden">
+      <nav class="sub-nav">
+        <button id="btn-back-from-subject" class="btn btn-outline">← 返回</button>
+        <span class="sub-nav-title">選擇科目</span>
+      </nav>
+      <div class="pick-grid" id="subject-list"></div>
+      <div class="card pick-options">
+        <label class="max-q-label">
+          題數上限
+          <input type="number" id="max-questions-subject" value="20" min="1" max="500">
+        </label>
+      </div>
+    </section>
+
+    <!-- ===== 選年份 ===== -->
+    <section id="screen-pick-year" class="hidden">
+      <nav class="sub-nav">
+        <button id="btn-back-from-year" class="btn btn-outline">← 返回</button>
+        <span class="sub-nav-title">選擇年份</span>
+      </nav>
+      <div class="pick-grid" id="year-list"></div>
+    </section>
+
+    <!-- ===== 選年份後選科目 ===== -->
+    <section id="screen-pick-year-subject" class="hidden">
+      <nav class="sub-nav">
+        <button id="btn-back-from-year-subject" class="btn btn-outline">← 返回</button>
+        <span class="sub-nav-title" id="year-subject-title">選擇科目</span>
+      </nav>
+      <div class="pick-grid" id="year-subject-list"></div>
+    </section>
+
+    <!-- ===== 載入中 ===== -->
+    <section id="screen-loading" class="hidden center-screen">
+      <div class="spinner"></div>
+      <p class="loading-text">載入題庫中...</p>
+    </section>
+
+    <!-- ===== 作答畫面 ===== -->
+    <section id="screen-quiz" class="hidden">
+      <nav class="quiz-nav">
+        <button id="btn-exit" class="btn btn-outline">← 返回</button>
+        <span id="progress-text" class="progress-badge">1 / 20</span>
+      </nav>
+      <div class="progress-bar"><div id="progress-fill"></div></div>
+
+      <article id="question-card" class="card question-card">
+        <div id="question-meta" class="question-meta"></div>
+        <div id="question-type-badge" class="type-badge hidden">複選題</div>
+        <h2 id="question-stem" class="stem"></h2>
+        <div id="choices-container" class="choices"></div>
+        <div id="feedback-area" class="feedback hidden"></div>
+
+        <!-- 筆記欄 -->
+        <div id="note-section" class="note-section">
+          <button id="btn-note-toggle" class="note-toggle" type="button">
+            <span class="note-toggle-icon">📝</span>
+            <span class="note-toggle-label">筆記</span>
+            <span id="note-indicator" class="note-indicator hidden"></span>
+            <span id="note-arrow" class="note-toggle-arrow">&#9662;</span>
+          </button>
+          <div id="note-body" class="note-body hidden">
+            <textarea id="note-textarea" class="note-textarea" rows="4" placeholder="在這裡寫下你的筆記..."></textarea>
+            <div class="note-actions">
+              <button id="btn-note-save" class="btn btn-sm btn-primary" type="button">儲存</button>
+              <button id="btn-note-clear" class="btn btn-sm btn-outline" type="button">清除</button>
+              <span id="note-status" class="note-status"></span>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <button id="btn-next" class="btn btn-primary btn-lg btn-next hidden">下一題 →</button>
+    </section>
+
+    <!-- ===== 結果畫面 ===== -->
+    <section id="screen-result" class="hidden center-screen">
+      <div class="card result-card">
+        <div class="result-icon">🎓</div>
+        <h2 class="result-title">測驗完成</h2>
+
+        <div class="result-stats">
+          <div class="stat-box stat-score">
+            <div class="stat-value" id="result-score">0</div>
+            <div class="stat-label">答對題數</div>
+          </div>
+          <div class="stat-box stat-accuracy">
+            <div class="stat-value" id="result-accuracy">0%</div>
+            <div class="stat-label">正確率</div>
+          </div>
+          <div class="stat-box stat-total">
+            <div class="stat-value" id="result-total">0</div>
+            <div class="stat-label">總題數</div>
+          </div>
+        </div>
+
+        <div id="result-breakdown" class="breakdown"></div>
+
+        <button id="btn-restart" class="btn btn-primary btn-lg">返回首頁</button>
+      </div>
+    </section>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

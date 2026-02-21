@@ -1,0 +1,1050 @@
+[
+  {
+    "question_id": "110-4301-004",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 4,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）為非公開發行股票之公司，某政府機關為A公司之股東，持股比率約達4成，A公司欲選任23席董事、7席監察人。下列何一方案可行？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "該政府機關推派9名自然人代表參選董事，3名自然人代表參選監察人"
+      },
+      {
+        "choice_id": "c2",
+        "text": "該政府機關自行參選董事，且另推派10名自然人代表參選董事"
+      },
+      {
+        "choice_id": "c3",
+        "text": "該政府機關推派10名自然人代表參選董事"
+      },
+      {
+        "choice_id": "c4",
+        "text": "該政府機關自行參選監察人，且另推派10名自然人代表參選董事 5依照我國公司法之規定，下列何種機關不會出現於有限公司？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "董事"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-007",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 7,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）為公開發行股票之公司，主要業務為生產手機按鍵零件，但近年來因為智慧型手機盛行，故該公司連年虧損。甲為A公司之股東，在股東會中提出減資之臨時動議，並獲決議通過。依據公司法規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "該臨時動議違反股東會召集程序之規定，故該決議不成立"
+      },
+      {
+        "choice_id": "c2",
+        "text": "該臨時動議違反股東會召集程序之規定，故該決議得撤銷"
+      },
+      {
+        "choice_id": "c3",
+        "text": "該臨時動議違反股東會召集程序之規定，該決議無效"
+      },
+      {
+        "choice_id": "c4",
+        "text": "該臨時動議未違反股東會召集程序之規定"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-008",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 8,
+    "question_type": "single",
+    "stem": "A股份有限公司設有董事5人，董事長甲於配偶死亡後，便無心公司事務。乙、丙及丁三位董事提議解除甲之董事長職務，改由其他董事擔任，以書面請求甲召開董事會，甲拒絕召開，三位董事便自行召集董事會，開會時，甲刻意出席欲以主席身分杯葛議事，雙方上演全武行。依法律規定及實務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "該次董事會主席應由乙、丙及丁互相推選之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "非董事長者，無權召集董事會，此次董事會違法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "三位董事已達過半席次，可逕行召集董事會，無須先請求董事長召集"
+      },
+      {
+        "choice_id": "c4",
+        "text": "三位董事自行召集前，未先經主管機關許可，並不合法"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-009",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 9,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）從未公開發行股票，其董事長甲因私自挪用公司資產，被法院判決有罪、處有期徒刑3年，甲因不服該判決而上訴，以致本案仍未確定。今甲從羈押中釋放出來，又再回任A公司董事長。股東乙持有A公司已發行股份總數百分之三之股份已有半年，因不滿現狀，於 A公司受理股東提案期間內，以書面向公司提出下列股東常會議案，案由為：「公司負責人首重誠實\n信用，本公司現任董事長甲因私自挪用公司資產，業經法院判決有罪，繼續留任顯將嚴重影響本公司正常營運及股東權利，爰擬解任其董事職務，請予同意，謹提請討論。」A公司董事會應否將上述乙之提案列入股東會議案？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "應該，乙之提案符合法律規定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "不應該，乙之持股期間未達1年，不得提案"
+      },
+      {
+        "choice_id": "c3",
+        "text": "不應該，乙之提案未達300字"
+      },
+      {
+        "choice_id": "c4",
+        "text": "不應該，乙之提案非股東會所得決議者"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-010",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 10,
+    "question_type": "single",
+    "stem": "A股份有限公司經營不善，股東們對於董事會效能非常不滿意，打算召集股東臨時會改選董監。其中小股東甲為繼續1年以上持股1%的股東，乙為繼續6個月以上持股10%的股東，丙為繼續6個月以\n上持股25%的股東，丁為繼續3個月以上持股30%的股東，戊為公司監察人。下列關於股東會之敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲、乙得共同以書面記明提議事項及理由，請求董事會召集股東臨時會。若董事會15日內不為召集，則甲、乙得自行召集"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙、丙得共同以書面記明提議事項及理由，報請主管機關許可後，乙、丙可召集股東臨時會"
+      },
+      {
+        "choice_id": "c3",
+        "text": "丙、丁毋庸請求董事會同意及主管機關許可，得共同隨時自行召集股東臨時會"
+      },
+      {
+        "choice_id": "c4",
+        "text": "戊若未持有股份，則不得自行召集股東臨時會 11甲為A公開發行股票之公司（下稱A公司）之董事，選任時持股10,000股，任期中再買進10,000 股，後將其持有20,000股全部設定質權。依實務見解，A公司股東會中甲最多得行使表決權之股份數為何？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "0股"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-012",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 12,
+    "question_type": "single",
+    "stem": "A上市公司（下稱A公司）本年度股東常會之主要議案有三：（一）改選董監事，（二）與B公司之合併案，（三）購買股東甲所有之土地一筆。A公司之股東甲為本次董監改選之董事候選人，B公司持有A公司5%之股權，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲就議案（一）及議案（三）皆不得行使表決權，而B公司就議案（二）不得行使表決權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲就議案（一）及議案（三）皆不得行使表決權，而B公司就議案（二）得行使表決權"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲僅就議案（三）不得行使表決權，而B公司就議案（二）不得行使表決權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲僅就議案（三）不得行使表決權，而B公司就議案（二）得行使表決權"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-013",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 13,
+    "question_type": "single",
+    "stem": "X股份有限公司設有九席董事，分別由A、B、C、D、E、F、G、H、I擔任，其中A、B、C為常務董事，A為董事長，B為副董事長。依公司法之規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A、B、C三位常務董事，由股東會選任之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "B之副董事長職務，由常務董事會選任之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A請假無法行使董事長職權時，由B代理行使職權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "常務董事會決議解任A之董事長職務後，A仍為公司董事"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-014",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 14,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）為非公開發行股票之公司，章程記載資本總額為新臺幣（下同）  10億元，已發行9.9億元，為擴充廠房，需增資3億元。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司須將原章程記載之資本總額全數發行完畢後，始可變更章程"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司得先變更章程提高資本額，再發行新股"
+      },
+      {
+        "choice_id": "c3",
+        "text": "為求時效，A公司可先增資3億元後，再補辦變更章程之程序，於完成修章程序後，始發生增資之效力"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司所需之3億資金，必須一次募足，不得分次發行"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-015",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 15,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）為B股份有限公司（下稱B公司）之控制公司，當B公司欲任命任何高階業務主管時，均事先徵得A公司之同意。去年A公司為其自身利益，間接使B公司為不利益之經營，但未於會計年度終了時為適當之補償，致B公司受有損害，但A公司未賠償B公司之損害。甲於2年前借給B公司新臺幣50萬元，尚未獲得清償，屢屢函請B公司儘速對A公司採取法\n律行動，未料B公司卻逕自聲明不會為此向A公司求償，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲無代位求償權，因A公司並未持有B公司已發行有表決權股份總數半數以上"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲對B公司之債權未超過新臺幣100萬元，不能代位求償"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因B公司拋棄請求賠償權利，甲不能代位求償"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲得以自己名義行使B公司權利，請求A公司對B公司為給付 16原保險契約與再保險契約皆另行於契約條款約定，原保險之被保險人得直接向再保險人請求保險金， 而再保險人也得向原保險之要保人請求保險費。若原保險契約之原保險人失去清償能力，原被保險人得否直接向再保險人請求保險金？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "可，原被保險人本來就是再保險契約保護之對象，該契約條款純屬多餘"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-021",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 21,
+    "question_type": "single",
+    "stem": "A公司於民國（下同）105年1月向B產物保險股份有限公司（下稱B公司）投保公共意外責任險。 A公司廠房於105年5月失火，火勢延燒造成C公司廠房損失。C公司於105年10月起訴A公司，\n於108年10月判決確定A公司應賠償C公司之損失。因A公司失火後即不再營業，亦無資產可供執行，C公司乃於110年9月依保險法第94條向B公司提起訴訟，請求保險理賠。試問：C公司對 B公司之訴訟有無罹於時效？該時效應自何時起算？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "依保險法第65條，應自保險得為請求之日（105年5月失火）起算二年，因此已經罹於時效"
+      },
+      {
+        "choice_id": "c2",
+        "text": "依保險法第90條被保險人受賠償之請求，亦即應自105年10月起算二年，因此已經罹於時效"
+      },
+      {
+        "choice_id": "c3",
+        "text": "應依被保險人侵權行為責任發生日起算二年，亦即應自105年5月失火起算二年，因此已經罹於時效"
+      },
+      {
+        "choice_id": "c4",
+        "text": "應自被保險人對第三人應負損失賠償責任確定時起算，亦即應自108年10月起算二年，因此尚未罹於時效 22甲以自己為被保險人投保終身壽險，一年後因欠繳保險費，經保險人催告後仍未繳，契約停止效力。甲在停效後六個月內，向保險人申請復效。下列有關復效規定之敘述，何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "甲申請恢復效力時，保險人不得請求甲提供可保證明"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-025",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 25,
+    "question_type": "single",
+    "stem": "A公司向B產物保險股份有限公司（下稱B公司）於投保工程保險後，因國際上發生重大事故，導致B公司安排再保險費超過原保險契約之保險費，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "因國際發生重大事故導致危險增加，雖非因要保人或被保險人之行為所致，但B公司仍得主張調高保險費"
+      },
+      {
+        "choice_id": "c2",
+        "text": "因國際發生重大事故導致危險增加，非因要保人或被保險人之行為所致者，A公司應於知悉後十日內通知保險人。如A公司違反通知義務時，B公司僅得請求損害賠償"
+      },
+      {
+        "choice_id": "c3",
+        "text": "國際上發生重大事故導致再保險費提高，如B公司欲請求增加保險費，應依實際狀況判斷有無情事變更原則之適用"
+      },
+      {
+        "choice_id": "c4",
+        "text": "國際發生重大事故導致再保險費提高，B公司僅得依保險法第60條第1項之規定向A公司主張終止契約 26票據上之權利，因時效或手續之欠缺，而歸於消滅時，執票人對於發票人或承兌人，於其實質上所得之利益之限度，仍得請求償還其利益，票據法第22條第4項定有明文。甲簽發即期支票，執票人乙之利益償還請求權之消滅時效期間，依最高法院見解，下列之計算方法，何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "乙僅得自退票日起算3年內向甲請求"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-037",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 37,
+    "question_type": "single",
+    "stem": "A上市公司依章程規定設有五名獨立董事，並設置審計委員會。其中一名獨立董事甲於任期中因健康因素請辭，在A上市公司尚未補選獨立董事前，若其擬就委任簽證會計師事項為決定者，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "應直接經由全體董事三分之二以上同意之決議為之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "應先經審計委員會至少三名獨立董事之同意後，再經董事會決議為之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "得先經審計委員會至少二名獨立董事之同意後，再經董事會決議為之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "得直接經由全體獨立董事三分之二以上同意之決議為之"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-038",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 38,
+    "question_type": "single",
+    "stem": "A公司為一家從事主機板製造的上櫃公司，該公司設有甲、乙、丙3名獨立董事。近期，甲、乙、丙 3人同時辭去獨立董事之職務，則A公司依法應自事實發生之日起至遲幾日內，召開股東臨時會補選之？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "30日"
+      },
+      {
+        "choice_id": "c2",
+        "text": "50日"
+      },
+      {
+        "choice_id": "c3",
+        "text": "60日"
+      },
+      {
+        "choice_id": "c4",
+        "text": "90日"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-039",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 39,
+    "question_type": "single",
+    "stem": "A公司為一家公開發行股票之公司，該公司設有五名董事。最近，A公司召開股東會改選董事及監察人。依證券交易法之規定及司法實務見解，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "具控制與從屬關係之B公司與C公司皆為A公司之法人股東，除經主管機關核准者外，不得由B 公司之代表人當選A公司之董事且C公司之代表人當選A公司之監察人"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司除經主管機關核准者外，監察人間應至少一席以上，不得具有配偶或二親等以內之親屬關係"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司之董事間皆不得具有配偶或二親等以內之親屬關係"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司監察人與董事間皆為二親等以內親屬，則監察人中所得選票代表選舉權較低者，其當選失其效力"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-040",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 40,
+    "question_type": "single",
+    "stem": "A上櫃公司（下稱A公司）擬於6月15日召開本年度股東常會，本次會議並將選舉董事。截至本次股東會之股票停止過戶日，法人股東B持有A公司普通股之表決權數已達A公司已發行股份總表決權數之3.3%，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司得委由主管機關核准之股務代理機構，擔任A公司股東之受託代理人，代理股東出席本次股東會"
+      },
+      {
+        "choice_id": "c2",
+        "text": "只要是A公司之股東，均可委託信託事業擔任A公司股東委託書之徵求人"
+      },
+      {
+        "choice_id": "c3",
+        "text": "股東B得以自行書寫之委託書取代A公司印發之委託書用紙，委託他人代理出席，並行使表決權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "自然人甲得僅受股東B一人之委託，代理股東B出席本次股東會，行使B全部之表決權"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-041",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 41,
+    "question_type": "single",
+    "stem": "A公司已持有B上櫃公司（下稱B公司）有表決權股份超過50%，今A公司計畫繼續加碼買進B公司股份達到90%，之後即可與B公司進行簡易合併，若A公司不想在櫃檯買賣市場慢慢買進B公司股票，而擬以公開收購方式為之，則對A公司擬進行之公開收購，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司應向主管機關提出具有履行支付收購對價能力之證明後，始得為之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司不須向證券主管機關申報，即得為之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司不得採用公開收購方式來買進B公司股票"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司身為B公司之控制股東，則其未取得B公司股東會同意之前，不得採用公開收購方式來買進B公司股票"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-042",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 42,
+    "question_type": "single",
+    "stem": "A上市食品公司決定私募新股，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "須經公司股東會已發行股份總數過半數股東之出席，出席股東表決權三分之二以上之同意，始得為之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "不限於向金融機構私募，但均有應募人數限制"
+      },
+      {
+        "choice_id": "c3",
+        "text": "應依證券交易法第22條規定申報生效後為之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "依法決議後，可於2年內分次辦理 43甲是剛踏入社會的新鮮人，想將部分積蓄拿來投資上市有價證券，下列有關國內證券市場相關法制之敘述何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "政府發行之債券，其上市由主管機關以命令行之，不適用證券交易法有關上市之規定"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-044",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 44,
+    "question_type": "single",
+    "stem": "X公司是一家上市電子公司，今X公司欲透過發行有價證券之方式，籌措公司所需之資金，故與Y  證券公司簽訂有價證券承銷契約。契約中載明於承銷期間屆滿後，對於約定承銷之有價證券，若未能全數銷售者，其賸餘數額之有價證券，應由Y證券公司自行認購之。依證券交易法之規定，此種有價證券承銷方式稱為：",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "包銷"
+      },
+      {
+        "choice_id": "c2",
+        "text": "直銷"
+      },
+      {
+        "choice_id": "c3",
+        "text": "代銷"
+      },
+      {
+        "choice_id": "c4",
+        "text": "分銷"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-045",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "A上櫃公司（下稱A公司）董事長甲於取得A公司股票後6個月內再行賣出，因而獲得利益共計新臺幣（下同）150萬元，依證券交易法之規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司應請求甲將該150萬元利益歸於公司，無須經股東會決議"
+      },
+      {
+        "choice_id": "c2",
+        "text": "主管機關得處甲24萬元以上480萬元以下之罰鍰"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲短線交易之獲利行為已構成證券交易法上之刑事犯罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司非上市公司，故甲無須負任何責任 46甲在X法院起訴請求乙給付新臺幣（下同）800萬元，獲勝訴判決並宣告供擔保後得假執行。乙提起上訴；甲依假執行判決供擔保，就乙在X法院轄區之丙銀行A存款（50萬元）及在Y法院轄區之B房地（價值700萬元）聲請強制執行。下列敘述，何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "甲向X法院聲請執行乙之A存款及B房地時，X法院就A存款得扣押、換價，就B房地得查封、拍賣"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-056",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 56,
+    "question_type": "single",
+    "stem": "is the term used to describe the tort of making a false statement of fact that injures someone’s reputation.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Misrepresentation"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Adulation"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Disparagement"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Defamation"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-057",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 57,
+    "question_type": "single",
+    "stem": "While a crime such as murder or shoplifting is a wrong committed against society, a tort is a   committed against an individual.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "private wrong"
+      },
+      {
+        "choice_id": "c2",
+        "text": "civil wrong"
+      },
+      {
+        "choice_id": "c3",
+        "text": "public wrong"
+      },
+      {
+        "choice_id": "c4",
+        "text": "contradict wrong"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-058",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 58,
+    "question_type": "single",
+    "stem": "Rachel is a babysitter. She left Michael, a two-year-old boy, at home alone and sneaked out to go shopping. After 30 minutes, Michael put a fork into an electric plug and was seriously injured. Rachel was negligent for breaching of  .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "care of duty"
+      },
+      {
+        "choice_id": "c2",
+        "text": "duty of care"
+      },
+      {
+        "choice_id": "c3",
+        "text": "duty of notification"
+      },
+      {
+        "choice_id": "c4",
+        "text": "watching of obligation"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-059",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 59,
+    "question_type": "single",
+    "stem": "According to the Restatement (Second) of Contracts, a natural person who manifests assent to a transaction has full legal capacity to incur contractual duties thereby unless he is under guardianship, an infant, mentally ill or defective, or  .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "intoxicated"
+      },
+      {
+        "choice_id": "c2",
+        "text": "unconscious"
+      },
+      {
+        "choice_id": "c3",
+        "text": "delirious"
+      },
+      {
+        "choice_id": "c4",
+        "text": "disoriented"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-060",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 60,
+    "question_type": "single",
+    "stem": "ABC Co. plans to arrange for an initial public offering (“IPO”) of its shares, and it understands that it needs to file its IPO with a competent authority. Which authority should ABC Co. submit this filing?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Ministry of Economic Affairs"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Taiwan Stock Exchange"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Taipei Exchange"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Financial Supervisory Commission"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-061",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 61,
+    "question_type": "single",
+    "stem": "ABC Co. is a Taiwanese public company whose stock is listed on Taiwan Stock Exchange. It plans to raise capital by cash offering of new shares. In handling this new share issuance project, which of the following parties is NOT the party that ABC Co. shall reserve the newly issued shares for?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "ABC Co.’s existing shareholders"
+      },
+      {
+        "choice_id": "c2",
+        "text": "ABC Co.’s employees"
+      },
+      {
+        "choice_id": "c3",
+        "text": "ABC Co.’s directors"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Public investors"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-062",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 62,
+    "question_type": "single",
+    "stem": "prescribes that all evidence obtained directly by illegal searches and seizures shall be excluded and is inadmissible at trial.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Exclusionary rule"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Fruit of poisonous tree doctrine"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Equal protection principle"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Proportionality"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-063",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 63,
+    "question_type": "single",
+    "stem": "According to Article 156(2) of the Code of Criminal Procedure, a conviction cannot be solely based on the   of the accused.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "confession"
+      },
+      {
+        "choice_id": "c2",
+        "text": "allegation"
+      },
+      {
+        "choice_id": "c3",
+        "text": "objection"
+      },
+      {
+        "choice_id": "c4",
+        "text": "accusation"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-064",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 64,
+    "question_type": "single",
+    "stem": "“ ” refers to evidence that is applied to the principal fact, indirectly, or through the medium of other facts, by establishing certain circumstances or minor facts, already described as evidentiary. Which of the following is suitable for the blank in the sentence?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Direct evidence"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Circumstantial evidence"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Character evidence"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Exculpatory evidence"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-065",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 65,
+    "question_type": "single",
+    "stem": "Which criminal offense includes unlawful sexual intercourse without consent after the perpetrator has substantially impaired his or her victim by administering, without the victim’s knowledge or consent, drugs or intoxicants for the purpose of preventing resistance?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "incest"
+      },
+      {
+        "choice_id": "c2",
+        "text": "indecent exposure"
+      },
+      {
+        "choice_id": "c3",
+        "text": "rape"
+      },
+      {
+        "choice_id": "c4",
+        "text": "embezzlement"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-066",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 66,
+    "question_type": "single",
+    "stem": "A person or group who is not a party to an action, but has a strong interest in the matter, will petition the court for permission to submit a brief in the action with the intent of influencing the court’s decision. Such briefs are called “  briefs.”",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "petitioner’s"
+      },
+      {
+        "choice_id": "c2",
+        "text": "amicus"
+      },
+      {
+        "choice_id": "c3",
+        "text": "respondent’s"
+      },
+      {
+        "choice_id": "c4",
+        "text": "appellate"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-067",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 67,
+    "question_type": "single",
+    "stem": "Given that homosexuals have been a discrete and insular minority in the society, different treatment based on sexual orientation should be subject to heightened .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "regulation"
+      },
+      {
+        "choice_id": "c2",
+        "text": "probe"
+      },
+      {
+        "choice_id": "c3",
+        "text": "surveillance"
+      },
+      {
+        "choice_id": "c4",
+        "text": "scrutiny"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-068",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 68,
+    "question_type": "single",
+    "stem": "When an application of an outdoor parade presents no , the government that denies the application simply based on its discretion is prone to infringe upon the freedom of assembly.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "overinclusiveness"
+      },
+      {
+        "choice_id": "c2",
+        "text": "vagueness"
+      },
+      {
+        "choice_id": "c3",
+        "text": "clear and present danger"
+      },
+      {
+        "choice_id": "c4",
+        "text": "compelling interests"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-069",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 69,
+    "question_type": "single",
+    "stem": "The U.S. Supreme Court ruled that the law, which allows union organizers to enter farms to speak to workers during nonworking hours, unconstitutionally   private land by allowing organizers to go on farm property.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "benefits"
+      },
+      {
+        "choice_id": "c2",
+        "text": "appropriates"
+      },
+      {
+        "choice_id": "c3",
+        "text": "depreciates"
+      },
+      {
+        "choice_id": "c4",
+        "text": "authorizes"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-4301-070",
+    "year": 110,
+    "subject_code": "4301",
+    "question_no": 70,
+    "question_type": "single",
+    "stem": "is a specific doctrine that precludes re-litigation of claims and issues arising from the same cause of action between the same parties and their privies after a final judgment on the merits by a competent tribunal or after some other final determination having the same effect.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Counter-claim"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Cross-claim"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Respondeat Superior"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Res judicata"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  }
+]

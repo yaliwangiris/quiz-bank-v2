@@ -1,0 +1,1066 @@
+[
+  {
+    "question_id": "111-4301-001",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 1,
+    "question_type": "single",
+    "stem": "A有限公司（下稱A公司）股東有甲、乙二人，但僅甲擔任董事。A公司從事食品加工事業，因違法添加有毒物質造成消費者損害，但A公司已無資力，故擬依揭穿公司面紗原則向甲、乙求償。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "揭穿公司面紗原則雖僅明文適用於股份有限公司，但得類推適用於有限公司，故有可能向甲、乙求償"
+      },
+      {
+        "choice_id": "c2",
+        "text": "揭穿公司面紗原則僅明文適用於股份有限公司，甲、乙僅負有限責任"
+      },
+      {
+        "choice_id": "c3",
+        "text": "揭穿公司面紗原則亦明文適用於有限公司，故有可能向甲、乙求償"
+      },
+      {
+        "choice_id": "c4",
+        "text": "揭穿公司面紗原則亦明文適用於有限公司，但僅適用於擔任董事之股東，故有可能向甲求償 2公司法有關公司負責人之規定，下列敘述何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "公司債受託人在職務範圍內為公司負責人"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-003",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 3,
+    "question_type": "single",
+    "stem": "A有限公司（下稱A公司）為B股份有限公司（下稱B公司）法人股東，指派甲為其代表人當選為 B公司董事，再被推選為董事長。某日，A公司改派乙取代甲為其代表人。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "因法人股東具有隨時改派權，乙自可承受B公司董事長之職位"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙並非B公司股東會所推選，應再得B公司股東會同意始可擔任董事"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙可承受B公司董事職位，但不包括董事長職位"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公司行使改派權時應得B公司同意後，改派始生效"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-004",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 4,
+    "question_type": "single",
+    "stem": "X股份有限公司（下稱X公司）董事會決議委任甲為經理人，依公司章程規定，經理人僅得就新臺幣（下同）100萬元以下之交易行為代表公司。依公司法規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲代表X公司向Y公司採購價值300萬元之原料，如Y公司不知甲之職權範圍受有限制，X公司不得拒絕履約"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲未經董事會及股東會決議下，逕自代表X公司出售全部財產給Y公司，X公司得拒絕履約"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲擔任經理人不適任時，董事會得隨時決議解任之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "X公司章程得將董事會委任及解任經理人之權限，改由股東會決議行之 5甲、乙、丙、丁、戊、己及庚等七人為大學同學，畢業後對當Youtuber有濃厚興趣，欲共同成立A 有限公司（下稱A公司）從事Youtuber業務，章程對股東表決權之分配無特別規定。下列敘述何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "若因A公司資金短缺、亟需資金援助，然僅甲、乙、丙同意增資，則A公司仍可為增資行為"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-008",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 8,
+    "question_type": "single",
+    "stem": "A股份有限公司去年度雖無盈餘，但擬使用法定盈餘公積與資本公積以現金方式發放股東。下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "不論公司有無累積虧損，皆可發放"
+      },
+      {
+        "choice_id": "c2",
+        "text": "非公開發行股票公司應有股東會決議通過"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公開發行股票公司得授權董事會以特別決議方式通過分派案"
+      },
+      {
+        "choice_id": "c4",
+        "text": "以法定盈餘公積發給者，以超過實收資本額百分之二十五之部分為限 9股票未公開發行之A股份有限公司（下稱A公司），為節能減碳，擬以電子方式發送已依法載明召集事由之股東會召集通知，於下列情況，可以電子方式發送通知？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "經董事會決議，可以電子方式通知"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-013",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 13,
+    "question_type": "single",
+    "stem": "A公司及B公司均為股份有限公司，二公司之董事長為忘年之交。A公司轉投資B公司超過相互投資公司之法定門檻後，依法通知B公司。B公司收到通知後一個月內，也加碼投資A公司超過相互投資公司之法定門檻。嗣後B公司開始籌備當年度之股東常會召集程序，而未將相互投資之事實通知A公司，且A公司亦未知B公司有加碼投資事宜。B公司股東常會恰巧必須改選全體董事。下列 敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司不得於B公司股東會行使表決權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司得行使表決權，惟不得超過B公司已發行有表決權股份總數三分之一"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司得行使表決權，惟不得超過B公司已發行有表決權股份總數二分之一"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司得行使表決權，且無上限之限制 14依公司法規定，下列有關關係企業之敘述何者正確？①A股份有限公司已發行股份總數為10,000股， B股份有限公司已發行股份總數為6,000股，股東甲分別持有A公司及B公司5,001股，則推定A 公司與B公司有控制從屬關係 ②A股份有限公司已發行股份總數為10,000股，B股份有限公司已發行股份總數為6,000股，股東甲分別持有A公司及B公司3,001股，則推定A公司與B公司為相 互投資公司 ③C股份有限公司設有董事甲、乙、丙、丁、戊共5名，D股份有限公司設有董事甲、乙、己共3名，則推定C公司與D公司為控制從屬關係 ④C股份有限公司設有董事甲、乙、丙、 丁、戊共5名，D股份有限公司設有董事甲、乙、丁共3名，則推定C公司與D公司為控制從屬關係"
+      },
+      {
+        "choice_id": "c5",
+        "text": "②③"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-032",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 32,
+    "question_type": "single",
+    "stem": "A簽發匯票予B，票據依序背書轉讓予C、D、E，最後由E背書轉讓予F。F得行使追索權時，甲、乙、丙、丁依序願分別為A、B、C、D參加付款。依票據法，應由何人參加付款？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙"
+      },
+      {
+        "choice_id": "c3",
+        "text": "丙"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丁 33甲於民國（下同）105年10月1日簽發本票一紙給乙，並記載見票後1個月付款，乙於105年11月 1日再將該票據背書轉讓給丙，丙於106年4月30日持票向甲提示見票，下列敘述，何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "丙逾越見票之提示期限，故丙對甲喪失票據權利"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-037",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 37,
+    "question_type": "single",
+    "stem": "A公司為一家從事航運的上櫃公司，今該公司擬現金發行新股，依證券交易法第28條之1規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司若有主管機關認為無須或不適宜對外公開發行者，得不提撥發行新股總額之一定比率，對外公開發行"
+      },
+      {
+        "choice_id": "c2",
+        "text": "主管機關得規定A公司提撥發行新股總額之一定比率，以時價向外公開發行"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司股東會得決議就此次發行新股總額之百分之十二，對外公開發行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司依規定提撥向外公開發行時，同次發行由公司員工承購之價格，應與向外公開發行之價格相同"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-038",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 38,
+    "question_type": "single",
+    "stem": "A上市公司依法設有審計委員會。近期，A公司擬召開審計委員會，討論該公司內部控制制度修正案。若A公司審計委員會欲通過此內部控制制度修正案，應經下列何者之決議通過？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "審計委員會全體成員二分之一以上同意"
+      },
+      {
+        "choice_id": "c2",
+        "text": "應由三分之二以上審計委員會成員之出席，及出席成員過半數之同意"
+      },
+      {
+        "choice_id": "c3",
+        "text": "應有過半數審計委員會成員之出席，出席成員過半數同意"
+      },
+      {
+        "choice_id": "c4",
+        "text": "審計委員會全體成員三分之二以上同意 39從事工具機製造之A股份有限公司已登錄興櫃，資本額新臺幣3億元，最近一次全面改選董事為民國109年，有關該公司之敘述，下列何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "應設置獨立董事"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-040",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 40,
+    "question_type": "single",
+    "stem": "A公司已持有B公開發行公司百分之六十一的股權。今A公司擬以公開收購方式，再取得B公司百分之三十的股權。依證券交易法之規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司必須向主管機關申報後，始得對B公司進行公開收購"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司於公開收購期間不得於集中交易市場、證券商營業處所、其他任何場所或以其他方式，購買同種類之B公司有價證券"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司進行公開收購後，原則上不得任意停止公開收購之進行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "若A公司未於收購期間完成預定收購數量，除有正當理由並經主管機關核准者外，A公司於1年內不得再對B公司進行公開收購"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-041",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 41,
+    "question_type": "single",
+    "stem": "A上市公司（下稱A公司）董事長因為股市連日不正常下跌，為了維護公司信用及股東權益，擬經 A公司之董事會特別決議，進行買回庫藏股，來維護A公司之信用及股東權益。依照證券交易法之規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司買回股份之數量比例，不得超過該公司已發行股份總數百分之十，且收買股份之總金額，不得逾保留盈餘加發行股份溢價及已實現之資本公積之金額"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司所進行庫藏股買回，最長可於買回之日起5年內將其轉讓"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司依照規定買回之股份，不得質押，於未轉讓前，不得享有股東權利"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司進行庫藏股買回，A公司之關係企業或董事、監察人、經理人、持有該公司股份超過股份總額百分之十之股東所持有之股份，於該公司買回之期間內不得賣出"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-042",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 42,
+    "question_type": "single",
+    "stem": "A上市公司為避免股本膨脹，原股東股權被稀釋，擬私募普通公司債，以快速取得資金並降低籌資成本，關於普通公司債之私募，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司須經公司股東會已發行股份總數過半數股東之出席，出席股東表決權三分之二以上之同意，始得為之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "普通公司債之私募，其發行總額除經主管機關徵詢目的事業中央主管機關同意者外，不得逾A公司全部資產減去全部負債餘額之400%"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司得於董事會決議之日起一年內分次辦理"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司應於公司債價款繳納完成日起15日內，檢附相關書件，報請主管機關備查 43甲請教乙律師，因為在證券市場之運作，證券交易所扮演不可或缺之角色，而證券交易所之組織，通 常分為會員制及公司制，各依照不同制度，有所相應的規範。依照證券交易法之規定，下列敘述何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "證券商之董事、監察人、股東或受僱人不得為公司制證券交易所之經理人"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-044",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 44,
+    "question_type": "single",
+    "stem": "A公司為一家從事食品加工的股份有限公司，該公司之股票在集中交易市場掛牌交易。依證券交易法之規定，A公司第三季的財務報告，除情形特殊，經主管機關另予規定者外，至遲應於每會計年度第三季終了後幾日內，公告並申報由董事長、經理人及會計主管簽名或蓋章，並經會計師核閱及提報董事會之財務報告？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "10日"
+      },
+      {
+        "choice_id": "c2",
+        "text": "15日"
+      },
+      {
+        "choice_id": "c3",
+        "text": "30日"
+      },
+      {
+        "choice_id": "c4",
+        "text": "45日"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-045",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "股票上櫃之B股份有限公司（下稱B公司）董事甲，知悉足以影響B公司股價之消息，於該消息公開前，以每股50元買進該公司股票10,000股，於消息公開後翌日，以每股65元賣出5,000股，其餘5,000股迄今持有，該消息公開後10個營業日，B公司股價平均收盤價為80元。若甲買賣B公司 股票之行為遭法院認定為內線交易，若不計算稅與交易手續費，依最高法院大法庭之見解，甲從事內線交易之犯罪所得為何？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "75,000"
+      },
+      {
+        "choice_id": "c2",
+        "text": "150,000"
+      },
+      {
+        "choice_id": "c3",
+        "text": "225,000"
+      },
+      {
+        "choice_id": "c4",
+        "text": "300,000"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-056",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 56,
+    "question_type": "single",
+    "stem": "Eric was next door to Ben. Eric decided to build a new swimming pool in his backyard. After the construction was done, Ben found the pool was partly built on his land. It is a   if Eric intentionally built his pool on other’s land.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "trespass"
+      },
+      {
+        "choice_id": "c2",
+        "text": "battery"
+      },
+      {
+        "choice_id": "c3",
+        "text": "assault"
+      },
+      {
+        "choice_id": "c4",
+        "text": "misrepresentation"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-057",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 57,
+    "question_type": "single",
+    "stem": "Which of the following is not a sub-field of the law of torts in American common law?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "medical malpractice"
+      },
+      {
+        "choice_id": "c2",
+        "text": "products liability"
+      },
+      {
+        "choice_id": "c3",
+        "text": "auto accidents"
+      },
+      {
+        "choice_id": "c4",
+        "text": "devolution of property"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-058",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 58,
+    "question_type": "single",
+    "stem": "When the director and the corporation are both parties to a transaction which involves a director's conflicting interests. The director cannot participate in the corporate decision-making process that approves the transaction in order to avoid violating the   to the corporation.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "duty of care"
+      },
+      {
+        "choice_id": "c2",
+        "text": "duty of loyalty"
+      },
+      {
+        "choice_id": "c3",
+        "text": "duty of reliance"
+      },
+      {
+        "choice_id": "c4",
+        "text": "duty of good deed"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-059",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 59,
+    "question_type": "single",
+    "stem": "If a Supreme Court Justice agrees with the outcome of the case, but not the majority’s rationale for it, that Justice may write a   opinion.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "dissenting"
+      },
+      {
+        "choice_id": "c2",
+        "text": "majority"
+      },
+      {
+        "choice_id": "c3",
+        "text": "plurality"
+      },
+      {
+        "choice_id": "c4",
+        "text": "concurring"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-060",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 60,
+    "question_type": "single",
+    "stem": "Mary tried to collect on an airline trip insurance policy she had purchased, but was refused by the insurance company on the ground that the policy applied only to a trip on “scheduled airline” and that “technically” under some obscure regulations Mary’s flight was not “scheduled,” even though she had every reason to believe that it was. The court held in favor of Mary on the ground that ordinary insurance buyer’s understanding should apply, since this was a contract  .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "of beneficence"
+      },
+      {
+        "choice_id": "c2",
+        "text": "of adhesion"
+      },
+      {
+        "choice_id": "c3",
+        "text": "for deed"
+      },
+      {
+        "choice_id": "c4",
+        "text": "under seal"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-061",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 61,
+    "question_type": "multiple",
+    "stem": "Sean submitted and Rene accepted a bid to supply approximately 4,000 tons of trap rock for an airport at a unit price. The parties executed a standard form of “Invitation, Bid, and Acceptance (Short From Contract)” supplied by Rene, including typed terms “to be delivered to project as required,” “delivery to start immediately,” and “cancellation by Rene may be effected at any time.” However,   requires that Rene orders and accepts the rock within a reasonable time unless Rene has given Sean a notice of intent to cancel.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "good faith"
+      },
+      {
+        "choice_id": "c2",
+        "text": "good feeling"
+      },
+      {
+        "choice_id": "c3",
+        "text": "good intent"
+      },
+      {
+        "choice_id": "c4",
+        "text": "good will"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-062",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 62,
+    "question_type": "multiple",
+    "stem": "Securities law intervenes in corporate governance in several ways. From the example of Taiwan’s securities law, which of the following does not reflect this intervention?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Companies cannot solicit and receive proxy from shareholders freely."
+      },
+      {
+        "choice_id": "c2",
+        "text": "Companies need to make a public financial disclosure every season or year."
+      },
+      {
+        "choice_id": "c3",
+        "text": "A certain number of independent directors are required for newly listed companies."
+      },
+      {
+        "choice_id": "c4",
+        "text": "When issuing new stock, participating underwriters need to have licenses, meet strict qualifications, and cannot be bypassed."
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-063",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 63,
+    "question_type": "multiple",
+    "stem": "is a public offer to stockholders of a listed company to exchange their shares for cash or securities bypassing the centralized securities exchange market or the over-the-counter market.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Public issuing"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Treasury stock"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Tender offer"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Proxy solicitation"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-064",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 64,
+    "question_type": "multiple",
+    "stem": "Adoption of criminal statutes requiring consideration of   impact statements during the sentencing stage aims to provide various information about the crime with the court.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "victory"
+      },
+      {
+        "choice_id": "c2",
+        "text": "victim"
+      },
+      {
+        "choice_id": "c3",
+        "text": "vicarious"
+      },
+      {
+        "choice_id": "c4",
+        "text": "vice"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-065",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 65,
+    "question_type": "multiple",
+    "stem": "could be awarded in addition to actual damages when the defendant acted with recklessness, malice, or deceit.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Compensatory damages"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Nominal damages"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Punitive damages"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Consequential damages"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-066",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 66,
+    "question_type": "multiple",
+    "stem": "The 1943 decision, West Virginia State Board of Education v. Barnette,   a law compelling public school students to salute the flag. Justice Jackson wrote that“[I]f there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion or other matters of opinion, or force citizens to confess by word or act their faith therein.”",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "upheld"
+      },
+      {
+        "choice_id": "c2",
+        "text": "struck down"
+      },
+      {
+        "choice_id": "c3",
+        "text": "sustained"
+      },
+      {
+        "choice_id": "c4",
+        "text": "overhauled"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-067",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 67,
+    "question_type": "multiple",
+    "stem": "Which of the following is not a constitutional limit on government power?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Check and balance"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Judicial review"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Ban on ex post facto laws"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Presidential immunity"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-068",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 68,
+    "question_type": "multiple",
+    "stem": "In this case we are asked to reconsiderAustinv.Michigan Chamber of Commerce, 494 U.S. 652 (1990). It has been noted that “Austinwas a significant departure from ancient First Amendment principles.” We agree with that conclusion and hold thatstare decisisdoes not compel the continued  ofAustin.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "resistance"
+      },
+      {
+        "choice_id": "c2",
+        "text": "forbearance"
+      },
+      {
+        "choice_id": "c3",
+        "text": "disapproval"
+      },
+      {
+        "choice_id": "c4",
+        "text": "acceptance"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-069",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 69,
+    "question_type": "multiple",
+    "stem": "In a civil case,   are a trivial sum of money awarded to a plaintiff whose legal right has been technically violated but who has not established that they are entitled to compensatory damages because there was no accompanying loss or harm.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "nominal damages"
+      },
+      {
+        "choice_id": "c2",
+        "text": "trivial awards"
+      },
+      {
+        "choice_id": "c3",
+        "text": "declaratory compensations"
+      },
+      {
+        "choice_id": "c4",
+        "text": "punitive damages"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "111-4301-070",
+    "year": 111,
+    "subject_code": "4301",
+    "question_no": 70,
+    "question_type": "multiple",
+    "stem": "A   is a ruling entered by a trial judge after determining that there is no legally sufficient evidentiary basis for a reasonable jury to reach a different conclusion.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "summary judgement"
+      },
+      {
+        "choice_id": "c2",
+        "text": "directed verdict"
+      },
+      {
+        "choice_id": "c3",
+        "text": "judgement of dismissal"
+      },
+      {
+        "choice_id": "c4",
+        "text": "judgement notwithstanding the verdict"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  }
+]

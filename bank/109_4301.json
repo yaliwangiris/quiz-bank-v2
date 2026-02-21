@@ -1,0 +1,900 @@
+[
+  {
+    "question_id": "109-4301-006",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 6,
+    "question_type": "single",
+    "stem": "A有限公司有股東甲、乙、丙三人，甲、乙為公司之董事，且甲為董事長。今甲個人有一間商業辦公空間，欲出租給A公司作為營業處所，該租賃契約應由何人代表A公司與甲簽訂契約？又A公司之  董事乙可否單方面無故辭去其董事一職？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "該租賃契約應由乙代表A公司簽訂；又乙基於委任關係得隨時辭去董事職務"
+      },
+      {
+        "choice_id": "c2",
+        "text": "該租賃契約應由丙代表A公司簽訂；又乙基於委任關係得隨時辭去董事職務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "該租賃契約應由乙代表A公司簽訂；又乙不得無故辭去董事職務"
+      },
+      {
+        "choice_id": "c4",
+        "text": "該租賃契約應由丙代表A公司簽訂；又乙不得無故辭去董事職務"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-007",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 7,
+    "question_type": "single",
+    "stem": "A股份有限公司係一實收資本額新臺幣（以下同）2000萬元之非公開發行公司，該公司持有另一家實收資本額1000萬元之B股份有限公司百分之九十二的股權。今A、B兩家公司擬以吸收合併方式進\n行合併，並以A公司為存續公司。依公司法之規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "合併後之A公司，其資本額依法必須是3000萬元"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A、B兩公司合併只要經兩家公司董事會特別決議通過即可，無須經股東會決議程序"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司股東甲反對兩家公司合併，得請求A公司按當時公平價格收買其持有之股份"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A、B兩家公司合併後，B公司為消滅公司，B公司依法應進行清算 8非公開發行股票且非閉鎖性之A股份有限公司，欲私募轉換公司債，須經何種程序？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "僅須經董事會普通決議"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-009",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 9,
+    "question_type": "single",
+    "stem": "X股份有限公司（下稱X公司）為一家非閉鎖性之非公開發行股票公司，擬發行特別股，其特別股之設計內容，依公司法之規定，下列選項中何者適法？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "X公司擬發行對於特定事項具否決權之特別股，該特別股之設計，得針對「總經理之任用」行使否決權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "X公司擬就分派股息及紅利之定額或定率，發行特別股，而該定額或定率得為零"
+      },
+      {
+        "choice_id": "c3",
+        "text": "X公司擬發行複數表決權特別股，而該特別股股東，於選舉董事或監察人時，其選舉權之計算得乘以複數表決權，無須與普通股股東之表決權同"
+      },
+      {
+        "choice_id": "c4",
+        "text": "X公司擬發行無表決權特別股，並禁止該特別股股東出席股東會"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-010",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 10,
+    "question_type": "single",
+    "stem": "A公司為一非公開發行公司，其持有B公開發行公司有表決權股份總數百分之九十，甲係A公司之法務長，乙係B公司之董事長且未於B公司兼任其他職務。下列關於員工獎酬之敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司不能發行限制員工權利新股，B公司能發行限制員工權利新股給乙"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A、B公司均可以發行限制員工權利新股給甲及乙"
+      },
+      {
+        "choice_id": "c3",
+        "text": "B公司不能發行限制員工權利新股，A公司能發行限制員工權利新股給甲"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A、B公司均可發行限制員工權利新股給甲"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-011",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 11,
+    "question_type": "single",
+    "stem": "X股份有限公司（下稱X公司）有董事三名甲、乙、丙，三人因涉嫌共謀淘空公司資產而逃亡海外，致使X公司之經營陷於癱瘓。監察人丁乃聲請法院選任臨時管理人代行董事會職權，法院則選任戊自然人與Z法人擔任此等職務。按在現行公司法下，有關臨時管理人制度之規範，下列敘述，何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "戊與Z在執行臨時管理人職務範圍內，為X公司負責人"
+      },
+      {
+        "choice_id": "c2",
+        "text": "戊與Z在執行臨時管理人職務時，均應負忠實及注意義務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "監察人丁如認為戊與Z不適任，得聲請法院解任戊與Z之職務"
+      },
+      {
+        "choice_id": "c4",
+        "text": "監察人丁如認為戊與Z不適任，丁得自行召集股東會，以股東會決議方式解任戊與Z之職務 12甲、乙、丙3人均為A股份有限公司（下稱A公司）監察人，下列敘述，何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "對於通常監察事務之執行，甲、乙、丙各可單獨為之"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-014",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 14,
+    "question_type": "single",
+    "stem": "A股份有限公司為非公開發行公司，現有全部資產為新臺幣（以下同）3億元，其中無形資產為1.5億元，負債為1億元。該公司未曾發行任何公司債，今欲私募有擔保普通公司債，該公司最多可發行多少數額？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "2億元"
+      },
+      {
+        "choice_id": "c2",
+        "text": "0.5億元"
+      },
+      {
+        "choice_id": "c3",
+        "text": "5.5億元"
+      },
+      {
+        "choice_id": "c4",
+        "text": "無上限"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-015",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 15,
+    "question_type": "single",
+    "stem": "X股份有限公司（下稱X公司）與Y股份有限公司（下稱Y公司）為控制與從屬公司。Y公司為調度資金，除向X公司借貸新臺幣（以下同）1億元並以名下土地設定抵押權作為擔保外，另向Z銀行借貸2億元。嗣後，X公司利用其對Y公司之支配力，促使Y公司從事不合營業常規之交易行  為，導致Y公司受有5千萬元之損害，不僅如此，Y公司事業經營均徹底失敗而瀕臨破產。下列敘述，何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "X公司對於Y公司所受5千萬元之損害，應於會計年度終了時先為適當補償，若未為之，則應負損害賠償責任"
+      },
+      {
+        "choice_id": "c2",
+        "text": "X公司若未對Y公司賠償5千萬元，Z銀行得以自己名義請求X公司對Y公司為給付"
+      },
+      {
+        "choice_id": "c3",
+        "text": "X公司不得以對Y公司之1億元債權，主張抵銷X公司對Y公司應負擔5千萬元之損害賠償金"
+      },
+      {
+        "choice_id": "c4",
+        "text": "X公司若未對Y公司賠償5千萬元，繼續六個月以上持有Y公司股份之股東，得以自己名義，請求X公司對Y公司為給付 16甲經常在家中抽菸，其子乙恐甲不慎釀成火災，遂以甲之房屋為標的物投保火災保險。下列關於保險契約效力之敘述，何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "有效"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-034",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 34,
+    "question_type": "single",
+    "stem": "A公司簽發面額新臺幣（以下同）110萬元之支票一紙予B公司，付款人為C銀行。A公司並在支票正面右上角劃平行線二道，在線內記載D銀行。C銀行為B公司之主要往來銀行，B公司在D銀行並無帳戶，B公司向C銀行提示後，C銀行立即將票款匯入B公司在C銀行之帳戶中。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "平行線記載之位置錯誤，故本件非平行線支票"
+      },
+      {
+        "choice_id": "c2",
+        "text": "平行線內不得記載特定銀行，故本件平行線並不合法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "本件支票僅能對D銀行支付，C銀行之行為已違反票據法之規定，應負損害賠償責任"
+      },
+      {
+        "choice_id": "c4",
+        "text": "C銀行違法對於B公司付款，可處最高110萬元之罰鍰 35甲簽發以A銀行為付款人之支票一紙交付予乙，支票上由A銀行記載保付字樣並蓋章，其後乙於票 載發票日屆至向A銀行提示不獲付款，有關乙行使票據權利之消滅時效期間，下列敘述，何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "乙對A付款請求權有效期間為一年"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-036",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 36,
+    "question_type": "single",
+    "stem": "A上市公司將於7月24日召開例行性董事會，討論公司國內、外長期轉投資事宜，則該非有緊急情事之例行性董事會的召集通知，最晚應於何日發出？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "同年7月21日"
+      },
+      {
+        "choice_id": "c2",
+        "text": "同年7月20日"
+      },
+      {
+        "choice_id": "c3",
+        "text": "同年7月17日"
+      },
+      {
+        "choice_id": "c4",
+        "text": "同年7月16日"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-037",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 37,
+    "question_type": "single",
+    "stem": "A公司為一家股票在臺灣證券交易所掛牌交易的銀行，目前該公司實收資本額為新臺幣120億元，且 A公司設有9名董事，其中包括甲、乙、丙3名獨立董事。下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司若設有常務董事，則常務董事中至少應有一席獨立董事且不得少於常務董事席次的五分之一"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲、乙、丙3名獨立董事執行業務認有必要時，得要求董事會指派相關人員或自行聘請專家協助辦理，相關必要費用，由A公司負擔之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司得擇一設置審計委員會或監察人"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司應設置薪資報酬委員會 38自然人甲與A公開發行公司（下稱A公司）均為B公開發行公司（下稱B公司）之股東。甲及A公司 均當選為B公司董事，A公司並指派自然人乙為其法人董事代表人，代表行使職務。下列何者所持有 B公司股票持股轉讓，不致因該身分關係而受到證券交易法第22條之2股權轉讓方式規定的限制？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "甲之妻"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-041",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 41,
+    "question_type": "single",
+    "stem": "A上櫃公司已發行股份1億股，為進行海外轉投資所需，董事會決議現金發行新股3000萬股，新股的百分之十保留由員工承購，提撥百分之十對外公開發行，股東甲目前持有10萬股，則甲依股東身分可被分配認購多少股？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "無優先認股權利，由董事會決議定之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "2萬4千股"
+      },
+      {
+        "choice_id": "c3",
+        "text": "3萬股"
+      },
+      {
+        "choice_id": "c4",
+        "text": "8萬股 42甲多年來持有A上市公司股票1萬股及B上櫃公司股票2萬股，因近日股市長紅，甲小有獲利，擬 將所持有之A、B二家公司股票全數直接賣給同事乙。如甲並非A、B二家公司之董事、監察人及經理人，亦非為此等人持股之人，就本件甲、乙間讓受A、B二家公司股票之行為，依證券交易法之規定，下列敘述何者正確？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "本件讓受A、B二家公司股票之行為均合法"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-043",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 43,
+    "question_type": "single",
+    "stem": "A上櫃公司（下稱A公司）已發行股份1000萬股，先前為配合可轉換公司債之發行，作為股權轉換之用，A公司已買回自己公司股份40萬股，現在A公司為激勵員工，預計再從櫃檯買賣市場買回公司股份，假設收買股份之總金額不會超過法定上限情況下，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司本次最多可買回10萬股"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司本次買回之股份，應於買回之日起五年內將其轉讓"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司買回之股份在未轉讓前不得行使表決權，但可參與公司之盈餘分配"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司僅得於櫃檯買賣市場進行股份買回"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-044",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 44,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）擬發行新股2000萬股，職員甲於公開說明書虛增應收帳款新臺幣（以下同）5000萬元，會計師乙因相信A公司過去往來信用良好即予簽證認可，最後交由承銷商丙承銷。投資人丁以每股20元認購該新股100萬股，三個月後因公開說明書不實一事被揭露，股票下跌至每股10元。下列何人應對丁之損害負無過失之損害賠償責任？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司"
+      },
+      {
+        "choice_id": "c2",
+        "text": "職員甲"
+      },
+      {
+        "choice_id": "c3",
+        "text": "會計師乙"
+      },
+      {
+        "choice_id": "c4",
+        "text": "承銷商丙"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-045",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "A上市公司董事長甲於2018年1月2日買進可轉換公司債10張（可轉換為普通股1萬股），當日普通股收盤價新臺幣（以下同）80元，同年2月2日賣出A公司認售權證1萬股，當日普通股收盤價 90元，3月2日賣出普通股股票10張，平均賣價每股100元，4月2日賣出普通股股票10張，平均\n賣價每股105元，本案依現行法令，在不加計股息、法定利息，及未扣除交易手續費、證券交易稅的前提下，甲應歸入A公司之利益為多少？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "0元"
+      },
+      {
+        "choice_id": "c2",
+        "text": "10萬元"
+      },
+      {
+        "choice_id": "c3",
+        "text": "25萬元"
+      },
+      {
+        "choice_id": "c4",
+        "text": "35萬元 46甲持命乙給付金錢之確定判決為執行名義，聲請執行法院查封乙所占用未辦理保存登記之A屋。下列敘述，何者錯誤？"
+      },
+      {
+        "choice_id": "c5",
+        "text": "如A屋係丙出資興建，則丙得對本件執行提起第三人異議之訴"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-056",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 56,
+    "question_type": "single",
+    "stem": "While negligence law most often imposes liability on the basis of individual “fault,” the concept of   has held some people responsible for the injuries negligently caused by others.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "current liability"
+      },
+      {
+        "choice_id": "c2",
+        "text": "vicarious liability"
+      },
+      {
+        "choice_id": "c3",
+        "text": "contingent liability"
+      },
+      {
+        "choice_id": "c4",
+        "text": "joint and several liability"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-057",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 57,
+    "question_type": "single",
+    "stem": "According to the Restatement (Second) of Torts, a public   is an unreasonable interference with a right common to the general public. For example, a conduct involves a significant interference with the public health or safety is considered as unreasonable.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "repugnant"
+      },
+      {
+        "choice_id": "c2",
+        "text": "nuisance"
+      },
+      {
+        "choice_id": "c3",
+        "text": "annoying"
+      },
+      {
+        "choice_id": "c4",
+        "text": "defamation"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-058",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 58,
+    "question_type": "single",
+    "stem": "Peter sets fire to Mary’s house for the purpose to kill her. Peter knows that Mary’s son, Tom is home with Mary at that time. Peter does not want to harm Tom but he knows the fire is substantially certain to do so. Tom is injured in the fire. Peter is  .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "liable to Tom for an intentional tort"
+      },
+      {
+        "choice_id": "c2",
+        "text": "liable to Tom for a negligent tort"
+      },
+      {
+        "choice_id": "c3",
+        "text": "strictly liable to Tom"
+      },
+      {
+        "choice_id": "c4",
+        "text": "liable to Tom for nuisance"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-059",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 59,
+    "question_type": "single",
+    "stem": "Which of the following is a clause designed to protect against failures to perform contractual obligations caused by unavoidable events beyond the party’s control, such as natural disasters or wars?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Severability"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Termination"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Warranty"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Force majeure"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-060",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 60,
+    "question_type": "single",
+    "stem": "Under article 158 of Taiwan Civil Code, an offeree’s power of   is terminated at the time specified in the offer.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "attorney"
+      },
+      {
+        "choice_id": "c2",
+        "text": "revocation"
+      },
+      {
+        "choice_id": "c3",
+        "text": "acceptance"
+      },
+      {
+        "choice_id": "c4",
+        "text": "counter-offer"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-061",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 61,
+    "question_type": "single",
+    "stem": "According to the Restatement (Second) of Torts,   is the maker who is not confident in the accuracy or knows he has no basis of his representation.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "invalid misrepresentation"
+      },
+      {
+        "choice_id": "c2",
+        "text": "nuisance"
+      },
+      {
+        "choice_id": "c3",
+        "text": "defamation"
+      },
+      {
+        "choice_id": "c4",
+        "text": "fraudulent misrepresentation"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-062",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 62,
+    "question_type": "single",
+    "stem": "John joined ABC Inc.’s board as an independent director in spring of 2017. Which of the following situations, from the perspective of Taiwan’s Securities and Exchange Act and related regulations, would most likely pose a question about his independence?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "John used to work as head of the product design department at ABC Inc. from 2000 to 2014. However, John left his job due to a family situation in early 2014. In spring 2017, at the request of the CEO of ABC Inc., John returned to ABC and joined the board as an independent director."
+      },
+      {
+        "choice_id": "c2",
+        "text": "John used to work as an outside counsel for ABC Inc. from 2000 to 2016. In spring 2017, at the request of the CEO of ABC Inc., John agreed to join ABC Inc.’s board as an independent director."
+      },
+      {
+        "choice_id": "c3",
+        "text": "John worked as CEO of DEF Inc., a subsidiary owned 100 percent by ABC Inc., from 2000 until his retirement in 2014. In spring 2017, at the request of the CEO of ABC Inc., John returned to ABC Inc. and joined the board as an independent director."
+      },
+      {
+        "choice_id": "c4",
+        "text": "John worked as the head of a government agency that directly supervises ABC Inc.’s business activities. After retiring in late 2016, John joined ABC’s board as an independent director in spring 2017."
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-063",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 63,
+    "question_type": "single",
+    "stem": "Based on Taiwan’s Company Act, which of the following descriptions of a shareholder derivative suit is inaccurate?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A shareholder derivative suit is a suit brought by a shareholder on behalf of the company."
+      },
+      {
+        "choice_id": "c2",
+        "text": "In limited situations, a company has the right to ask the shareholder to withdraw the shareholder derivative suit."
+      },
+      {
+        "choice_id": "c3",
+        "text": "If a shareholder derivative suit prevails in court, the shareholder who brought the suit may, under certain limited conditions, receive monetary compensation."
+      },
+      {
+        "choice_id": "c4",
+        "text": "A shareholder needs to hold more than 1 percent of outstanding shares to file a shareholder derivative suit."
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-064",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 64,
+    "question_type": "single",
+    "stem": "The right of   is supposed to guarantee the accused the right to know his or her accuser.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "privacy"
+      },
+      {
+        "choice_id": "c2",
+        "text": "confrontation"
+      },
+      {
+        "choice_id": "c3",
+        "text": "jury trial"
+      },
+      {
+        "choice_id": "c4",
+        "text": "counsel"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-065",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 65,
+    "question_type": "single",
+    "stem": "The right of the people to be secure in their persons, houses, papers, and effects, against searches and seizures, shall not be violated.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "unchallengeable"
+      },
+      {
+        "choice_id": "c2",
+        "text": "uncertain"
+      },
+      {
+        "choice_id": "c3",
+        "text": "undesirable"
+      },
+      {
+        "choice_id": "c4",
+        "text": "unreasonable"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-066",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 66,
+    "question_type": "single",
+    "stem": "The act of implicating oneself in a crime or exposing oneself to criminal prosecution is called .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "self-incrimination"
+      },
+      {
+        "choice_id": "c2",
+        "text": "self-governance"
+      },
+      {
+        "choice_id": "c3",
+        "text": "self-determination"
+      },
+      {
+        "choice_id": "c4",
+        "text": "self-discipline"
+      }
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-067",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 67,
+    "question_type": "single",
+    "stem": "A   is an official restriction imposed upon speech or other forms of expression in advance of actual publication.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "prior notification"
+      },
+      {
+        "choice_id": "c2",
+        "text": "prior consent"
+      },
+      {
+        "choice_id": "c3",
+        "text": "prior conviction"
+      },
+      {
+        "choice_id": "c4",
+        "text": "prior restraint"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-068",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 68,
+    "question_type": "single",
+    "stem": "In Palko v. Connecticut, the petitioner argued that the Fourteenth Amendment  , as against the States, the Fifth Amendment requirement that no person “be subject for the same offence to be twice put in jeopardy of life or limb.” The Court disagreed, holding that federal double jeopardy standards were not applicable against the States.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "inserted"
+      },
+      {
+        "choice_id": "c2",
+        "text": "incorporated"
+      },
+      {
+        "choice_id": "c3",
+        "text": "declared"
+      },
+      {
+        "choice_id": "c4",
+        "text": "enumerated"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-069",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 69,
+    "question_type": "single",
+    "stem": "may be used to compensate women for particular economic disabilities they have suffered, to promote equal employment opportunity, and to advance full development of the talent and capacities of our Nation’s people.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Race discrimination"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Sex classifications"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Sexual orientation"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Gender discrimination"
+      }
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "109-4301-070",
+    "year": 109,
+    "subject_code": "4301",
+    "question_no": 70,
+    "question_type": "single",
+    "stem": "Which of the following is least related to the constitutional guarantee of equal protection?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "suspect classification"
+      },
+      {
+        "choice_id": "c2",
+        "text": "disparate treatment"
+      },
+      {
+        "choice_id": "c3",
+        "text": "discrete and insular minorities"
+      },
+      {
+        "choice_id": "c4",
+        "text": "fair and balanced doctrine"
+      }
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "tags": []
+  }
+]

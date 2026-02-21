@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "110-2301-069",
+    "year": 110,
+    "subject_code": "2301",
+    "question_no": 69,
+    "question_type": "single",
+    "stem": "20歲之A國人甲到我國學習語言，A國法規定滿21歲才有完全行為能力。關於行為能力，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲在我國就其於日本所有之不動產與中華民國國民乙訂立買賣契約，該契約有效"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲在我國與中華民國國民訂立電視機買賣契約，甲之行為能力有欠缺"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲在我國與乙結婚，其結婚之行為能力依A國法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲在我國將自己擁有之項鍊贈與給中華民國國籍之女友丙，該贈與無效"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  },
+  {
+    "question_id": "110-2301-070",
+    "year": 110,
+    "subject_code": "2301",
+    "question_no": 70,
+    "question_type": "single",
+    "stem": "A國人甲於B國與我國人乙訂立契約，贈與一輛汽車予乙，書明以A國法為準據法，設A國法規定動 產贈與須以書面為之，B國法規定動產贈與應經公證，關於該汽車贈與契約之方式，應依何國法律？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "僅得依A國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "僅得依B國法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "得依A國法或B國法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "得依A國法、B國法或我國法"
+      }
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "tags": []
+  }
+]

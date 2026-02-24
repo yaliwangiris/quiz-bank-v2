@@ -1,0 +1,2777 @@
+[
+  {
+    "question_id": "113-2301-001",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 1,
+    "question_type": "single",
+    "stem": "關於貨物應許自由流通之憲法規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "體系上屬基本國策章之規定，並非全無規範效力"
+      },
+      {
+        "choice_id": "c2",
+        "text": "為確保該規定目標得以實現，國家公權力之行使至少不應與其背道而馳"
+      },
+      {
+        "choice_id": "c3",
+        "text": "本條規定係以全國為空間範圍，故跨地方轄區間之貨物自由流通應受到保障"
+      },
+      {
+        "choice_id": "c4",
+        "text": "地方自治立法禁止特定之合法商品於轄內進行交易，屬地方自治權之行使，應優先於本條適用"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-002",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 2,
+    "question_type": "single",
+    "stem": "關於憲法人身自由之規定，依司法院解釋意旨，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "憲法第8條第1項所稱之法院，指有審判權之法官所構成之獨任或合議之法院"
+      },
+      {
+        "choice_id": "c2",
+        "text": "憲法第8條第1項所稱之司法機關，並不包括檢察機關"
+      },
+      {
+        "choice_id": "c3",
+        "text": "憲法第8條有關提審之規定，以非法逮捕拘禁為要件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "憲法第8條第1項所稱之審問機關，包含法院以外之機關"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-003",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 3,
+    "question_type": "single",
+    "stem": "有關遷徙自由，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "於臺灣地區設有住所而有戶籍之國民得隨時返回我國，無待許可"
+      },
+      {
+        "choice_id": "c2",
+        "text": "僑居國外具有中華民國國籍之國民若非於臺灣地區設有住所而有戶籍，仍應適用相關法律之規定， 始得返國"
+      },
+      {
+        "choice_id": "c3",
+        "text": "大陸地區人民進入臺灣地區設有限制，係法律特別規定，應符合憲法增修條文第11條之意旨"
+      },
+      {
+        "choice_id": "c4",
+        "text": "香港澳門地區人民進入臺灣地區之限制，係比照外國人，適用入出國及移民法"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-004",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 4,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於政黨之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "政黨為人民之政治性結社團體，受憲法結社自由之保障"
+      },
+      {
+        "choice_id": "c2",
+        "text": "政黨之目的，危害自由民主之憲政秩序者，得由憲法法庭宣告解散之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "政黨在民主競爭下，享有公平參與選舉及平等接近使用各種公共資源之機會"
+      },
+      {
+        "choice_id": "c4",
+        "text": "政黨經營營利事業，受憲法保障，法律不得限制之"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-005",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 5,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於法規範差別待遇之合憲性審查標準，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "法規範採取性別分類而形成差別待遇者，因係以難以改變之個人特徵、歷史性或系統性之刻板印象 為差別待遇之標準，應採嚴格審查"
+      },
+      {
+        "choice_id": "c2",
+        "text": "法規範就僅父或母為原住民者，附加「從具原住民身分之父或母之姓或原住民傳統名字」之要求， 因未涉及原住民身分認同之重要基本權利，應採中度審查"
+      },
+      {
+        "choice_id": "c3",
+        "text": "法規範以媒合是否涉及跨國（境）婚姻為分類，而對跨國（境）婚姻媒合給予相對不利之差別待遇， 未涉及可疑分類，亦未涉及攸關個人人格發展及人性尊嚴之重要基本權利，應採中度審查"
+      },
+      {
+        "choice_id": "c4",
+        "text": "法規範將特定犯罪規定為告訴乃論之罪，係屬刑事立法政策之選擇，其因此與其他非告訴乃論之罪 形成之差別待遇，應採寬鬆審查"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-006",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 6,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於財產權之社會義務性，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行使財產權應依法受社會責任及環境生態責任之限制，形成個人利益之特別犧牲時，既係因社會責 任所生，當無補償之必要"
+      },
+      {
+        "choice_id": "c2",
+        "text": "法律限制對土地之利用至為輕微，則屬人民享受財產權同時所應負擔之社會義務，騎樓即為適例"
+      },
+      {
+        "choice_id": "c3",
+        "text": "財產權人之財產已由過去不受限制支配之絕對性，轉變成並非聽由財產權人任意為之，而須注意到 公共利益"
+      },
+      {
+        "choice_id": "c4",
+        "text": "基於增進公共利益之必要，對人民依法取得之土地所有權，國家並非不得以法律為合理之限制 代號：2301 頁次：10－2"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-007",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 7,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於憲法上工作權之保障及其限制，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "職業自由為人民充實生活內涵及自由發展人格所必要，不因職業之性質為公益或私益、營利或非營 利而有異"
+      },
+      {
+        "choice_id": "c2",
+        "text": "人民之工作權保障，包括選擇職業之自由"
+      },
+      {
+        "choice_id": "c3",
+        "text": "憲法工作權保障人民有開業、停業與否及從事營業之時間、地點、對象及方式之自由"
+      },
+      {
+        "choice_id": "c4",
+        "text": "營業場所之選定亦受營業自由保障，僅得以法律為必要之限制，不得授權主管機關發布法規命令為 規範"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-008",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 8,
+    "question_type": "single",
+    "stem": "憲法上人民權利救濟請求權，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "訴願作為行政訴訟之先行程序，係對人民訴訟權施予不必要之限制"
+      },
+      {
+        "choice_id": "c2",
+        "text": "訴願審理之範圍必須與法院審理之範圍相同"
+      },
+      {
+        "choice_id": "c3",
+        "text": "人民請願未獲得行政機關積極處理時，得提起訴願"
+      },
+      {
+        "choice_id": "c4",
+        "text": "憲法並未規定訴願審議委員會之具體組成方式"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-009",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 9,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，有關人民之受教育權，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "國民受教育之機會，一律平等。對於原住民族、身心障礙者之教育，考慮其自主性及特殊性，應依 法令予以特別保障"
+      },
+      {
+        "choice_id": "c2",
+        "text": "已逾學齡未受基本教育之國民，有受補習教育之權利"
+      },
+      {
+        "choice_id": "c3",
+        "text": "憲法所稱6歲至12歲之學齡兒童，一律受基本教育，係屬最低標準"
+      },
+      {
+        "choice_id": "c4",
+        "text": "受國民教育以外教育者，尚包括賦予人民請求給予入學許可、提供特定教育給付之權利"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-010",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 10,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，有關法律保留原則，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "凡是限制人民自由權利之事項，概應由立法者以法律直接規定之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "屬於執行法律之技術性或細節性之事項，法律得交由主管機關發布命令為必要之規範"
+      },
+      {
+        "choice_id": "c3",
+        "text": "法律授權行政機關以命令補充規定者，母法之授權必須明確"
+      },
+      {
+        "choice_id": "c4",
+        "text": "基於法律授權而訂定法規命令，不得逾越授權範圍"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-011",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 11,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於未成年人之人格權，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "受概括基本權之保障，屬具憲法位階之權利"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公權力措施涉及未成年人之人格權時，應以維護未成年人之最佳利益為依歸"
+      },
+      {
+        "choice_id": "c3",
+        "text": "家事非訟程序中，為尊重未成年人之人格獨立與主體性，法院應踐行給予陳述意見機會之正當法律 程序"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公權力措施涉及未成年人與父母意見不一致時，本於人格權之保障，概以未成年人意願為優先"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-012",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 12,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於基本權之保障，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公立大學就各科系學生畢業條件之規定，受憲法大學自治之保障"
+      },
+      {
+        "choice_id": "c2",
+        "text": "中央與地方合資經營之公營公司，概不受憲法財產權之保障"
+      },
+      {
+        "choice_id": "c3",
+        "text": "少年若涉及少年保護事件處理程序，其到庭陳述意見，應受正當法律程序之保障"
+      },
+      {
+        "choice_id": "c4",
+        "text": "街頭藝人之藝文活動受憲法藝術表現自由之保障"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-013",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 13,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，關於總統之權力，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "總統於憲法及憲法增修條文所賦予之行政權範圍內，為最高行政首長"
+      },
+      {
+        "choice_id": "c2",
+        "text": "總統得經由其任命之行政院院長，變更先前存在，與其政見未洽之施政方針或政策"
+      },
+      {
+        "choice_id": "c3",
+        "text": "總統之刑事豁免權不得事前、概括拋棄，但於個案中仍得拋棄，而使檢察官以總統為被告提起公訴"
+      },
+      {
+        "choice_id": "c4",
+        "text": "總統就有關國家安全、國防及外交資訊之公開與否，享有國家機密特權"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-014",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 14,
+    "question_type": "single",
+    "stem": "依憲法及司法院解釋意旨與憲法法庭裁判，下列何者有至立法院委員會，就相關法律案及預算案備詢 之義務？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "司法院秘書長"
+      },
+      {
+        "choice_id": "c2",
+        "text": "監察院院長"
+      },
+      {
+        "choice_id": "c3",
+        "text": "臺北市市長"
+      },
+      {
+        "choice_id": "c4",
+        "text": "考試委員 代號：2301 頁次：10－3"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-015",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 15,
+    "question_type": "single",
+    "stem": "依憲法、司法院解釋意旨及憲法法庭裁判，下列何者非屬監察院之職權？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "向行政院及其各部會調閱其所發布之命令及各種有關文件"
+      },
+      {
+        "choice_id": "c2",
+        "text": "為行使職權，按行政院及其各部會之工作，分設若干委員會"
+      },
+      {
+        "choice_id": "c3",
+        "text": "彈劾、糾舉及審計權為憲法明定之職權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "對於所有中央民選公職人員提出彈劾案"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-016",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 16,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨及憲法法庭裁判，下列何者就法官審理程序有關之技術性事項有規則制定權？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "司法院"
+      },
+      {
+        "choice_id": "c2",
+        "text": "法務部"
+      },
+      {
+        "choice_id": "c3",
+        "text": "立法院"
+      },
+      {
+        "choice_id": "c4",
+        "text": "審判長"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-017",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 17,
+    "question_type": "single",
+    "stem": "依憲法訴訟法規定，有關立法委員聲請憲法法庭為法規範憲法審查之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "若緊急命令有違憲之疑慮，符合法定人數之立法委員得提出聲請"
+      },
+      {
+        "choice_id": "c2",
+        "text": "須由現有總額至少五分之一以上之立法委員提出聲請"
+      },
+      {
+        "choice_id": "c3",
+        "text": "若少數立法委員認為多數立法委員於法律議案表決時侵害其受憲法保障之權力，即得提出聲請"
+      },
+      {
+        "choice_id": "c4",
+        "text": "須於違憲爭議事件發生後6個月內提出聲請"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-018",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 18,
+    "question_type": "single",
+    "stem": "關於憲法訴訟法規定之機關爭議案件，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "此一訴訟種類為憲法訴訟法新增，以往並無類此之案件類型"
+      },
+      {
+        "choice_id": "c2",
+        "text": "限於國家最高機關之間憲法上權限之爭議"
+      },
+      {
+        "choice_id": "c3",
+        "text": "應先由爭議之機關進行協商"
+      },
+      {
+        "choice_id": "c4",
+        "text": "應於法定之6個月不變期間內提出聲請"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-019",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 19,
+    "question_type": "single",
+    "stem": "甲縣主管機關所為之下列行為，何者中央主管機關僅得為合法性監督，而不得為合目的性監督？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "依道路交通管理處罰條例所為之行為"
+      },
+      {
+        "choice_id": "c2",
+        "text": "依公職人員選舉罷免法辦理立法委員之選舉"
+      },
+      {
+        "choice_id": "c3",
+        "text": "依該縣自治條例所為之行為"
+      },
+      {
+        "choice_id": "c4",
+        "text": "依該縣委辦規則所為之行為"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-020",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 20,
+    "question_type": "single",
+    "stem": "有關憲法保障之基本權利，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "基本權利之限制適用法律保留原則"
+      },
+      {
+        "choice_id": "c2",
+        "text": "法人作為基本權利主體，僅限於私法人"
+      },
+      {
+        "choice_id": "c3",
+        "text": "保障基本權利是自由民主憲政秩序之基礎"
+      },
+      {
+        "choice_id": "c4",
+        "text": "基本權利之保障規定，其拘束對象，原則上為公權力"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-021",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 21,
+    "question_type": "single",
+    "stem": "依我國司法實務之見解，下列何者非屬私法性質之爭議？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "台灣電力公司關於發電機組採購案之決標爭議"
+      },
+      {
+        "choice_id": "c2",
+        "text": "台灣自來水公司與用戶間關於水費之爭議"
+      },
+      {
+        "choice_id": "c3",
+        "text": "臺灣銀行股份有限公司與退休公務人員間關於優惠存款契約之爭議"
+      },
+      {
+        "choice_id": "c4",
+        "text": "既成道路之土地所有權人依民法物上請求權請求市政府刨除柏油路面並返還土地"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-022",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 22,
+    "question_type": "single",
+    "stem": "依司法院解釋意旨，關於權利救濟途徑之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "政府依實施耕者有其田條例所為之耕地徵收，耕地所有權人得以權利受損為理由，提起民事訴訟， 請求返還土地"
+      },
+      {
+        "choice_id": "c2",
+        "text": "政府機關與承租人就國民住宅租賃契約所生之爭議，應循行政爭訟程序解決之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "人民依國有財產法第52條之2規定申請讓售國有非公用財產之不動產所生之爭議，應循民事訴訟程 序解決之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "人民依國有林地濫墾地補辦清理作業要點申請訂立租地契約遭否准時，可提起行政爭訟以為救濟"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-023",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 23,
+    "question_type": "single",
+    "stem": "有關行政之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政不同於司法，具有主動性，行政機關得本於職權依法排除並裁罰人民之違章行為"
+      },
+      {
+        "choice_id": "c2",
+        "text": "行政具有手段多樣性，除法規另有規定外，享有法律形式與行為形式之選擇自由"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政首重層級指揮體系，任何下級機關事務之執行，皆應受上級機關之合法性及合目的性監督"
+      },
+      {
+        "choice_id": "c4",
+        "text": "行政雖具有個案性，但並不排除得依法律授權訂定法規命令及本於職權訂定行政規則 代號：2301 頁次：10－4"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-024",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 24,
+    "question_type": "single",
+    "stem": "依司法實務見解，關於法律保留原則，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政機關限制人民基本權利，單有組織法上之依據，並不足以符合法律保留原則之要求"
+      },
+      {
+        "choice_id": "c2",
+        "text": "地方自治團體在自治事項範圍內，原則上得以自治條例限制居民之基本權利"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政機關訂定行政規則，須有法律之授權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "法律授權行政機關訂定法規命令，若無轉委任之授權，行政機關不得再委由其所屬機關訂定"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-025",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 25,
+    "question_type": "single",
+    "stem": "行政機關依其自行訂定的裁量基準作成裁罰處分，受理訴願機關或行政法院對於該裁罰處分之審查， 下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "基於行政規則之間接對外效力，受理訴願機關或行政法院應受裁罰基準之拘束"
+      },
+      {
+        "choice_id": "c2",
+        "text": "裁量基準為行政規則，具內部拘束力，原處分符合裁量基準即無違法或不當可言"
+      },
+      {
+        "choice_id": "c3",
+        "text": "原處分機關依裁量基準作成之裁罰處分，如違反比例原則，受理訴願機關或行政法院仍得予以撤銷"
+      },
+      {
+        "choice_id": "c4",
+        "text": "裁量基準為法規命令，如侵害人民權利，受理訴願機關或行政法院應聲請法規範憲法審查"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-026",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 26,
+    "question_type": "single",
+    "stem": "有關設置中央行政機關之權限，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政院經行政院會議及立法院之決議，得增設、裁併各部各委員會，或其他所屬機關"
+      },
+      {
+        "choice_id": "c2",
+        "text": "四級機關之組織得以行政命令定之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政院為因應突發或新興之重大事務，得設臨時性之機關"
+      },
+      {
+        "choice_id": "c4",
+        "text": "行政機關內部單位之分工職掌，得以處務規程或辦事細則定之"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-027",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 27,
+    "question_type": "single",
+    "stem": "關於行政機關管轄權之敘述，依法律規定及司法實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "管轄權非依法律或依法律授權所訂定之法規命令，不得設定或變更"
+      },
+      {
+        "choice_id": "c2",
+        "text": "管轄權移轉未為公告，並不影響其效力"
+      },
+      {
+        "choice_id": "c3",
+        "text": "地方政府於必要之情形下，不排除得依法規將自治事項委託由中央行政機關執行之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "授權行政機關得為管轄權移轉之法規，原則上應與設定該機關管轄權之法規相同位階"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-028",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 28,
+    "question_type": "single",
+    "stem": "依現行規定，關於鄉自治條例之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "就違反地方自治事項之行政業務者，得規定處以最高新臺幣20萬元以下之罰鍰或其他種類之行政罰"
+      },
+      {
+        "choice_id": "c2",
+        "text": "規定處以其他種類行政罰之鄉自治條例，不以於一定期限內限制或禁止為一定行為之不利處分為限"
+      },
+      {
+        "choice_id": "c3",
+        "text": "規定有罰則之鄉自治條例，經鄉民代表會議決後，應報中央各該主管機關核定後發布"
+      },
+      {
+        "choice_id": "c4",
+        "text": "鄉自治條例經監督機關函告無效時，鄉依法定程序用盡審級救濟後受不利確定終局裁判者，得聲請 憲法法庭為違憲宣告之判決"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-029",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 29,
+    "question_type": "single",
+    "stem": "依現行法規及司法院解釋意旨，關於公務（人）員之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "現行與公務員有關之法規，凡使用公務人員名稱者，除常任文官外，亦可適用於武職人員"
+      },
+      {
+        "choice_id": "c2",
+        "text": "凡依法令受有俸給之文武職公務員，均為公務人員保障法之適用對象而受其規範"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公務員之任命程序與其職務有必然之關聯性，凡經總統提名，立法院同意任命者，其職務性質即為 相同"
+      },
+      {
+        "choice_id": "c4",
+        "text": "直轄市長、縣（市）長、鄉（鎮、市）長亦適用公務員服務法"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-030",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 30,
+    "question_type": "single",
+    "stem": "關於公務員懲戒制度，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公務員有懲戒事由，得逕由其服務機關之首長移送懲戒法庭審理"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公務員懲戒程序以書面審理為原則"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公務員懲戒事件採一審終結，並無上訴制度"
+      },
+      {
+        "choice_id": "c4",
+        "text": "政務人員與地方民選首長得受懲戒處分之種類相同"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-031",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 31,
+    "question_type": "single",
+    "stem": "下列何種爭議事件，不適用公務人員保障法之救濟程序？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政機關依事務管理規則僱用之工友遭檢察官起訴而被停職，於無罪判決確定後，請求補發薪資遭 拒絕"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公立學校兼任行政職之教師請求增加主管加給金額遭拒絕"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公務人員因執行職務發生意外，申請受傷慰問金遭拒絕"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公務人員依法執行職務涉訟，向服務機關申請為其延聘律師遭拒絕 代號：2301 頁次：10－5"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-032",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 32,
+    "question_type": "single",
+    "stem": "下列何者非屬行政機關訂定之法規？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "職權命令"
+      },
+      {
+        "choice_id": "c2",
+        "text": "委辦規則"
+      },
+      {
+        "choice_id": "c3",
+        "text": "職務命令"
+      },
+      {
+        "choice_id": "c4",
+        "text": "行政規則"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-033",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 33,
+    "question_type": "single",
+    "stem": "A公司獲B市政府經濟發展局（下稱經發局）核定補助新臺幣200萬元，限定用於產品創新研發（但 附加僅限定用於產品創新研發之附款）。A公司獲補助後將補助款挪作他用，經發局欲命A公司返還 補助款。依司法實務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "經發局未廢棄該補助處分前，該補助處分仍有存續力，該金錢給與仍有法律上原因"
+      },
+      {
+        "choice_id": "c2",
+        "text": "為使該補助處分溯及既往失其效力，經發局應撤銷該補助處分"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司受領補助逾5年，經發局即不得再為請求"
+      },
+      {
+        "choice_id": "c4",
+        "text": "經發局廢棄該補助處分後得作成行政處分限期命 A 公司返還補助款，縱使 A 公司提起訴願，仍得 移送行政執行"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-034",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 34,
+    "question_type": "single",
+    "stem": "下列何者非屬行政程序法所規定行政處分之附款？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "主管機關核准甲於人行道上擺攤，但要求甲於收攤時應清理周邊垃圾"
+      },
+      {
+        "choice_id": "c2",
+        "text": "主管機關核定甲留學獎金資格時，一併要求甲應於1年內出國，否則喪失資格"
+      },
+      {
+        "choice_id": "c3",
+        "text": "主管機關核給公務員甲出國進修津貼，要求甲回國後應繳交特定領域相關之研究報告"
+      },
+      {
+        "choice_id": "c4",
+        "text": "主管機關核准甲之遊行申請，但於其申請範圍內限制遊行路線"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-035",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 35,
+    "question_type": "single",
+    "stem": "依法規及司法院解釋意旨，關於行政契約，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政契約之締結，應以書面為之，所謂書面係指雙方的意思須共同記載於同一份文書"
+      },
+      {
+        "choice_id": "c2",
+        "text": "限制人民權利之契約內容，必須符合法律保留原則"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲與機關A締結行政契約後，若該行政契約之內容對公益造成重大危害，A得不經甲之同意，於必 要範圍內調整契約內容"
+      },
+      {
+        "choice_id": "c4",
+        "text": "機關A作成行政處分，依法應經機關B同意，若A欲締結行政契約代替行政處分之作成，則此時 A無須經B之同意"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-036",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 36,
+    "question_type": "single",
+    "stem": "依司法實務見解，下列何者非屬行政契約？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "衛生福利部中央健康保險署與特約醫院約定提供被保險人醫療服務之契約"
+      },
+      {
+        "choice_id": "c2",
+        "text": "某國立醫學院學生與主管機關協議，學生領取公費補助，畢業後則願接受分發至公立衛生醫療機構 服務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "地方政府將其所設立之實驗小學委託民間經營所簽訂之委託經營契約"
+      },
+      {
+        "choice_id": "c4",
+        "text": "台灣電力公司與民間水力發電業者所簽訂之購售電契約"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-037",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 37,
+    "question_type": "single",
+    "stem": "依司法實務見解，下列何者有行政罰法之適用？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "主管機關命違法採取土石之甲回復土地原狀"
+      },
+      {
+        "choice_id": "c2",
+        "text": "主管機關限制欠稅之營利事業負責人乙出境"
+      },
+      {
+        "choice_id": "c3",
+        "text": "主管機關命逾期不自行拆除違章建築之丙繳納新臺幣100萬元代履行費用"
+      },
+      {
+        "choice_id": "c4",
+        "text": "主管機關通知借用他人名義投標之廠商丁，將刊登政府採購公報停權3年"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-038",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 38,
+    "question_type": "single",
+    "stem": "關於行政罰法第14條所定之共同違反行政法上義務行為，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "共同實施違法行為之情況包含共同行為人之直接故意、間接故意及過失參與之情況"
+      },
+      {
+        "choice_id": "c2",
+        "text": "對於共同行為人分別處罰之，並依個別行為情節之輕重審酌其罰鍰之金額"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因身分關係成立違反行政法上義務行為時，共同行為人中無該身分者，減輕或免除處罰"
+      },
+      {
+        "choice_id": "c4",
+        "text": "對於共同行為人之處罰，罰鍰合計之總額不得逾法定罰鍰額之上限"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-039",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 39,
+    "question_type": "single",
+    "stem": "甲公司僱用乙負責機器設備檢查及維護工作，因乙施作不慎引發火警，造成空氣污染，主管機關乃對 甲公司裁處新臺幣6萬元罰鍰。甲公司主張係乙施作不慎引發火警，非其故意過失導致空氣污染，提 起訴願。訴願機關應為下列何項判定？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政罰不以故意、過失為要件，甲公司仍應受罰"
+      },
+      {
+        "choice_id": "c2",
+        "text": "行政罰以故意過失為要件，甲公司並無故意過失，不得對之裁處罰鍰"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政罰以故意過失為要件，乙之故意過失，視為甲公司之故意過失，甲公司仍應受罰"
+      },
+      {
+        "choice_id": "c4",
+        "text": "行政罰以故意過失為要件，乙之故意過失，推定甲公司有故意過失，甲公司仍應受罰 代號：2301 頁次：10－6"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-040",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 40,
+    "question_type": "single",
+    "stem": "關於公物，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "未經徵收之既成道路雖為私有，但仍屬公物"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公物一律不得為設定目的外之使用"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政機關設定某物為公物的行為，性質上為行政處分"
+      },
+      {
+        "choice_id": "c4",
+        "text": "除了由行政機關主動設定，公物亦得於符合事實上一定要件而成立"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-041",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 41,
+    "question_type": "single",
+    "stem": "下列何者非屬行政事實行為？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政機關以暴雨即將來襲為由，依法要求在河邊露營之民眾立即撤離"
+      },
+      {
+        "choice_id": "c2",
+        "text": "行政機關依法對某批已核定之低收入戶實際發放補貼金"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政機關出於錯誤認知，向某尋求諮商之市民提供不正確資訊"
+      },
+      {
+        "choice_id": "c4",
+        "text": "行政機關依法對某鼓吹極端言論之遊行錄影蒐證"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-042",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 42,
+    "question_type": "single",
+    "stem": "下列何者非屬行政執行法上之直接強制措施？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "命廠商停止營業未果後，主管機關之執法公務員逕自斷絕營業場所之水電"
+      },
+      {
+        "choice_id": "c2",
+        "text": "命建築物所有人自行拆除違章建築未果後，市政府拆除大隊強制拆除違章建築"
+      },
+      {
+        "choice_id": "c3",
+        "text": "消防隊基於救火需要，緊急將合法停放於路邊停車格之汽車拖離現場"
+      },
+      {
+        "choice_id": "c4",
+        "text": "主管機關裁處沒入乙之汽車，乙拒絕交付該車，經主管機關查獲該車停放路邊，強制將該車移至保 管處所"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-043",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 43,
+    "question_type": "single",
+    "stem": "甲市政府工務局以 A 函通知乙所有之某房屋為違建，請乙於文到後 1 個月內補辦執照，逾期依違章 建築處理辦法辦理。乙逾期未補辦執照，工務局以B函通知乙應限期自行執行拆除，逾期將依行政執 行法強制執行。乙逾期未自行拆除，工務局遂以C函通知乙，拆除大隊「將於X年X月X日前往拆 除，事先請自行遷移室內一切存放物品，未遷移者，視同廢棄物」。執行完畢後，工務局以D函通知 乙繳納新臺幣200萬元拆除費用。依司法實務見解及相關法理，下列何者非屬行政處分？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A函"
+      },
+      {
+        "choice_id": "c2",
+        "text": "B函"
+      },
+      {
+        "choice_id": "c3",
+        "text": "C函"
+      },
+      {
+        "choice_id": "c4",
+        "text": "D函"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-044",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 44,
+    "question_type": "single",
+    "stem": "下列何者非屬適用或準用行政執行法之執行行為？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲公務員受懲戒法庭判決新臺幣90萬元罰款確定後，因逾期未繳納，而遭到拘提"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙喝酒駕車，經員警酒測，其酒測值已達不能安全駕駛之程度，遭主管機關當場吊扣駕照"
+      },
+      {
+        "choice_id": "c3",
+        "text": "丙因滯欠稅款，經查其財產不足清償債務，卻生活奢華，被禁止進入特定之高消費場所消費"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丁消防人員強行破壞並進入火災處所周邊之建築物，以有效撲滅火源，搶救受困民眾"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-045",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "下列何者非屬行政程序法所規定應自行迴避之人？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公務員處理其配偶申請之建築案件"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公務員處理其前配偶申請之補助案件"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公務員處理其任職大學教授時指導之博士生所提出之申請案件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公務員處理其擔任律師時曾代理之案件"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-046",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 46,
+    "question_type": "single",
+    "stem": "主管機關 A 對甲公司為停止營業 1 年之處分（下稱原處分），6 個月後甲公司以事實或法律有變更為 由，依行政程序法第128條向A申請廢棄原處分，A函覆甲。該函覆依其記載內容，下列敘述何者 錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "若僅重申原處分內容，其法律性質為重覆處置，甲不得對之提起行政爭訟"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若表示甲之申請不合法而駁回之，甲得對之提起行政爭訟"
+      },
+      {
+        "choice_id": "c3",
+        "text": "若表示甲之申請符合法定要件，惟原處分為正當而駁回之，甲得對之提起行政爭訟"
+      },
+      {
+        "choice_id": "c4",
+        "text": "若表示甲之申請有理由而廢止原處分，法律上利害關係人乙若不服，得提起行政爭訟 代號：2301 頁次：10－7"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-047",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 47,
+    "question_type": "single",
+    "stem": "關於政府資訊公開之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "刑事判決確定且再審期間經過後，申請閱覽訴訟卷宗，應適用政府資訊公開法相關規定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "人民申請閱覽業經歸檔管理之檔案，行政機關應適用政府資訊公開法之規定拒絕其申請"
+      },
+      {
+        "choice_id": "c3",
+        "text": "依政府資訊公開法應限制公開或不予提供之政府資訊，若因情事變更已無限制公開或拒絕提供之必 要時，政府機關應一律主動公開"
+      },
+      {
+        "choice_id": "c4",
+        "text": "政府資訊中如部分含有限制公開或不予提供之事項，就該其他部分之資訊，仍不得公開或提供之"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-048",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 48,
+    "question_type": "single",
+    "stem": "下列何種行為不相當於訴願之決定？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公務人員保障暨培訓委員會之復審決定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "政府採購申訴審議委員會審議判斷"
+      },
+      {
+        "choice_id": "c3",
+        "text": "犯罪被害人補償覆審會之覆議決定"
+      },
+      {
+        "choice_id": "c4",
+        "text": "律師懲戒覆審委員會之覆審決定"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-049",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 49,
+    "question_type": "single",
+    "stem": "關於行政訴訟暫時權利保護制度之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "當事人不服罰鍰處分，提起撤銷訴訟，應適用停止執行程序"
+      },
+      {
+        "choice_id": "c2",
+        "text": "當事人依法申請行政機關許可遭否准，提起課予義務訴訟，應適用假處分程序"
+      },
+      {
+        "choice_id": "c3",
+        "text": "當事人請求行政機關返還已繳納之罰鍰，提起給付訴訟，應適用假處分程序"
+      },
+      {
+        "choice_id": "c4",
+        "text": "當事人提起確認行政處分無效訴訟，應適用假處分程序"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-050",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 50,
+    "question_type": "single",
+    "stem": "甲與 A 市政府簽訂契約，因履約紛爭以 A 市政府為被告，向臺北地方法院（下稱臺北地院）提起民 事訴訟，但臺北地院認為本案涉及行政契約之履約爭議，性質上為公法事件，應由行政法院審理，下 列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "臺北地院應將本案以裁定移送管轄之行政法院審理"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若受移送之行政法院亦認為對本案無審判權，應裁定停止審理，並聲請司法院解釋"
+      },
+      {
+        "choice_id": "c3",
+        "text": "若當事人對移送裁定不服提起救濟，最高法院認民事法院就本案無審判權，受移送之行政法院即應 受理本案"
+      },
+      {
+        "choice_id": "c4",
+        "text": "若受移送之行政法院對該移送裁定不爭執而為本案審理並為裁判，上級審之行政法院不得以行政法 院無審判權為由而撤銷或廢棄裁判"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-051",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 51,
+    "question_type": "single",
+    "stem": "依行政訴訟法規定，關於收容聲請事件之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "依臺灣地區與大陸地區人民關係條例提起之收容異議事件，屬收容聲請事件"
+      },
+      {
+        "choice_id": "c2",
+        "text": "收容聲請事件，以受收容人所在地之地方行政法院為第一審管轄法院"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行政法院得以有聲音及影像相互傳送之科技設備審理收容聲請事件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "對於收容處分不服者，除得依收容異議程序救濟，亦得提起撤銷訴訟"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-052",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 52,
+    "question_type": "single",
+    "stem": "甲有土地一筆遭到徵收，惟土地徵收機關違反土地法規定，未於公告期滿 15 日內給付徵收補償款。 甲若欲主張徵收處分失其效力而提起行政訴訟時，依司法實務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲應經訴願程序後提起撤銷訴訟"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲應提起確認行政處分違法訴訟"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲應提起確認行政處分無效訴訟"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲應提起確認徵收法律關係不存在訴訟"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-053",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 53,
+    "question_type": "single",
+    "stem": "下列何種起訴不合法之情形，行政法院於裁定駁回前應先定期命補正？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "訴訟事件不屬行政訴訟審判之權限者"
+      },
+      {
+        "choice_id": "c2",
+        "text": "當事人就已起訴之事件，於訴訟繫屬中更行起訴者"
+      },
+      {
+        "choice_id": "c3",
+        "text": "訴訟事件不屬受訴行政法院管轄而不能請求指定管轄，亦不能為移送訴訟之裁定者"
+      },
+      {
+        "choice_id": "c4",
+        "text": "由訴訟代理人起訴，而其代理權有欠缺者 代號：2301 頁次：10－8"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-054",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 54,
+    "question_type": "single",
+    "stem": "關於國家賠償責任，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "欲成立怠於執行職務國家賠償請求權，須法律明文規定，人民對於該項職務之執行擁有請求權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若行政機關對於是否執行職務有裁量權時，原則上不因該職務之未執行而成立怠於執行職務國家賠 償責任，除非裁量空間已收縮至零"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公共設施委託民間團體或個人管理時，因管理欠缺導致人民死亡時，由受託之私人負民法上的賠償 責任，不成立國家賠償責任"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公共設施瑕疵國家賠償責任之成立，需主管機關在設置上或管理上有故意或重大過失方可"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-055",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 55,
+    "question_type": "single",
+    "stem": "有關國家賠償義務機關之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "行政委託事件中，受託之私人團體執行職務侵害人民權利，由委託機關負國家賠償責任"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公共設施瑕疵所引起之國家賠償責任，一律由該設施管理機關承擔國家賠償責任"
+      },
+      {
+        "choice_id": "c3",
+        "text": "賠償義務機關有爭議時，當事人得請求上級機關確定之。該上級機關逾 20 日不為確定時，得以該 上級機關為賠償義務機關"
+      },
+      {
+        "choice_id": "c4",
+        "text": "賠償義務機關被裁撤，且引發國家賠償責任之職務領域並未安排承接機關，則以賠償義務機關裁撤 前之上級機關為賠償義務機關"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-056",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 56,
+    "question_type": "single",
+    "stem": "關於習慣國際法，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "習慣國際法必須經多國普遍且重複實踐，不能僅存於兩國之間"
+      },
+      {
+        "choice_id": "c2",
+        "text": "一國自始持續反對他國之慣行，可以阻止習慣國際法之形成"
+      },
+      {
+        "choice_id": "c3",
+        "text": "一國對他國行為的聲明、抗議、發布的新聞稿，都可能被當成是否對習慣國際法具有法之確信的證據"
+      },
+      {
+        "choice_id": "c4",
+        "text": "習慣國際法也可能被成文化為條約之內容"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-057",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 57,
+    "question_type": "single",
+    "stem": "日內瓦公約規定對非國際戰爭戰俘亦應提供最低程度待遇，在國際法上被認為具有習慣國際法之 性質。若甲國為日內瓦公約之締約國，乙國不是締約國，丙國曾是締約國但之後退出。下列敘述何者 錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "乙國對於非國際戰爭戰俘，有義務提供最低程度待遇"
+      },
+      {
+        "choice_id": "c2",
+        "text": "丙國主張退出日內瓦公約後即欠缺法之確信，毋須對非國際戰爭戰俘提供最低程度待遇"
+      },
+      {
+        "choice_id": "c3",
+        "text": "丙國退出日內瓦公約後，該公約對丙國無條約之拘束力"
+      },
+      {
+        "choice_id": "c4",
+        "text": "日內瓦公約對乙國無條約之拘束力"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-058",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 58,
+    "question_type": "single",
+    "stem": "關於國際法上非國家政治實體，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "二戰後之託管地在完成獨立或與他國結合之前，得被歸類為非國家政治實體"
+      },
+      {
+        "choice_id": "c2",
+        "text": "有效控制特定領土而被承認之交戰團體，得被歸類為非國家政治實體"
+      },
+      {
+        "choice_id": "c3",
+        "text": "非國家政治實體之流亡政府，指對其領土喪失有效統治而迫遷他國的政府"
+      },
+      {
+        "choice_id": "c4",
+        "text": "非國家政治實體之民族解放團體，在未完成獨立並獲承認前，不得參與聯合國或其專門機構舉行之 會議"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-059",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 59,
+    "question_type": "single",
+    "stem": "關於國際法中之國家承認，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "對於交戰團體之承認，可能違反不干涉（預）原則"
+      },
+      {
+        "choice_id": "c2",
+        "text": "國家承認亦得藉由默示方式為之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "對一國家之承認，不得附加任何條件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "既存國家無國際法上之義務承認新國家"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-060",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 60,
+    "question_type": "single",
+    "stem": "關於國際組織，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "國際組織之權能，必須受其所由創設之法律文件規定之限制"
+      },
+      {
+        "choice_id": "c2",
+        "text": "為了實現其設立之目的與宗旨，即使章程未明文規定，國際組織也可能擁有某些隱有的權能"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因維也納條約法公約之除外規定，國際組織無法成為締結條約之主體"
+      },
+      {
+        "choice_id": "c4",
+        "text": "國際組織得自設行政法庭處理其與雇員間之勞資爭議，並依條約豁免駐在地法院之管轄 代號：2301 頁次：10－9"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-061",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 61,
+    "question_type": "single",
+    "stem": "依二次大戰後之國際法原則，關於國家取得領土主權之方式，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "國家得以合意交換方式取得領土主權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "對於公海上因自然力形成之島嶼，國家得先占取得其領土主權"
+      },
+      {
+        "choice_id": "c3",
+        "text": "國家得藉由人工方式改造領海外之專屬經濟海域中低潮高地為島嶼，從而取得其領土主權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "國家不得以合法行使武力之方式取得他國領土主權"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-062",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 62,
+    "question_type": "single",
+    "stem": "關於海域執法，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "除非條約另有約定，否則一國海巡船舶不得於公海對他國船舶之毒品運送行為進行登檢"
+      },
+      {
+        "choice_id": "c2",
+        "text": "B國籍船舶與C國籍船舶在A國鄰接區內準備共同走私毒品至D國，A國對該二船不得行使管轄權"
+      },
+      {
+        "choice_id": "c3",
+        "text": "發動緊追之政府船舶，如不在被緊追之外國船舶目視範圍內，即不得發動緊追"
+      },
+      {
+        "choice_id": "c4",
+        "text": "用於航行之國際海峽沿海國，有權制定與執行該海峽分道航行之規則"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-063",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 63,
+    "question_type": "single",
+    "stem": "關於國家管轄之豁免，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "一國元首於他國出訪時為子女購物所生之消費糾紛，得主張豁免該國法院之管轄"
+      },
+      {
+        "choice_id": "c2",
+        "text": "一國之國營銀行就出具之信用狀於他國所生之爭執，得主張豁免該國法院之管轄"
+      },
+      {
+        "choice_id": "c3",
+        "text": "一國依科學合作條約於他國領海探勘之公務船舶所致之損害，得主張豁免該國法院之管轄"
+      },
+      {
+        "choice_id": "c4",
+        "text": "一國卸任元首對其在任期間之職務行為，得主張豁免他國法院之管轄"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-064",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 64,
+    "question_type": "single",
+    "stem": "個人向國際人權條約監督機構提起訴訟或申訴前，應「窮盡當地救濟」。設定該尋求國際人權機構救 濟條件之理由，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "尊重國際人權條約所載不干涉（預）原則條款"
+      },
+      {
+        "choice_id": "c2",
+        "text": "允許被告國有機會修正錯誤或賠償損失"
+      },
+      {
+        "choice_id": "c3",
+        "text": "內國程序訴訟效率較高且有利判決執行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "推定國家法體系正常運作以尊重管轄權"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-065",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 65,
+    "question_type": "single",
+    "stem": "依羅馬規約之規定，下列何者不屬於國際刑事法院行使管轄權之條件？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "聯合國認證之人道組織向檢察官提交情勢"
+      },
+      {
+        "choice_id": "c2",
+        "text": "締約國向檢察官提交本國情勢"
+      },
+      {
+        "choice_id": "c3",
+        "text": "聯合國安全理事會依憲章第七章決議向檢察官提交情勢"
+      },
+      {
+        "choice_id": "c4",
+        "text": "國際刑事法院檢察官依職權主動發動偵查"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-066",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 66,
+    "question_type": "single",
+    "stem": "A國為一複數法域國家，A國人甲與我國人乙締結貨物買賣契約，約定關於契約之爭議適用A國之B 州法，貨物交付地點為A國之C州。設甲在A國之主要營業地為C州，對於甲、乙之契約爭議，我 國法院應如何適用法律？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "適用我國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "適用B州法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "適用C州法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "我國法、B州法、C州法任擇其一"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-067",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 67,
+    "question_type": "single",
+    "stem": "甲、乙二人均具有我國之國籍。甲因在美國出生，亦具有美國籍，且定居在美國。乙因其母為德國人， 雖亦具有德國籍，然自幼與父母定居在我國。甲、乙二人成年後在臺北一見鍾情，在臺北登記結婚。 下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲、乙均有國籍積極衝突，故應以其各自之住所地法決定其本國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲、乙之國籍積極衝突為內外國籍之衝突，故應以我國法為其本國法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "關於結婚成立之實質要件，甲應依美國法，乙應依我國法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲、乙婚後，關於婚姻之效力應依其共同之本國法，亦即應依我國法 代號：2301 頁次：10－10"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-068",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 68,
+    "question_type": "single",
+    "stem": "甲為 A國人，住所設在B國。甲死亡時，在我國遺有不動產，在 B國遺有動產。甲之繼承人就遺產 繼承涉訟於我國法院。依 A 國國際私法規定，繼承依被繼承人死亡時之住所地法。依 B 國國際私法 規定，動產之繼承，依被繼承人死亡時之住所地法；不動產之繼承，依不動產所在地法。我國法院應 以何國法為準據法？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "全部遺產之繼承，應以A國法為準據法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "全部遺產之繼承，應以B國法為準據法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "動產之繼承應以A國法為準據法，不動產之繼承應以我國法為準據法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "動產之繼承應以B國法為準據法，不動產之繼承應以我國法為準據法"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-069",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 69,
+    "question_type": "single",
+    "stem": "涉外民事法律適用法第 20 條第 3 項規定「法律行為所生之債務中有足為該法律行為之特徵者，負擔 該債務之當事人行為時之住所地法，推定為關係最切之法律。」下列何種涉外債權契約，難以用此項 規定推定關係最切之法律？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "贈與契約"
+      },
+      {
+        "choice_id": "c2",
+        "text": "保證契約"
+      },
+      {
+        "choice_id": "c3",
+        "text": "承攬契約"
+      },
+      {
+        "choice_id": "c4",
+        "text": "互易契約"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-070",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 70,
+    "question_type": "single",
+    "stem": "A國人甲欲收養我國人乙，關於收養之成立要件問題，我國法院應如何適用法律？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "選擇適用A國法或我國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "累積適用A國法和我國法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "並行適用A國法和我國法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "適用關係最切之我國法"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-071",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 71,
+    "question_type": "single",
+    "stem": "A國人甲將美金100萬元貸予B國人乙，約定借貸契約之準據法為A國法，並以住於B國之B國人 丙為保證人。其後甲將其對乙所有之借款債權賣給 C 國人丁，約定此買賣契約之準據法為 C 國法， 並為債權移轉。關於此債權讓與相關之準據法，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "債權讓與對於債務人乙之效力，依A國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "債權讓與對於債務人乙之效力，依B國法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "債權讓與對於保證人丙之效力，依C國法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "債權讓與對於保證人丙之效力，依關係最切國之法"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-072",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 72,
+    "question_type": "single",
+    "stem": "關於涉外物權事件之法律適用，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "物之所在地如有變更，其物權之取得、喪失或變更，依其原因事實完成時物之所在地法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "物權之法律行為，其方式依該行為所應適用之法律，但依行為地法所定之方式者，亦為有效"
+      },
+      {
+        "choice_id": "c3",
+        "text": "動產於託運期間，其物權之取得、設定、喪失或變更，依其目的地法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "自外國輸入我國領域之動產，於輸入前依其所在地法成立之物權，其效力依我國法"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-073",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 73,
+    "question_type": "single",
+    "stem": "我國女子甲到美國工作，結識日本男子乙，二人於加拿大結婚，於美國生下一子丙。關於丙之身分可 得適用之法律，不包括下列何者？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "我國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "日本法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "加拿大法"
+      },
+      {
+        "choice_id": "c4",
+        "text": "美國法"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-074",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 74,
+    "question_type": "single",
+    "stem": "我國人甲男與A國人乙女，生有一子丙。甲死亡時遺有在我國之不動產B屋及在A國之不動產C屋。 關於甲之遺產繼承，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "關於B屋之繼承，應適用我國法；關於C屋之繼承，應適用A國法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "關於C屋之繼承，依A國國際私法應適用A國法時，我國法院應適用A國法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙對甲之遺產是否有繼承權，應先依我國涉外民事法律適用法判斷甲、乙婚姻是否有效"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丙對甲之遺產是否有繼承權，應定性為父母與子女間之法律關係，依我國法而定"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-2301-075",
+    "year": 113,
+    "subject_code": "2301",
+    "question_no": 75,
+    "question_type": "single",
+    "stem": "已經訴訟繫屬於外國法院之事件，若該事件之原告又於我國法院就同一事件對被告提起訴訟。下列敘 述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "法院得在外國法院判決確定前，足認該外國判決有被承認之可能，且無重大應訴不便，以裁定停止 訴訟程序"
+      },
+      {
+        "choice_id": "c2",
+        "text": "我國法院對後繫屬之訴訟無國際管轄權，應裁定駁回之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因不得重複審理，我國法院應裁定駁回於我國重複起訴之事件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "此為國際訴訟競合，我國法院訴訟繫屬因外國法院判決而自動消滅"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  }
+]

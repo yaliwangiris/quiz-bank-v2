@@ -1,0 +1,2592 @@
+[
+  {
+    "question_id": "114-4301-001",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 1,
+    "question_type": "single",
+    "stem": "非公開發行且非閉鎖性之A股份有限公司，不得於章程中明訂發行下列何種之特別股？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "每股有10個表決權之特別股"
+      },
+      {
+        "choice_id": "c2",
+        "text": "得當選一席董事之特別股"
+      },
+      {
+        "choice_id": "c3",
+        "text": "對經理人任免具否決權之特別股"
+      },
+      {
+        "choice_id": "c4",
+        "text": "附轉讓限制之特別股"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-002",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 2,
+    "question_type": "single",
+    "stem": "A 有限公司（下稱 A 公司）之股東為甲、乙、丙、丁及戊 5 人，每位股東出資新臺幣（下同）50 萬 元，股東表決權係按出資比例分配。A公司擬增資100萬元，甲、乙及丙表示贊成，丁及戊反對。依 公司法之規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲贊成本件增資案，故有按出資比例進行增資之義務"
+      },
+      {
+        "choice_id": "c2",
+        "text": "丙贊成本件增資案，但不負出資義務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙贊成本件增資案，但因資金短缺，得自行邀請第三人辛出資而成為新股東"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丁反對本件增資案，但得將其分配到之增資額度，自行邀請第三人庚出資而成為新股東"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-003",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 3,
+    "question_type": "single",
+    "stem": "下列有關公司名稱之敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公司不得使用與其他公司相同之名稱，但若該公司業經廢止登記，自廢止登記之日起，逾 10 年未 清算完結者，原則上該公司名稱仍得申請核准使用"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公司名稱被法院判決確定不得使用，公司於判決確定後6個月內未辦妥名稱變更登記者，主管機關 應即命令公司解散"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公司名稱不得使用易於使人誤認其與公益團體有關之名稱，除非獲得該公益團體之同意，則可不受 限制"
+      },
+      {
+        "choice_id": "c4",
+        "text": "兩公司之特取名稱雖相同，但只要公司名稱中有標明不同公司種類，則視為不相同"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-004",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 4,
+    "question_type": "single",
+    "stem": "股票未公開發行之A公司（下稱A公司）為B上櫃公司（下稱B公司）之原料供應商，某次A公司 增資發行新股時，就原有股東未認購之部分，洽B公司認購，B公司章程並未有轉投資之相關規定。 依公司法之規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司股票未公開發行，無論B公司認購A公司股份之金額多寡，僅須董事會決議即得為之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "B公司章程並未有轉投資之相關規定，故B公司認購A公司股份之金額並無限制"
+      },
+      {
+        "choice_id": "c3",
+        "text": "B公司認購A公司股份之金額如超過B公司實收股本之40%，則須經過B公司股東會特別決議始 得為之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司股票未公開發行，B公司不得認購A公司股份"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-005",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 5,
+    "question_type": "single",
+    "stem": "甲為已成年之自然人，擬設立一家公司。依公司法規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "如甲選擇設立有限公司，得以勞務作為出資方式"
+      },
+      {
+        "choice_id": "c2",
+        "text": "如甲選擇設立股份有限公司，須再找一名股東始得設立"
+      },
+      {
+        "choice_id": "c3",
+        "text": "如甲選擇設立有限公司，甲一人即可設立"
+      },
+      {
+        "choice_id": "c4",
+        "text": "如甲選擇設立股份有限公司，得以技術作為出資方式"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-006",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 6,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）持有B股份有限公司（下稱B公司）已發行有表決權股份總數5%之 股權，但A公司對B公司之人事、財務與業務具有實質掌控力。民國110年1月至12月，B公司向 A公司採購產品，惟A公司索取之對價為超乎市場價格之不當高價，造成B公司蒙受新臺幣（下同） 1,000萬元之損失，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司及其董事對B公司之1,000萬元損害負連帶賠償責任"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若B公司對A公司本有1,000萬元之債權，A公司不得主張以其對B公司所有之上述1,000萬元貨 款債權抵銷之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A 公司對 B 公司因上述交易而產生之 1,000 萬元貨款債權，在 B 公司破產時，不得優先於其他債 權人受償，其受償次序與一般債權人同"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司與B公司間之交易若使B公司受有損害，繼續1年以上持有B公司已發行有表決權股份總 數1%以上之股東，得以自己名義，請求A公司向B公司為損害賠償 代號：4301 頁次：9－2"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-007",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 7,
+    "question_type": "single",
+    "stem": "公司法中關於有限公司之規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "有限公司之清算，準用無限公司相關規定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "有限公司變更章程，應經股東表決權四分之三以上之同意"
+      },
+      {
+        "choice_id": "c3",
+        "text": "有限公司解散時，應有全體股東之同意"
+      },
+      {
+        "choice_id": "c4",
+        "text": "有限公司合併時，應經股東表決權過半數之同意"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-008",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 8,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）為非公開發行股票公司，因業務擴展，有擴建廠房及擴充設備需求， 有意向大眾投資人募資。依公司法規定，有關公司對外公開發行股票之規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司對外募集股份，仍需保留發行新股總數百分之十至十五之股份由公司員工承購"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司有資產不足抵償債務之情形，惟依其事業性質，須有較長準備期間或具有健全之營業計畫， 確能改善營利能力者，仍得對外公開發行"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司公開發行新股時，應以現金為股款"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司若最近3年皆為虧損，不得公開發行具有優先權利之特別股"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-009",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 9,
+    "question_type": "single",
+    "stem": "A 上市公司（下稱 A 公司）因財務困難，由最大債權人 B 銀行向法院聲請重整，經法院審理後裁定 開始重整，依法律規定及實務見解，下列關於法院所為重整裁定之敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "法院不得選派A公司之董事擔任重整人"
+      },
+      {
+        "choice_id": "c2",
+        "text": "B銀行雖為法人組織，法院仍得選派B銀行為重整人"
+      },
+      {
+        "choice_id": "c3",
+        "text": "關係人會議分組行使表決權之結果，有任何一組主張另行選定重整人時，得提出候選人名單，聲請 法院選派之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "法院為重整裁定時，應選任A公司之獨立董事或獨立監察人為重整監督人"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-010",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 10,
+    "question_type": "single",
+    "stem": "公司法於民國104年7月引進閉鎖性股份有限公司制度，關於此制，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "閉鎖性股份有限公司專節增訂後，公司法第2條規定之公司種類增加為5種"
+      },
+      {
+        "choice_id": "c2",
+        "text": "閉鎖性股份有限公司必為非公開發行股票公司"
+      },
+      {
+        "choice_id": "c3",
+        "text": "閉鎖性股份有限公司雖不得公開發行或募集有價證券，但得經由證券商經營股權群眾募資平臺募資"
+      },
+      {
+        "choice_id": "c4",
+        "text": "閉鎖性股份有限公司之股東人數上限，中央主管機關得視社會經濟情況及實際需要增加之"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-011",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 11,
+    "question_type": "single",
+    "stem": "A有限公司（下稱A公司）資本額新臺幣（下同）300萬元，經營績效良好，歷年提撥之法定盈餘公 積已達300萬元，有甲、乙及丙等3位股東各出資100萬元，由甲擔任董事，章程並訂明以當年度獲 利狀況之10%，分派員工酬勞。關於其今年財務及會計處理之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司於彌補虧損完納一切稅捐後，分派盈餘時，應先提出10%為法定盈餘公積"
+      },
+      {
+        "choice_id": "c2",
+        "text": "每屆會計年度終了，董事甲應依法造具各項表冊，分送各股東，請其承認；其承認應經股東表決權 三分之二之同意"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司得以章程訂定，或經股東表決權三分之二以上之同意，另提特別盈餘公積"
+      },
+      {
+        "choice_id": "c4",
+        "text": "董事甲得決定員工酬勞以股票為之，並向乙及丙報告"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-012",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 12,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）進行下列何事項時，須變更公司章程？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A 公司章程規定：「本公司資本總額定為新臺幣 5,000 萬元，分為 500 萬股。每股金額新臺幣 10 元。」若A公司已發行股份為300萬股，A公司為改善財務結構，減資100萬股彌補虧損，再增資 100萬股，引進新資金"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A 公司已發行之甲種特別股享有兩倍股息及紅利之權利，A 公司近年獲利情況不佳，欲縮減甲種 特別股股東股息與紅利"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司因公開發行成本過高，申請停止公開發行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司之股東會為解散之決議"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-013",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 13,
+    "question_type": "single",
+    "stem": "A股份有限公司為非公開發行股票公司，若將公司之盈餘分派從年度分派，改為每季分派，下列敘述 何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公司做每季分派不需章程規定，惟須經董事會特別決議後始得為之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若要進行分派，公司當季需有獲利，惟公司累積虧損得待會計年度終了後，再進行彌補"
+      },
+      {
+        "choice_id": "c3",
+        "text": "第三季終了後分派盈餘，若發放股票股利，無須經股東會決議通過"
+      },
+      {
+        "choice_id": "c4",
+        "text": "第一季終了後分派盈餘，若發放現金股利，僅須經董事會決議通過"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-014",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 14,
+    "question_type": "single",
+    "stem": "A 有限公司（下稱 A 公司）共有甲、乙、丙、丁及戊 5 位股東，甲及乙擔任董事。依公司法相關規 定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司章程設置董事長之規定，應經股東表決權過半數之同意選任之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司章程未設置董事長者，董事甲和乙均得代表公司"
+      },
+      {
+        "choice_id": "c3",
+        "text": "丙行使監察權時，得代表公司委託律師或會計師審核之，但應自行負擔費用"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丁行使監察權時，得經法院許可，向董事甲和乙質詢公司營業情形，查閱財產文件、帳簿及表冊 代號：4301 頁次：9－3"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-015",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 15,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）持有 B股份有限公司（下稱B公司）已發行股份總數百分之六十， 並指派其代表人甲擔任B 公司董事。A 公司與 B 公司擬合併，於 B 公司董事會、股東會表決「與 A 公司合併」議案時，甲、A公司應否迴避表決？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲、A公司皆應迴避"
+      },
+      {
+        "choice_id": "c2",
+        "text": "僅甲應迴避"
+      },
+      {
+        "choice_id": "c3",
+        "text": "僅A公司應迴避"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲、A公司皆無須迴避"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-016",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 16,
+    "question_type": "single",
+    "stem": "有關保險業、銀行、保險經紀人及代理人可經營的業務範圍，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "財產保險業經營財產保險，人身保險業經營人身保險，同一保險業不得兼營財產保險及人身保險業 務。但財產保險業經主管機關核准經營傷害保險及健康保險者，不在此限"
+      },
+      {
+        "choice_id": "c2",
+        "text": "銀行經主管機關許可，可擇一兼營保險代理人或保險經紀人或保險公證人業務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "經紀人公司得申請經營保險經紀業務、再保險經紀業務、或同時經營保險經紀業務及再保險經紀業 務；經紀人同時具備財產保險及人身保險經紀人資格者，得同時申領財產保險及人身保險經紀人執 業證照"
+      },
+      {
+        "choice_id": "c4",
+        "text": "代理人同時具備財產保險及人身保險代理人資格者，除經主管機關核准外，僅得擇一申領財產保險 或人身保險代理人執業證照"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-017",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 17,
+    "question_type": "single",
+    "stem": "甲以其所有作為營業用之A房屋，向X保險公司（下稱X公司）投保商業火險，於保險期間，因所 營業務狀況不好，甲遂結束於 A 屋之營業並將 A 屋作為純住宅使用。依我國保險法之規定，下列敘 述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲應於結束A屋之營業前10日通知X公司"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲只需於A屋之營業結束後通知X公司即可"
+      },
+      {
+        "choice_id": "c3",
+        "text": "X公司得終止契約"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲得請求X公司重新核定保險費"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-018",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 18,
+    "question_type": "single",
+    "stem": "甲向乙以附條件買賣方式租買新車乙部，甲分期支付租買價金，三年支付全部價金後，甲取得汽車所 有權。甲以自己為被保險人向 A 保險公司投保汽車之甲式車損及竊盜險新臺幣 300 萬元，並約定乙 為事故損失保險金受款人。租買及保險期間，汽車在甲返交乙進行定期保養時，乙違規駕駛致汽車全 損，乙向A保險公司請求全額車損賠償，A保險公司主張本件無保險利益，保單失其效力，試問有無 理由？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "有理由，甲非汽車所有權人，無保險利益"
+      },
+      {
+        "choice_id": "c2",
+        "text": "無理由，甲為汽車之承租人，具保險利益"
+      },
+      {
+        "choice_id": "c3",
+        "text": "有理由，甲對汽車的保險利益應至清償所有分期租買款項取得汽車所有權時方具保險利益"
+      },
+      {
+        "choice_id": "c4",
+        "text": "無理由，乙為事故損失保險金受款人且為契約所有權人，具保險利益，因此保單有效"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-019",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 19,
+    "question_type": "single",
+    "stem": "甲以其配偶乙為被保險人，指定甲為受益人，投保死亡保險，並約定保險金額，經乙書面同意。數年 後，甲、乙離婚，乙於離婚後一年死亡，死亡前尚未撤回同意。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲不得請求保險給付，因離婚後甲對乙已無保險利益，契約失其效力"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲不得請求保險給付，因離婚後甲喪失受益人資格"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲得請求保險給付，因契約訂立時甲為乙之配偶，且保險契約仍持續具效力"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲得請求保險給付，但因甲、乙已離婚，保險公司只須退還甲保險費"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-020",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 20,
+    "question_type": "single",
+    "stem": "為保障保戶及股東權益，保險法規定保險業自有資本與風險資本之比率及淨值比率，不得低於一定比 率，並劃分為數種資本等級。其中針對資本顯著不足的保險業，主管機關得令其降低對負責人、經理 人之報酬。其降低後之報酬不得超過該保險業資本等級列入資本顯著不足等級前十二個月內對該負責 人支給平均報酬之百分比為何？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "百分之七十"
+      },
+      {
+        "choice_id": "c2",
+        "text": "百分之七十五"
+      },
+      {
+        "choice_id": "c3",
+        "text": "百分之八十"
+      },
+      {
+        "choice_id": "c4",
+        "text": "百分之九十"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-021",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 21,
+    "question_type": "single",
+    "stem": "關於人壽保險契約保險費到期未交付之催告、契約效力之停效與復效相關規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "人壽保險之保險費到期未交付者，經催告到達後屆二十日仍不交付時，保險契約之效力停止"
+      },
+      {
+        "choice_id": "c2",
+        "text": "催告應送達於要保人，或負有交付保險費義務之人之最後住所或居所，保險費經催告後，應依與保 險人約定之交付方法交付之；保險人並應將前開催告通知被保險人以確保其權益。對被保險人之通 知，依最後留存於保險人之聯絡資料，限於以書面發出通知時，視為已完成"
+      },
+      {
+        "choice_id": "c3",
+        "text": "停止效力之保險契約，於停止效力之日起九個月內清償保險費、保險契約約定之利息及其他費用後， 翌日上午零時起，開始恢復其效力"
+      },
+      {
+        "choice_id": "c4",
+        "text": "保險契約所定申請恢復效力之期限，自停止效力之日起不得低於二年，並不得遲於保險期間之屆滿日 代號：4301 頁次：9－4"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-022",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 22,
+    "question_type": "single",
+    "stem": "甲向A保險公司（下稱A公司）投保傷害保險新臺幣（下同）200萬元，並以價值70萬元之汽車向 B保險公司（下稱B公司）投保車體險並約定自負額5萬元。某日因乙之駕車過失，導致甲失能、汽 車全毀。A 公司就失能部分依保險契約理賠 100 萬元，B 公司就車損理賠 65 萬元。設甲對於肇事原 因並無過失時，有關本案適用保險代位之情形，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司與B公司均不得行使代位權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司不得行使代位權，B公司得代位求償65萬元"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司得代位求償100萬元，B公司得代位求償70萬元"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司得代位求償100萬元，B公司得代位求償65萬元"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-023",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 23,
+    "question_type": "single",
+    "stem": "甲以自己為被保險人向 A 保險公司（下稱 A 公司）投保傷害保險，並以乙為其死亡時之受益人。下 列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司於甲遭受意外傷害及其所致失能或死亡時，負給付保險金之責"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲故意自殺，或因犯罪行為，所致傷害、失能或死亡，A公司不負給付保險金之責"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙故意傷害甲未遂時，甲得撤銷其受益權利"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙故意傷害甲者，A公司不負保險金給付之責"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-024",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 24,
+    "question_type": "single",
+    "stem": "甲於民國107年（下同）5月1日以自己為被保險人，向A保險公司（下稱A公司）投保人壽保險， 約定死亡保險金額 1,000 萬元，指定其妻乙為受益人。A 公司於 5 月 15 日以簡訊告知甲核保通過， 並告知其應繳交之保險費金額與繳交日期。然甲於次日赴 A 公司交付保險費途中發生車禍，甲當場 死亡。乙請求保險金給付時，A公司得否拒絕？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司以簡訊告知已核保通過，保險契約即已成立，除另有以保險費之交付為要件者外，A公司不 得拒絕乙之請求"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲尚未繳付保險費，保險契約未成立，A公司得拒絕給付保險金"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司雖已核保通過，但尚未交付保險單，保險契約尚未成立，A公司無須給付"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲與A公司間保險契約雖已成立，但因甲尚未履行其給付對價之義務，故A公司亦無須給付"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-025",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 25,
+    "question_type": "single",
+    "stem": "要保人暨被保險人甲向 A 壽險公司（下稱 A 公司）投保意外傷害死亡險新臺幣 300 萬元，保單附約 約定「被保險人職業有變更，依本公司職業分類，其危險性增加者，應通知本公司，本公司於接到通 知後，自職業變更之日起，按差額比例增收未滿期保險費；未通知而發生保險事故者，本公司按其原 收保險費與應收保險費之比率折算保險金給付。」甲於要保時，要保書上的職業欄填無，投保後因疫 情及經濟問題開始從事膠筏漁業工作，未通知 A 公司，漁業工作時發生落海事故死亡。保險人 A 公 司下列主張，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司得依保險法第64條規定，以被保險人違反最大誠信之理由，解除契約，無庸負責"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A 公司得依保險法第 59 條第 2 項及第 57 條規定，以怠於通知危險增加之理由，解除契約，無庸 負責"
+      },
+      {
+        "choice_id": "c3",
+        "text": "職業從「無」變更為「膠筏漁業工作」，無涉危險增加，保險人A公司應全額負責"
+      },
+      {
+        "choice_id": "c4",
+        "text": "職業從「無」變更為「膠筏漁業工作」，涉危險增加，但未通知，保險人A公司應依約負比例責任"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-026",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 26,
+    "question_type": "single",
+    "stem": "甲於某年 3 月 1 日簽發本票一紙予乙，到期日為同年 3 月 18 日，並免除作成拒絕證書。乙於同年 3 月5日背書轉讓予丙。丙至遲應於何日向甲提示請求付款，始符票據法之規定？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "同年3月18日提示"
+      },
+      {
+        "choice_id": "c2",
+        "text": "同年3月19日提示"
+      },
+      {
+        "choice_id": "c3",
+        "text": "同年3月20日提示"
+      },
+      {
+        "choice_id": "c4",
+        "text": "同年3月21日提示"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-027",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 27,
+    "question_type": "single",
+    "stem": "甲為喜好放空股市之風險追求者，但因操作不力，資金套牢。其之前曾簽發發票日為民國109年4月 8 日之支票，但存款帳戶內資金僅能支應該支票面額 1/5 之票款。為等待股市走向再度翻轉，甲商請 執票人晚些提示，執票人遂在提示期限經過後3個月始提示。假設甲之資金仍舊套牢，依票據法之規 定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "銀行可予以付款"
+      },
+      {
+        "choice_id": "c2",
+        "text": "銀行可不予付款"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲得撤銷付款之委託"
+      },
+      {
+        "choice_id": "c4",
+        "text": "銀行不得僅支付1/5之票款，必須先幫發票人墊付，再向發票人請求全額償還"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-028",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 28,
+    "question_type": "single",
+    "stem": "在肺炎疫情期間，口罩短缺，居住苗栗市之善心人士甲先生，發起由當地之社區發展協會以家庭代工 方式製作口罩套以協助政府防疫，遂向高雄市之原料廠商A公司進貨一批，簽發支票一紙予A公司， 發票地在苗栗市、付款地在高雄市。本紙支票之提示期限為何？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "發票日後7日內"
+      },
+      {
+        "choice_id": "c2",
+        "text": "發票日後14日內"
+      },
+      {
+        "choice_id": "c3",
+        "text": "發票日後15日內"
+      },
+      {
+        "choice_id": "c4",
+        "text": "發票日後2個月內 代號：4301 頁次：9－5"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-029",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 29,
+    "question_type": "single",
+    "stem": "A公司於某年2月14日簽發匯票予B公司，付款人為C銀行，票上記載免除作成拒絕證書，到期日 記載為同年3月14日，B公司至同年3月15日始向C銀行提示付款。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "B公司之提示尚未逾法定期限"
+      },
+      {
+        "choice_id": "c2",
+        "text": "B公司之提示已逾法定期限，但仍在發票日後6個月內，故提示仍為有效"
+      },
+      {
+        "choice_id": "c3",
+        "text": "B公司之提示已逾法定期限，惟若獲得C銀行之同意，提示仍屬有效"
+      },
+      {
+        "choice_id": "c4",
+        "text": "此張匯票既已免除作成拒絕證書，則根本不必提示"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-030",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 30,
+    "question_type": "single",
+    "stem": "甲欲向丙借調現金，但丙擔心甲信用不足，甲與乙簽訂擔保契約請求乙擔任支票之背書人，並簽發無 記名支票一紙交由乙收執，再由乙在支票背面空白背書後交給甲，甲持由乙空白背書之支票向丙調借， 丙於是將相當於票款之現金交付給甲，經丙遵期提示後，不獲付款。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "乙不必負背書責任，因為該支票背書不連續"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙不必負背書責任，因為該支票為發票人甲回頭背書之票據"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙應負背書責任，因為乙在支票背面背書"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙應負背書責任，因為甲、乙間訂有擔保契約"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-031",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 31,
+    "question_type": "single",
+    "stem": "甲日常習慣於皮夾中保存一張已完成簽名蓋章之支票，以應不時之需。某日，知甲有此習慣之乙遂偷 偷從甲皮夾中取走該票據，完成金額及所缺之應記載事項，並記載乙自己為受款人後，再將該票背書 轉讓予善意且給付合理對價之丙。甲於票據遭竊後，未進行任何票據遺失之救濟程序，丙持該票向銀 行請求付款遭拒後，得否向甲主張？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "因甲未於該票上填載金額，該票欠缺應記載事項而無效，故甲不負票據責任"
+      },
+      {
+        "choice_id": "c2",
+        "text": "因丙為善意取得已具備票據法規定應記載事項之票據，甲不得主張該票據原欠缺應記載事項而拒絕 付款"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因該票應記載事項係由乙完成填載，是以丙僅得向乙主張，而不得向甲主張"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲需證明該票原欠缺應記載事項，始得對抗善意之丙而拒絕付款"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-032",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 32,
+    "question_type": "single",
+    "stem": "甲簽發本票一紙交付予乙，乙於到期日前背書轉讓予丙，丙於到期日向甲提示付款遭拒後並依法作成 拒絕證書，下列關於丙行使權利之敘述，何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "向甲追索時，丙得聲請法院裁定後強制執行"
+      },
+      {
+        "choice_id": "c2",
+        "text": "丙行使追索權時，甲與乙連帶對丙負責"
+      },
+      {
+        "choice_id": "c3",
+        "text": "向乙追索時，丙得直接聲請法院裁定後強制執行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丙行使追索權時，可直接先向甲追索"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-033",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 33,
+    "question_type": "single",
+    "stem": "甲於民國（下同）105年1月1日簽發面額為新臺幣（下同）20萬元之本票一紙與乙，以清償所欠款 項 20 萬元，唯該本票上漏未記載到期日。乙隨後將該本票背書後無償讓與其友丙，賀其小店開張。 丙即以該本票償付積欠廠商丁之貨款。丁返家後將該本票置於抽屜後即忘記持票請求，於109年整理 抽屜時始發現該本票而欲主張其權利。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "該本票因未記載到期日，欠缺法定應記載事項而無效，丁無從主張其權利"
+      },
+      {
+        "choice_id": "c2",
+        "text": "丁得持該票向甲主張付款，甲為發票人，不得拒絕"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙係無償讓與該票，故乙不負任何票據責任，但丁仍可向丙請求"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丁僅得向甲主張利益償還請求權"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-034",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 34,
+    "question_type": "single",
+    "stem": "乙執有甲簽發之匯票一紙，乙記名背書轉讓予丙，以支付貨款，乙於簽名旁加註：「若丙未交貨時， 此背書無效」。下列對該匯票之敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "背書無效"
+      },
+      {
+        "choice_id": "c2",
+        "text": "匯票無效"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙於簽名旁之加註有效"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙無條件負背書責任"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-035",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 35,
+    "question_type": "single",
+    "stem": "A公司為經營江浙菜館之業者，開立匯票予販售肉品之B公司，購買一個月份之肉品，並由自己擔任 付款人，匯票到期日為民國109年4月6日。惟民眾於此段期間內，為避免群聚而增加感染新冠肺炎 的風險，大多在家自炊，餐飲業者業績大受影響。A公司也因此現金周轉不靈，於B公司在到期日提 示時，A公司希望延期付款，依票據法之規定，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "須得B公司之同意，無特定期限之限制"
+      },
+      {
+        "choice_id": "c2",
+        "text": "須得B公司之同意，但以提示後2日為限"
+      },
+      {
+        "choice_id": "c3",
+        "text": "須得B公司之同意，但以提示後3日為限"
+      },
+      {
+        "choice_id": "c4",
+        "text": "須得B公司之同意，但以提示後4日為限"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-036",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 36,
+    "question_type": "single",
+    "stem": "下列何者不是證券交易法所稱之發行人？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "以公開招募方式出售持有A股份有限公司股票之持股人甲"
+      },
+      {
+        "choice_id": "c2",
+        "text": "作為募集設立B股份有限公司之發起人的自然人乙"
+      },
+      {
+        "choice_id": "c3",
+        "text": "作為募集設立C股份有限公司之發起人的D股份有限公司"
+      },
+      {
+        "choice_id": "c4",
+        "text": "辦理現金增資而募集發行股票之E股份有限公司 代號：4301 頁次：9－6"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-037",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 37,
+    "question_type": "single",
+    "stem": "A上市公司（下稱A公司）章程規定設有七席董事，該公司並設置審計委員會。其中，審計委員會之 成員由甲、乙、丙三人組成。依證券交易法之規定，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲、乙、丙三人必須皆為獨立董事，且至少一人應具備會計或財務專長"
+      },
+      {
+        "choice_id": "c2",
+        "text": "審計委員會之決議，應有過半數成員之出席，出席成員過半數之同意行之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司之年度財務報告如未經審計委員會決議通過，仍不得由全體董事三分之二以上同意行之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "若甲、乙、丙三人均解任時，A公司應自事實發生之日起60日內，召開股東臨時會補選之"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-038",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 38,
+    "question_type": "single",
+    "stem": "A股份有限公司（下稱A公司）股票已公開發行，但尚未上市（櫃），A公司如未能於本年6月30日 前召開股東常會，得否報請主管機關核准延期召開本年度股東常會？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A公司僅須報請經濟部核准，即得延期召開股東常會"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司僅須報請金融監督管理委員會核准，即得延期召開股東常會"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A公司不得報請經濟部或金融監督管理委員會核准延期召開股東常會"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A公司如得經濟部及金融監督管理委員會核准，即得延期召開股東常會"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-039",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 39,
+    "question_type": "single",
+    "stem": "股票上市之A公司實收資本額新臺幣10億元，設7席董事，近日公告買回其股份之內容如下列選項， 何者不符合證券交易法規定？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "買回目的：配合附認股權公司債"
+      },
+      {
+        "choice_id": "c2",
+        "text": "預定買回股份占公司已發行股份總數之比率：1.5%"
+      },
+      {
+        "choice_id": "c3",
+        "text": "董事會決議買回股份之紀錄：4席董事出席，經主席徵詢全體出席董事無異議通過"
+      },
+      {
+        "choice_id": "c4",
+        "text": "買回方式：自集中交易市場買回"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-040",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 40,
+    "question_type": "single",
+    "stem": "A 股份有限公司（下稱 A 公司）為一家從事資訊服務的上市公司，該公司設有常務董事，則 A 公司 常務董事中獨立董事人數不得少於幾人，且不得少於常務董事席次多少比例？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "常務董事中獨立董事人數不得少於一人，且不得少於常務董事席次三分之一"
+      },
+      {
+        "choice_id": "c2",
+        "text": "常務董事中獨立董事人數不得少於二人，且不得少於常務董事席次五分之一"
+      },
+      {
+        "choice_id": "c3",
+        "text": "常務董事中獨立董事人數不得少於一人，且不得少於常務董事席次五分之一"
+      },
+      {
+        "choice_id": "c4",
+        "text": "常務董事中獨立董事人數不得少於二人，且不得少於常務董事席次三分之一"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-041",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 41,
+    "question_type": "single",
+    "stem": "A上市公司（下稱A公司）設有甲、乙、丙三名獨立董事，並由甲、乙、丙三人組成薪資報酬委員會。 關於薪資報酬委員會之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "依公司法規定，董事報酬為股東會決議事項，所以A公司薪資報酬委員會不得就董事報酬加以討論"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A公司薪資報酬委員會應至少每年召開2次"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A 公司薪資報酬委員會所討論之經理人薪酬範圍，僅限於經理人之薪資，而不應包含經理人所享 有之股票選擇權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "A 公司董事會討論薪資報酬委員會之建議時，若不採納薪資報酬委員會之建議，應由董事會全體 董事同意行之，並於決議中具體說明通過之薪資報酬有無優於薪資報酬委員會之建議"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-042",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 42,
+    "question_type": "single",
+    "stem": "公開收購條件成就後，應賣人於何時得不經催告而逕行解約？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "隨時均可任意解約"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公開收購人未於公開收購說明書記載之支付收購對價時間完成支付者"
+      },
+      {
+        "choice_id": "c3",
+        "text": "公開收購人縮短公開收購期間時"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公開收購人調降公開收購價格時"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-043",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 43,
+    "question_type": "single",
+    "stem": "A 公司當選為 B 上市公司（下稱 B 公司）之法人董事，並指派代表人甲行使董事之職權，甲利用其 配偶之名義，於民國113年7月31日買進B公司普通股股票，A公司於同年12月18日改派其代表 人為乙，甲復於同年12月20日賣出B公司有表決權特別股股票，依目前主管機關之見解，B公司不 得向甲行使短線交易歸入權之理由為何？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "因法人董事之代表人甲並不受短線交易之規範"
+      },
+      {
+        "choice_id": "c2",
+        "text": "因買進B公司股票之人為甲之配偶，賣出B公司股票之人為甲，兩者無法行使歸入權"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因甲於賣出B公司之特別股時，已不具備法人董事代表人之身分"
+      },
+      {
+        "choice_id": "c4",
+        "text": "因買進之有價證券為B公司普通股，賣出之有價證券為B公司有表決權特別股"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-044",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 44,
+    "question_type": "single",
+    "stem": "下列關於我國現行證券集中保管制度之敘述，何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "集中保管之有價證券係以帳簿劃撥方式辦理買賣交割"
+      },
+      {
+        "choice_id": "c2",
+        "text": "集中保管有價證券之設質交付，適用民法第九百零八條之規定"
+      },
+      {
+        "choice_id": "c3",
+        "text": "上市（櫃）公司發行股票應採帳簿劃撥交付之無實體發行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "集中保管之股票係以證券集中保管事業之名義登載於股票發行公司股東名簿 代號：4301 頁次：9－7"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-045",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "A 上市公司（下稱 A 公司）之產品以外銷為主，A 公司主要客戶於某年 4 月 1 日片面停止與 A 公司 之全部業務往來，同年4月2日即有國外媒體加以報導，4月3日國內媒體亦陸續報導，當日股價即 大幅向下修正。A公司迫於輿論壓力於4月4日清明節上午召開記者會說明，隨即於下午將系爭消息 輸入公開資訊觀測站。依主管機關規定之公開方式，系爭重大消息何時公開？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "4月2日國外媒體開始報導時"
+      },
+      {
+        "choice_id": "c2",
+        "text": "4月3日國內媒體開始報導時"
+      },
+      {
+        "choice_id": "c3",
+        "text": "4月4日上午召開記者會說明時"
+      },
+      {
+        "choice_id": "c4",
+        "text": "4月4日下午將系爭消息輸入公開資訊觀測站時"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-046",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 46,
+    "question_type": "single",
+    "stem": "甲將其B屋租給乙，約定2年後乙須返還租賃物；乙每個月須支付租金新臺幣（下同）3萬元，並約 定遲延給付租金達2個月以上時，以上皆載明可逕為強制執行，另於租期屆滿後甲須返還乙押租金。 上述之事項均已經公證人作成公證書。下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "就租賃物返還部分，於租期屆滿乙仍不返還，甲不得以此一公證書作為執行名義"
+      },
+      {
+        "choice_id": "c2",
+        "text": "租期屆滿甲未返還押租金，雖未記載可逕為強制執行時，乙仍得以此一公證書作為執行名義"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙積欠甲租金2個月共6萬元，甲得以此一公證書作為執行名義"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙不慎將 B 屋中甲所有之 C 衣櫃損毀，就此所生之損害賠償 8 萬元，甲得以此一公證書作為執行 名義"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-047",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 47,
+    "question_type": "single",
+    "stem": "甲、乙共有土地一塊，甲之應有部分為三分之一，乙之應有部分三分之二。嗣甲以乙為被告，起訴請 求分割土地，經法院判決變價分割確定後，乙遂以該確定終局判決為執行名義，向執行法院聲請就土 地變價分割。執行法院應如何課徵執行費？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "以土地全部價額核定之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "以土地價額三分之二核定之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "以土地價額三分之一核定之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "以乙之應有部分預估價額命先暫繳，待拍定時再按拍定總額計徵執行費用"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-048",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 48,
+    "question_type": "single",
+    "stem": "甲以乙積欠其借款新臺幣 100萬元為由，向法院聲請發支付命令獲准，並寄送至乙之戶籍地址，未 據乙提出異議。甲乃執系爭支付命令，聲請執行乙之財產，經執行法院開始強制執行。下列敘述，何 者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "乙得以其並未住居於系爭支付命令所寄送之戶籍地址，系爭支付命令因未合法送達而失效為由，聲 明異議"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙得以甲並未交付系爭借款，甲之債權不成立為由，提起異議之訴"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙得以其已於強制執行開始後清償系爭借款，甲之債權已消滅為由，提起異議之訴"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙以甲之債權已因抵銷而消滅為由，提起異議之訴，遭駁回確定後，得再以其與甲並無借貸合意， 甲之債權不成立為由，提起異議之訴"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-049",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 49,
+    "question_type": "single",
+    "stem": "債權人甲訴請債務人乙將 A 土地所有權移轉登記予自己，獲勝訴判決確定後，持該判決聲請執行法 院對乙為強制執行，請求乙辦理所有權移轉登記。關於執行法院之處置，下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲未撤回強制執行之聲請時，應裁定駁回"
+      },
+      {
+        "choice_id": "c2",
+        "text": "發執行命令，命乙向地政機關辦理及賠償甲代為預納之執行費用"
+      },
+      {
+        "choice_id": "c3",
+        "text": "發執行命令，命甲直接向地政機關辦理，並命乙賠償甲代為預納之執行費用"
+      },
+      {
+        "choice_id": "c4",
+        "text": "函請地政機關依確定判決辦理，並命乙賠償甲代為預納之執行費用"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-050",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 50,
+    "question_type": "single",
+    "stem": "關於金錢請求權之動產與不動產執行程序，下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "兩者均得為強制管理"
+      },
+      {
+        "choice_id": "c2",
+        "text": "兩者均須經拍賣程序予以換價"
+      },
+      {
+        "choice_id": "c3",
+        "text": "動產拍賣預定有底價者，應於拍賣公告載明"
+      },
+      {
+        "choice_id": "c4",
+        "text": "將不動產及其上動產合併拍賣時，適用關於不動產之拍賣規定"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-051",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 51,
+    "question_type": "single",
+    "stem": "乙欠甲貨款新臺幣（下同）100萬元，甲取得確定之支付命令後，執以聲請法院強制執行乙所有之A 車。該車另設定動產抵押權予丙，以擔保丙對乙之120萬元債權。下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "執行法院查封A車後，如鑑估其價額為100萬元，則不必詢問債權人之意見，即可撤銷查封，將A 車返還乙"
+      },
+      {
+        "choice_id": "c2",
+        "text": "執行法院查封 A 車後，如鑑估其價額為 100 萬元，甲仍得聲明於 A 車賣得價金不超過 120 萬元及 其執行費用時，願負擔其費用，請求繼續拍賣"
+      },
+      {
+        "choice_id": "c3",
+        "text": "執行法院於強制執行時，如發現A車上有丙之抵押權120萬元，則不得查封A車"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丙對A車之強制執行程序得提起第三人異議之訴 代號：4301 頁次：9－8"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-052",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 52,
+    "question_type": "single",
+    "stem": "債權人甲以債務人乙未依買賣契約移轉 A 地所有權，聲請法院對 A 地為禁止乙為移轉、設定負擔之 假處分，並據之向執行法院聲請為假處分執行後，乙之另一債權人丙復持同法院命乙給付新臺幣600 萬元本息之確定終局判決，聲請對A地為終局執行。下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "禁止處分之假處分，僅禁止債務人乙之任意處分，並不禁止強制執行所為之處分，執行法院應准許 丙聲請對A地之終局執行"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A地既經禁止處分之假處分執行，執行法院應駁回丙聲請對A地之終局執行"
+      },
+      {
+        "choice_id": "c3",
+        "text": "A地雖經甲聲請為假處分執行，惟丙仍得聲請執行法院對A地為查封，但不許換價程序"
+      },
+      {
+        "choice_id": "c4",
+        "text": "執行法院應裁定命乙提供其他財產供甲擔保後，撤銷對 A 地之假處分執行，而准許丙對 A 地之終 局執行"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-053",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 53,
+    "question_type": "single",
+    "stem": "關於假扣押之執行，下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "假扣押裁定須確定後始能執行"
+      },
+      {
+        "choice_id": "c2",
+        "text": "基於假扣押裁定而為執行，法院查封動產後，債務人再處分該動產之行為，絕對無效"
+      },
+      {
+        "choice_id": "c3",
+        "text": "對於假扣押之執行，不得藉由聲請假處分而使其停止執行"
+      },
+      {
+        "choice_id": "c4",
+        "text": "基於假扣押裁定，執行法院不得發債務人對第三人金錢債權之扣押命令"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-054",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 54,
+    "question_type": "single",
+    "stem": "甲列乙為相對人，向法院聲請定暫時狀態處分，命乙容忍甲通行乙所有之A地獲准。下列敘述，何者 錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "執行法院應將系爭處分送達於乙"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲收受系爭處分已逾30日後，乙開始妨礙甲通行A地者，甲仍得執以聲請強制執行"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙設置圍牆妨礙甲通行A地者，甲得聲請拆除之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "系爭處分依乙之抗告經廢棄確定者，執行法院應依乙之聲請，命甲返還通行A地之利益"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-055",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 55,
+    "question_type": "single",
+    "stem": "債權人甲持命乙給付金錢之確定判決，聲請法院執行乙所有之A地後，丙、丁、戊、己分別提出證明 文件，具狀向執行法院聲明參與分配。下列敘述，何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "丙提出和解筆錄者，如其上所載金錢債權未屆清償期，於聲明參與分配時視同已屆期，丙得參與分配"
+      },
+      {
+        "choice_id": "c2",
+        "text": "丁提出禁止處分A地之假處分者，因其於查封階段與系爭執行程序不相牴觸，故丁得參與分配"
+      },
+      {
+        "choice_id": "c3",
+        "text": "戊提出A地之抵押權設定契約書、他項權利證明書及借據者，雖該等文件並非執行名義，戊仍得參 與分配"
+      },
+      {
+        "choice_id": "c4",
+        "text": "己提出乙作為雇主歇業前積欠其3個月工資之切結書者，雖未取得執行名義，因該工資債權依法有 優先受償之地位，故己得參與分配"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-056",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 56,
+    "question_type": "single",
+    "stem": "UnderArticle 185 of R.O.C. Civil Code,liabilityis where the whole or adistinct part ofthedamage sufferedbythevictimisattributabletotwoormorepersons.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "jointandseveral"
+      },
+      {
+        "choice_id": "c2",
+        "text": "discrete"
+      },
+      {
+        "choice_id": "c3",
+        "text": "independent"
+      },
+      {
+        "choice_id": "c4",
+        "text": "increased"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-057",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 57,
+    "question_type": "single",
+    "stem": "OliverlikedtoplaymusicextremelyloudanditalwayswokeupMr.andMrs.Smithatmidnight.Oliverwas liabletoMr.andMrs.Smithfor .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "trespass"
+      },
+      {
+        "choice_id": "c2",
+        "text": "nuisance"
+      },
+      {
+        "choice_id": "c3",
+        "text": "painandsuffering"
+      },
+      {
+        "choice_id": "c4",
+        "text": "mentaldistress"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-058",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 58,
+    "question_type": "single",
+    "stem": "Incertaincircumstances,AcanbeheldliableforthetortscommittedbyBsimplybecauseBisA’semployee oragentorindependentcontractor,anddespitethefactthatinjuryordamagecausedbyB’stortmaynothave beentheresultofanyfaultonthepartofA.Whatisthetypeoftheaforementionedtortiousliability？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Contributoryliability"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Vicariousliability"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Strictliability"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Jointliability"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-059",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 59,
+    "question_type": "single",
+    "stem": "isliabilityregardlessoffault.Theplaintiffdoesnothavetoproveeitherthatthedefendantwasatfault orthatthedefendantwasnotatfault.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Negligentliability"
+      },
+      {
+        "choice_id": "c2",
+        "text": "Intentionalliability"
+      },
+      {
+        "choice_id": "c3",
+        "text": "Strictliability"
+      },
+      {
+        "choice_id": "c4",
+        "text": "Inducingliability"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-060",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 60,
+    "question_type": "single",
+    "stem": "Adam agreed to sell and Rosa agreed to buyAdam’s house located in Europe. Unfortunately,Adam did not know that his house has burnt down two days ago. Under Article 246 of R.O.C. Civil Code, the contract is .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "void"
+      },
+      {
+        "choice_id": "c2",
+        "text": "reversible"
+      },
+      {
+        "choice_id": "c3",
+        "text": "revocable"
+      },
+      {
+        "choice_id": "c4",
+        "text": "unlawful 代號：4301 頁次：9－9"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-061",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 61,
+    "question_type": "single",
+    "stem": "Whenacorporateissuerwishestoraisemoneyandtoofferthesecuritiesonlytoprofessionalinvestors,such asinsurancecompaniesorpensionfunds,etc.,outsideofapublicoffering,wecallthisofferingas .",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "gun-jumping"
+      },
+      {
+        "choice_id": "c2",
+        "text": "privateplacement"
+      },
+      {
+        "choice_id": "c3",
+        "text": "publicissuance"
+      },
+      {
+        "choice_id": "c4",
+        "text": "spin-off"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-062",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 62,
+    "question_type": "single",
+    "stem": "WhichofthefollowingstatementsregardingsentencinginTaiwan’sCodeofCriminalLawiscorrect?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "BothretributionanddeterrencearethegoalsofpenaltiesinTaiwan’sCodeofCriminalLaw."
+      },
+      {
+        "choice_id": "c2",
+        "text": "PursuanttoTaiwan’sConstitutionalCourtRuling,therecidivistmustbepunishedwithanenhancedpenalty, whichmightbeuptooneandahalftimesthepenaltyoftheoffensecommitted."
+      },
+      {
+        "choice_id": "c3",
+        "text": "Imposingasentenceshallnotconsiderthecircumstantialevidencewithregardtothedefendant’scharacter, theattitudesafterthecrime,andthelifecircumstances."
+      },
+      {
+        "choice_id": "c4",
+        "text": "Aprobationcannotbeimposedwithadditionalcondition(s)."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-063",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 63,
+    "question_type": "single",
+    "stem": "TheemergencydecreeissuedbythePresidentshallbepresentedtotheLegislativeYuanfor within10 daysofissuance.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "ratification"
+      },
+      {
+        "choice_id": "c2",
+        "text": "response"
+      },
+      {
+        "choice_id": "c3",
+        "text": "reconciliation"
+      },
+      {
+        "choice_id": "c4",
+        "text": "examination"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-064",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 64,
+    "question_type": "single",
+    "stem": "In a civilcase,anymethodofresolvingdisputes withoutlitigationiscalled , includingarbitrationand mediation.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "non-litigationadjudication"
+      },
+      {
+        "choice_id": "c2",
+        "text": "advanceddisputereplacement"
+      },
+      {
+        "choice_id": "c3",
+        "text": "extrajudicialsettlement"
+      },
+      {
+        "choice_id": "c4",
+        "text": "alternativedisputeresolution"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-065",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 65,
+    "question_type": "single",
+    "stem": "A(An) is an agreement between two parties: a principal and an attorney, which gives the attorney rightstoactintheprincipal’sposition.Forexample,alawyerneedstohaveherclientsignsuchtheagreement beforerepresentingtheclienttospeakincourt.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "agencyagreement"
+      },
+      {
+        "choice_id": "c2",
+        "text": "powerofattorney"
+      },
+      {
+        "choice_id": "c3",
+        "text": "authorizingstatement"
+      },
+      {
+        "choice_id": "c4",
+        "text": "contractofempowerment"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-066",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 66,
+    "question_type": "single",
+    "stem": "Thelevelof essentiallydictatesthelensthroughwhichthecourtwillanalyzethegovernmentalaction. Itshighestlevelmeansthatthecourtwillnotdefertothegovernmentforitspurposeormethodatall.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "security"
+      },
+      {
+        "choice_id": "c2",
+        "text": "protection"
+      },
+      {
+        "choice_id": "c3",
+        "text": "deference"
+      },
+      {
+        "choice_id": "c4",
+        "text": "scrutiny"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-067",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 67,
+    "question_type": "single",
+    "stem": "Whichofthefollowingstatementsregardingsentencingiscorrect?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "Sentencingisatthediscretionoftheprosecutor."
+      },
+      {
+        "choice_id": "c2",
+        "text": "Sentencingshouldbeimposedbasedonlyonconsiderationofthematerialelementsoftheoffense."
+      },
+      {
+        "choice_id": "c3",
+        "text": "Sentencingshouldcomplywiththeproportionalityprinciple."
+      },
+      {
+        "choice_id": "c4",
+        "text": "Thedeathpenaltycanbeimposedandexecutedonjuveniles."
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-068",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 68,
+    "question_type": "single",
+    "stem": "Intheprocessofelectingdirectorsatashareholders’meeting, isavotingsysteminwhicheachvoter maycastmorethanonevoteforthesamecandidate,thenumberofwhichexercisableinrespectofoneshare shall be the same as the number of directors to be elected, and the total number of votes per share may be consolidatedforelectionofonecandidate.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "cumulativevoting"
+      },
+      {
+        "choice_id": "c2",
+        "text": "straightvoting"
+      },
+      {
+        "choice_id": "c3",
+        "text": "collectivevoting"
+      },
+      {
+        "choice_id": "c4",
+        "text": "accumulativevoting"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-069",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 69,
+    "question_type": "single",
+    "stem": "ABC Co. holds 80% of DEF Co.’s shares. DEF Co., in turn, holds all of GHICo.’s shares. In the meantime, ABCCo.alsoholds60%ofJKLCo.’sshares.AccordingtoChapterVI-IonAffiliateEnterprisesofTaiwan’s CompanyAct,whichofthefollowingstatementiscorrect?",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "ABCCo.isthecontrollingcompanyofGHICo."
+      },
+      {
+        "choice_id": "c2",
+        "text": "DEFCo.isthecontrollingcompanyofJKLCo."
+      },
+      {
+        "choice_id": "c3",
+        "text": "JKLCo.isthecontrollingcompanyofDEFCo."
+      },
+      {
+        "choice_id": "c4",
+        "text": "JKLCo.isthecontrollingcompanyofGHICo."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "114-4301-070",
+    "year": 114,
+    "subject_code": "4301",
+    "question_no": 70,
+    "question_type": "single",
+    "stem": "Abasicruleofcontractsholdsthatwhetheranofferhasbeenmadedependsonthe reasonablenessof thealleged ’sbeliefthattheadvertisementorsolicitationwasintendedasanoffer.",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "objective,offeror"
+      },
+      {
+        "choice_id": "c2",
+        "text": "subjective,offeror"
+      },
+      {
+        "choice_id": "c3",
+        "text": "objective,offeree"
+      },
+      {
+        "choice_id": "c4",
+        "text": "subjective,offeree"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  }
+]

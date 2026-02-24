@@ -1,0 +1,2777 @@
+[
+  {
+    "question_id": "113-1301-001",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 1,
+    "question_type": "single",
+    "stem": "下列何者非屬刑法第125條濫權追訴處罰罪之實行行為？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "明知不應受理而受理刑事訴訟案件"
+      },
+      {
+        "choice_id": "c2",
+        "text": "意圖取得供述而對被告施強暴脅迫"
+      },
+      {
+        "choice_id": "c3",
+        "text": "濫用公務員之職權而為逮捕或羈押"
+      },
+      {
+        "choice_id": "c4",
+        "text": "明知為有罪之人而無故不使其受追訴或處罰"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-002",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 2,
+    "question_type": "single",
+    "stem": "有關公務員之解釋，依實務見解，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "國立大學教授接受民間委託或補助執行研究計畫，並參與相關採購事務，就所參與之採購事務，為 刑法上之公務員"
+      },
+      {
+        "choice_id": "c2",
+        "text": "依政府採購法規定之各公營事業之承辦、監辦採購等人員，為「授權公務員」"
+      },
+      {
+        "choice_id": "c3",
+        "text": "委託公務員，必須以受國家、地方自治團體所屬機關依法律、法律授權之法規命令、職權命令、自 治條例、自治規則、委辦規則或其他對多數不特定人民就一般事項所作對外發生法律效果之規定， 從事與委託機關權限有關之公共事務者為其要件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "身分公務員，不限制其任用方式係出於考試晉用、選舉產生、約聘僱用或政治任命，或其任用身分 及時間久暫，凡有法令依據而服務於國家或地方自治團體而具有法定職務權限者，均屬之"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-003",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 3,
+    "question_type": "single",
+    "stem": "甲對乙居住之透天厝的木門潑灑汽油並點火，木門被燒壞之後火勢隨即熄滅，並未繼續延燒。下列敘 述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "木門雖係附連於透天厝之物，然僅燒壞木門仍構成毀損建築物罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "燒壞之木門為透天厝之重要部分，甲構成刑法第173條第1項放火既遂罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲所為僅為放火燒燬透天厝之預備行為，成立刑法第173條第4項放火預備罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲並未使透天厝喪失其效用，因此成立刑法第173條第3項放火未遂罪"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-004",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 4,
+    "question_type": "single",
+    "stem": "甲懷疑配偶乙有外遇，於是在乙的車上裝設衛星定位系統（GPS）追蹤器，錄下並分析比對其車輛移 動的位置訊息，以掌握乙的行蹤，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "衛星定位系統追蹤器屬於刑法第315條之1第1款之工具與設備"
+      },
+      {
+        "choice_id": "c2",
+        "text": "由於車輛在公開環境中行走，故車輛移動位置之資訊屬於公開活動"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲以追蹤器錄下乙所在位置資訊之行為屬於竊錄行為"
+      },
+      {
+        "choice_id": "c4",
+        "text": "依近期實務判決，甲懷疑配偶有外遇而竊錄其行蹤之行為，不是正當理由"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-005",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 5,
+    "question_type": "single",
+    "stem": "甲與乙素有嫌隙，一日見乙在路上閒晃，遂出手毆打乙，乙遭毆後大驚，即轉身要逃，卻不小心掉落 路邊施工坑洞，導致乙身上除了被甲所毆之身體挫傷之外，右腳小腿還因此粉碎性骨折而截肢。依實 務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "乙轉身要逃，自己不小心掉落路邊施工坑洞，應屬被害人乙自我負責之行為，甲僅就毆打乙頭部之 挫傷負刑法第277條第1項普通傷害罪之責"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙右腳僅小腿骨折而截肢，不符合刑法第 10 條第 4 項第 4 款規定「毀敗或嚴重減損一肢以上之機 能」之重傷"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲對於乙受毆逃跑掉落坑洞而右腳截肢之結果，應具有客觀預見可能性，甲應負刑法第277條第2 項後段傷害致重傷罪之責"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙之截肢結果並非源自頭部挫傷之加重後果，故不成立刑法第277條第2項後段傷害致重傷罪之責 代號：1301 頁次：12－2"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-006",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 6,
+    "question_type": "single",
+    "stem": "有關過失犯敘述，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "在判斷醫療過失時，不得一律以醫學中心之醫療水準為判斷標準"
+      },
+      {
+        "choice_id": "c2",
+        "text": "他人之交通違規事實已極為明顯，且行為人有充足時間可避免發生交通事故時，行為人即不能主張 信賴原則免責"
+      },
+      {
+        "choice_id": "c3",
+        "text": "由於醫師在進行手術前，可信賴護理師已先正確確認患者人別，故即使主刀醫師開刀前未再核對患 者之身分，而對錯誤之患者開刀時，醫師也不用負過失傷害之責任"
+      },
+      {
+        "choice_id": "c4",
+        "text": "在過失不作為犯的情形，依實務見解，過失犯的注意義務和不作為犯的作為義務屬於不同層次問題， 不得混為一談"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-007",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 7,
+    "question_type": "single",
+    "stem": "關於「得被害人之承諾」作為超法規阻卻違法事由，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "被害人之承諾能力，不以民法上之行為能力為標準，而是依個案之認識與判斷能力而定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "被害人因受行為人詐欺而為承諾者，承諾之效力未定，被害人得事後選擇撤銷或不撤銷其承諾"
+      },
+      {
+        "choice_id": "c3",
+        "text": "被害人得承諾放棄的法益，除個人法益之外，尚可包含社會法益"
+      },
+      {
+        "choice_id": "c4",
+        "text": "基於個人自主權之尊重，得被害人承諾之範圍可包括生命法益"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-008",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 8,
+    "question_type": "single",
+    "stem": "某行政機關科長甲，因涉嫌偽造文書，經檢察官偵查。對此，甲供稱，當時直屬長官乙命令自己實行 該行為，甲雖明知自己偽造文書，但無奈乙宣稱會負責一切責任，甲不得已只好照辦。經查，甲所述 屬實，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲得主張依所屬上級公務員命令之行為，阻卻違法"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲得主張無期待可能性，阻卻責任"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙是偽造文書罪的間接正犯"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙是偽造文書罪的教唆犯"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-009",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 9,
+    "question_type": "single",
+    "stem": "有關刑法第16條規定，依實務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "第16條之規定係專指行為人自認其行為存在與阻卻違法事由相關之事實，故其行為合法而言"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若行為人對行為是否涉及不法有所懷疑，必要時有向具有專業能力之人或機構等查詢之義務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "第 16 條之規定，是對於行為人不知法律之情形，區分不同法律效果，僅有行為人對於違法性錯誤 無正當理由而屬可避免者，始應免除其刑事責任"
+      },
+      {
+        "choice_id": "c4",
+        "text": "誤想犯有第16條規定之適用"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-010",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 10,
+    "question_type": "single",
+    "stem": "有關自首之敘述，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲開車不慎撞傷某乙，於犯罪尚未被偵查機關發覺前，向到場處理之員警表明確係其開車撞傷乙， 但辯稱自己完全無過失，事故發生均是乙的過失。則甲因未承認犯罪，不能認有自首之適用"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲犯具有想像競合關係之 A、B 二罪（B 罪法定刑較重），其於偵查機關已發覺 A罪後，另向偵查 機關申告尚未被發覺的B罪亦係其所為，則B罪部分仍有自首之適用"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲向偵查機關申告尚未被發覺之犯罪後，隨即逃匿無蹤，經發布通緝後始到案，則甲並無自首之適用"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲就未發覺之罪，原想親自至地方檢察署自首，但因恐即遭檢察官向法院聲請羈押，遂先委由友人 乙至地方檢察署聲明該案為甲所為，以及其欲自首之意，甲雖委託乙代行自首之意，仍有自首之適用"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-011",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 11,
+    "question_type": "single",
+    "stem": "有關現行實務採「相對總額原則」之利得沒收，下列何者屬司法院憲法法庭 111 年憲判字第 18 號判 決之內容？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "不受罪刑法定原則拘束"
+      },
+      {
+        "choice_id": "c2",
+        "text": "沒收之目的除欲制裁個人犯罪行為外，亦欲回復犯罪前之合法財產秩序"
+      },
+      {
+        "choice_id": "c3",
+        "text": "對違法交易所生犯罪所得之沒收須先扣除所有犯罪成本"
+      },
+      {
+        "choice_id": "c4",
+        "text": "非善意第三人得對沒收新制實施前之應沒收之物主張信賴保護"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-012",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 12,
+    "question_type": "single",
+    "stem": "關於刑法第195條偽造貨幣罪，依實務見解，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "外國貨幣雖然在國內具有流通力，但不具有強制流通力，因此不屬於本罪之通用貨幣"
+      },
+      {
+        "choice_id": "c2",
+        "text": "偽造幣券需以摹擬真正幣券以為製造，若偽造出事實上不存在的通貨，則非偽造行為"
+      },
+      {
+        "choice_id": "c3",
+        "text": "偽造係指無通用貨幣發行權者製作假幣券之行為，縱偽造技術拙劣，不足以使一般人誤信為真幣， 仍屬偽造行為"
+      },
+      {
+        "choice_id": "c4",
+        "text": "本罪所謂「意圖供行使之用」係指意圖將偽造變造之貨幣充作真正加以流通者而言，若僅將之作為 拍戲道具使用者，非屬之 代號：1301 頁次：12－3"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-013",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 13,
+    "question_type": "single",
+    "stem": "有關易科罰金，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "易科罰金應於裁判確定後2個月內完納，但依其經濟或信用狀況，不能於2個月內完納者，得許期 滿後1年內分期繳納"
+      },
+      {
+        "choice_id": "c2",
+        "text": "易科罰金應依行為人個人平均每日所得之數額，折算1日"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲犯刑法第335條第1項侵占罪，受2月有期徒刑之宣告，得易科罰金"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲犯刑法第339條第1項詐欺取財罪，受6月有期徒刑之宣告，得易科罰金"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-014",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 14,
+    "question_type": "single",
+    "stem": "甲為立法委員，在承諾民間廠商幫助其取得和國營企業的契約後，利用其身分的影響力對國營企業關 說，國營企業迫於壓力，於是和該民間廠商訂約，甲因此接受廠商提供的性招待，依實務見解，下列 敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲屬於刑法第10條第2項之公務員"
+      },
+      {
+        "choice_id": "c2",
+        "text": "性招待屬於賄賂罪之不正利益"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲利用身分影響力的行為不該當賄賂罪的職務上行為"
+      },
+      {
+        "choice_id": "c4",
+        "text": "性招待與關說行為之間具有對價關係"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-015",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 15,
+    "question_type": "single",
+    "stem": "甲遭起訴犯殺人罪，其辯護人乙向甲陳稱，甲之案件受命法官丙是大學同窗，可代為行賄關說，為甲 爭取無罪判決。甲聽信於乙，遂交付新臺幣（下同）100萬元現金給乙。乙則私下拜訪丙，並交付給 丙 50 萬元現金，請託丙判甲無罪。丙收取 50 萬元現金後，當場承諾會判甲無罪。然在經審理程序 後，丙認為甲的案件完全沒有判決無罪的可能性，遂又請人將50萬元現金返還給乙。乙收回此50萬 元現金後，並未告知甲此一情事。甲隨後遭依法判處有罪，始檢舉乙與丙二人。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲實行之行為為交付乙現金，實際實行行賄行為之人為乙，故甲之行為並不構成行賄罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "丙收取50萬元現金後又返還給乙，難認賄款業已收受，故不構成公務員受賄罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙雖非為自己行賄，而係代甲向丙交付賄款，以求對甲為無罪判決，其行為仍構成行賄罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丙於收受 50 萬元現金作為判決甲無罪之對價、承諾判決無罪時，即已構成濫權不追訴罪，後續丙 又依法對甲判處有罪，僅影響該罪之量刑"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-016",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 16,
+    "question_type": "single",
+    "stem": "關於貪污治罪條例第6條第1項第4、5款之公務員圖利罪，依實務見解，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "關於主管或監督事務圖利罪之主管或監督事務，應依各機關的組織法規或相關法令予以認定"
+      },
+      {
+        "choice_id": "c2",
+        "text": "公務員與圖利之對象仍有成立圖利罪之共同正犯的可能"
+      },
+      {
+        "choice_id": "c3",
+        "text": "主管或監督事務圖利罪和非主管或監督事務圖利罪之違背法令應做相同解釋"
+      },
+      {
+        "choice_id": "c4",
+        "text": "不管是主管或監督事務圖利罪和非主管或監督事務圖利罪，均以獲得利益為必要"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-017",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 17,
+    "question_type": "single",
+    "stem": "關於侵害國家權力運作法益的犯罪敘述，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "刑法第161條第2項以強暴脅迫脫逃之罪為第135條妨害公務罪之特別規定，於該當二者之構成要 件時，應直接適用前者"
+      },
+      {
+        "choice_id": "c2",
+        "text": "妨害公務罪，以公務員依法執行職務時加以妨害為要件，若超越職務範圍以外之行為，即不得謂為 依法執行職務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "刑法第143條所謂有投票權之人，包括收賄時尚不具投票資格，但收賄後獲得投票權而得履行期約 事項之人"
+      },
+      {
+        "choice_id": "c4",
+        "text": "刑法第131條圖利罪所謂直接或間接圖自己或其他私人不法利益，僅指一切有形增加之財產數額， 不包括法律上應減少而未減少之利益"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-018",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 18,
+    "question_type": "single",
+    "stem": "犯人甲為逃避刑罰，躲藏數日後，去找其兄乙哭訴；乙自幼愛護甲，知悉情形後，安排甲躲藏於住家 密室。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲為了逃避刑罰而自行藏匿，屬於自我庇護行為，不成立藏匿人犯罪；乙為甲的近親，藏匿甲為人 之常情，法律不強人所難，故不成立犯罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲為了逃避刑罰而自行藏匿，雖屬於自我庇護行為，但仍成立藏匿人犯罪；乙為甲的近親，藏匿甲 為人之常情，法律不強人所難，故不成立犯罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲為了逃避刑罰而自行藏匿，屬於自我庇護行為，不成立藏匿人犯罪；乙為甲的近親，藏匿甲為人 之常情，雖成立藏匿人犯罪，但依法減免處罰"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲為了逃避刑罰而自行藏匿，雖屬自我庇護行為，但仍成立藏匿人犯罪；乙為甲的近親，藏匿甲為 人之常情，雖成立藏匿人犯罪，但依法減免處罰 代號：1301 頁次：12－4"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-019",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 19,
+    "question_type": "single",
+    "stem": "甲、乙、丙三人因夜市擺攤糾紛，毆打隔壁攤位的丁，使丁受到輕傷，但並未波及其他攤位或周邊居 民，正在巡邏的警察戊剛好在夜市裡購買晚餐，聽到有吵鬧聲及警網通報前往處理時，甲、乙、丙因 害怕被逮捕，一起將圓凳砸向戊之後，拔腿就跑。依實務見解，甲、乙、丙可能構成下列何罪？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "刑法第135條第1項妨害公務罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "刑法第150條第1項妨害秩序罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "刑法第161條第1項脫逃罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "刑法第283條聚眾鬥毆罪"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-020",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 20,
+    "question_type": "single",
+    "stem": "下列公共危險行為與可能成立之刑法罪名間的對應，何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "通勤時間在公路上競速飆車：第185條第1項損壞壅塞道路罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "在行進中之火車上引爆炸彈致火車損壞脫軌：第184條第1項損壞軌道罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "放火燒燬路旁停放之情敵機車，且波及兩旁的車：第175條第1項放火燒燬他人所有物罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "因過失致自己持有區分所有權且使用中的住家大樓被燒燬：第173條第2項失火燒燬現供人使用住 宅罪"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-021",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 21,
+    "question_type": "single",
+    "stem": "依我國實務見解，有關偽造文書罪，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "變更真正文書之製作人為自己，係屬偽造"
+      },
+      {
+        "choice_id": "c2",
+        "text": "無製作權之人冒用他人名義製作文書，係屬偽造"
+      },
+      {
+        "choice_id": "c3",
+        "text": "以他人名義製作文書，如行為人基於名義人之授權而有製作之權，即不成立偽造文書罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "會議記錄人員以自己之名義作成會議紀錄，如內容涉及不實，除構成刑法第 215 條業務登載不實 罪，亦構成偽造私文書罪"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-022",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 22,
+    "question_type": "single",
+    "stem": "小學教師甲利用自己的身分，告訴其 13 歲的學生乙如果想要考試加分，就與其性交，乙受到引誘， 所以同意了甲的要求。依照實務見解，在討論各種競合可能性之後，甲應論以何罪？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "強制性交罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乘機性交罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "利用權勢性交罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "對於未滿14歲之男女為性交罪"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-023",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 23,
+    "question_type": "single",
+    "stem": "依實務見解，下列何種情形中，甲之行為構成刑法第221條之強制性交罪？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "醫師甲為女病患乙手術時，趁乙麻醉後昏迷時，當場見色心喜，以其手指插入乙之陰道滿足自己性慾"
+      },
+      {
+        "choice_id": "c2",
+        "text": "神棍甲告知前來問卦之乙女，若不與其性交，將被小鬼纏身，乙信以為真，任由甲以陰莖插入乙之 陰道"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲以手指沾上自己之精液，強行插入乙女之口腔內"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲女強行以其舌頭插入乙男之口腔，欲與乙男舌吻"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-024",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 24,
+    "question_type": "single",
+    "stem": "有關妨害風化罪章，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "公然為猥褻行為，如非出於供人觀覽之意圖，即不成立公然猥褻罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "於賓館性交易時為嫖客脫衣陪酒，不構成公然猥褻罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "意圖營利而公然為猥褻行為者，成立加重公然猥褻罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "公然陳列或播放猥褻影像者，成立公然猥褻罪"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-025",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 25,
+    "question_type": "single",
+    "stem": "有關刑法第240條、第241條和誘、略誘罪之敘述，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲欲與A性交，乃將A略誘帶至某旅館，甲隨即請知情的B代為看管A，B乃依甲的指示看管A， 因略誘行為已結束，B不會與甲成立略誘罪之共同正犯"
+      },
+      {
+        "choice_id": "c2",
+        "text": "母親意圖使未滿7歲之子女脫離父親親權之行使，而未經父親同意，將該子女帶往他地以阻隔父親 行使親權者，仍可能成罪，不因母親同有親權而受影響"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲在略誘 A 的期間中，因 A 想要逃跑，甲遂出言恐嚇：「如果你敢跑走，我會揍你」，甲不會另外 成立恐嚇罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "所謂和誘，係指被誘人知拐誘之目的而予同意者而言；如果違反被誘人之意思，而將其置於自己實 力支配之下，則為略誘"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-026",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 26,
+    "question_type": "single",
+    "stem": "有關賭博罪章，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "於自家住宅等非公眾得出入之處所賭博，不成立刑法第266條之犯罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "年節時與家人小賭怡情，即使公然為之，亦不成立犯罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "以網際網路方式賭博財物，不成立犯罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "提供自家住宅供人賭博，意圖借抽頭賺取利益者，成立犯罪 代號：1301 頁次：12－5"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-027",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 27,
+    "question_type": "single",
+    "stem": "關於傷害罪，依實務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "刑法第278條「重傷」之標準，乃是以傷害初始之檢驗狀況為準"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若聚眾鬥毆時，在場助勢之人與實行傷害行為之行為人間有犯意聯絡和行為分擔時，才能成立聚眾 鬥毆罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "刑法第286條之凌虐行為不以長期性、持續性、多次性為必要"
+      },
+      {
+        "choice_id": "c4",
+        "text": "殺人罪與傷害致死罪之間，以受傷處是否為致命部位為其區別基準"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-028",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 28,
+    "question_type": "single",
+    "stem": "有關妨害自由罪章之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲因乙擋其財路，遂郵寄含有子彈之郵包予乙，成立刑法第305條恐嚇危安罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲乙鄰居發生爭執，甲氣不過，遂大罵乙「我詛咒你不得好死」，成立刑法第305條恐嚇危安罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "警員甲持偽造公文書向檢察官乙騙取拘票，拘提丙，導致丙因受訊問，歷經一日始獲諭知請回，就 自由法益之保護，甲成立刑法第134條、第302條第1項公務員假借職務上之方法剝奪他人行動自 由罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲趁乙洗澡時，將其衣物取走，使乙無法離開澡堂，成立刑法第302條剝奪他人行動自由罪"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-029",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 29,
+    "question_type": "single",
+    "stem": "有關刑法誹謗罪之敘述，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "依司法院釋字第509號解釋，行為人雖不能證明言論內容為真實，但依其所提證據資料，認為行為 人有相當理由確信其為真實者，仍不能以誹謗罪論處"
+      },
+      {
+        "choice_id": "c2",
+        "text": "刑法上的誹謗罪跟公然侮辱罪雖均足以使他人之社會評價受到損害，但「誹謗」乃是針對具體事實 為指摘或傳述；而「侮辱」則是抽象謾罵或嘲弄"
+      },
+      {
+        "choice_id": "c3",
+        "text": "本於憲法平等原則，行為人就其所指摘之事，不論是茶餘飯後閒談聊天之資或利用記者會傳播，查 證義務均應相同，而無高低之分"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲於 1 月 1 日在 A所居住的大樓大廳張貼誹謗 A 之大字報，且一直到該年底均未撕下，A 在甲張 貼當日即見聞此事，但遲至同年 10 月 1 日始提告訴，雖然誹謗的文字圖畫繼續存在，A 之提告已 逾告訴期間"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-030",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 30,
+    "question_type": "single",
+    "stem": "有關妨害性自主罪章，依實務見解，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "對未滿7歲之人為性交，一律成立刑法第222條第1項加重強制性交罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "對7歲以上未滿14歲之人為合意性交，成立刑法第227條第1項與幼年人性交罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "行為人明知被害人酒量不佳，故意對被害人灌酒，使其泥醉而陷入意識模糊狀態，進而與之性交， 成立刑法第225條第1項乘機性交罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲、乙共謀對丙為強制性交，約定由甲壓制丙，由乙對丙為性交行為，甲、乙皆成立刑法第222條 第1項加重強制性交罪"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-031",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 31,
+    "question_type": "single",
+    "stem": "成年人甲、乙、丙與13歲的丁共同謀議進入某豪宅行竊，其中甲負責竊盜的謀議與計畫，而僅由乙、 丙、丁前往現場行竊。犯罪當日，甲在家中等待，乙、丙、丁前往目標現場，由乙負責在豪宅門口把 風，丙、丁則入內行竊，於竊得大筆財物後，坐上乙接應的車輛離去，並回到甲家中由四人均分所得 贓款。本案關於是否符合刑法第321條第1項第4款「結夥三人以上」加重竊盜罪，依實務見解，下 列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲應計入結夥人數"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙應計入結夥人數"
+      },
+      {
+        "choice_id": "c3",
+        "text": "丙應計入結夥人數"
+      },
+      {
+        "choice_id": "c4",
+        "text": "丁應不計入結夥人數"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-032",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 32,
+    "question_type": "single",
+    "stem": "有關甲之行為，依實務見解，下列何者不構成刑法第332條強盜結合罪？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲為避免其所竊得之物遭被害人乙奪回，在行竊當場將乙殺死"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲壓制乙，欲對乙為性交卻未果，憤而起意拔取乙配戴的鑽石戒指，據為己有"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲在強盜乙的財物後，立即縱火燒燬乙的鄰居丙所有房屋以轉移眾人焦點，而得以順利逃離現場"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲強押乙至山區後，壓制乙並從乙身上奪取皮夾與金項鍊，其後又為避免遭乙指認而持刀刺瞎乙雙眼 代號：1301 頁次：12－6"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-033",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 33,
+    "question_type": "single",
+    "stem": "甲至市集購買蔬果，見乙蕃茄攤販正進行蕃茄裝箱促銷活動，分別有裝滿新臺幣（以下同）360元與 600元兩種蕃茄價格，甲見乙忙碌，遂偷將高價蕃茄先裝進箱子，最後將低價蕃茄鋪於表面，乙結帳 時並未察覺，即以360元計價。依實務見解，甲應論以何罪？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "竊盜罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "搶奪罪"
+      },
+      {
+        "choice_id": "c3",
+        "text": "強盜罪"
+      },
+      {
+        "choice_id": "c4",
+        "text": "詐欺罪"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-034",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 34,
+    "question_type": "single",
+    "stem": "下列敘述甲透過犯罪所取得者，何者無法成為刑法第349條第1項贓物罪的行為客體？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲順手從路邊牽走未上鎖之A所有腳踏車"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲持槍至銀樓壓制老闆A後取得的金項鍊"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲綑綁並毆打遲不還款的債務人A，A因而轉帳返還所欠款項"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲謊稱 A 所持有的真正古董花瓶為贗品，並要求 A 贈與該花瓶給自己，A 信以為真，乃將該花瓶 贈與甲"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-035",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 35,
+    "question_type": "single",
+    "stem": "甲教唆友人乙，趁鄰居丙上班時前往丙家偷竊財物，乙乃聽從其建議，於某日侵入住宅竊取相機、電 腦，乙於得手後，將相機贈送甲以表達感謝，甲決定收下該相機。依實務見解，甲之刑責為何？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲僅成立刑法第349條第1項收受贓物罪"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲成立刑法第321條第1項加重竊盜罪之教唆犯"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲成立刑法第321條第1項加重竊盜罪之教唆犯與收受贓物罪，二罪數罪併罰"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲成立刑法第321條第1項加重竊盜罪之教唆犯與收受贓物罪，二罪想像競合"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-036",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 36,
+    "question_type": "single",
+    "stem": "關於卷證獲知之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "被告於審判中得檢閱卷宗及證物並得抄錄、重製或攝影"
+      },
+      {
+        "choice_id": "c2",
+        "text": "被告之代理人於審判中不得檢閱卷宗及證物，亦不得抄錄、重製或攝影"
+      },
+      {
+        "choice_id": "c3",
+        "text": "告訴人之代理人於審判中不得檢閱卷宗及證物，亦不得抄錄、重製或攝影"
+      },
+      {
+        "choice_id": "c4",
+        "text": "自訴人之代理人於審判中得檢閱卷宗及證物並得抄錄、重製或攝影"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-037",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 37,
+    "question_type": "single",
+    "stem": "甲涉嫌投票受賄罪，收受1,000元賄賂，承諾會支持特定候選人。甲因家境清寒，在檢察官偵查階段 並未選任辯護人，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "若甲為低收入戶，當其向檢察官聲請指定辯護時，檢察官應通知法律扶助機構指派律師辯護"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若甲為原住民時，檢察官應通知法律扶助機構指派律師辯護"
+      },
+      {
+        "choice_id": "c3",
+        "text": "若甲因身心障礙，致無法為完全之陳述時，檢察官應通知法律扶助機構指派律師辯護"
+      },
+      {
+        "choice_id": "c4",
+        "text": "若檢察官聲請羈押甲，審判長應指定公設辯護人或律師為甲辯護"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-038",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 38,
+    "question_type": "single",
+    "stem": "司法警察（官）因調查犯罪情形及蒐集證據之必要，得使用通知書，通知犯罪嫌疑人到場接受詢問。 下列敘述何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "通知書之記載，如同拘票應記載事項，包含無正當理由不到場者，得命拘提"
+      },
+      {
+        "choice_id": "c2",
+        "text": "若司法警察（官），因情況急迫而有必要時，臨時以電話、親自登門或其他方式，告知案由後請犯 罪嫌疑人到場接受詢問，亦屬合法"
+      },
+      {
+        "choice_id": "c3",
+        "text": "司法警察（官）使用通知書，通知犯罪嫌疑人到場詢問，不具直接強制效果，犯罪嫌疑人得依其自 由意思決定是否到場接受詢問，或到場後隨時均可自由離去"
+      },
+      {
+        "choice_id": "c4",
+        "text": "犯罪嫌疑人收到通知書到場接受詢問後，縱其身心未受拘束，司法警察（官）仍應依刑事訴訟法第 95條第1項踐行告知義務"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-039",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 39,
+    "question_type": "single",
+    "stem": "關於拘提之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "拘票應備二聯，執行拘提時，應以一聯交被告或其家屬"
+      },
+      {
+        "choice_id": "c2",
+        "text": "司法警察或司法警察官如非必要，不得於管轄區域外執行拘提"
+      },
+      {
+        "choice_id": "c3",
+        "text": "司法警察官或司法警察偵查犯罪時，因線民供述，認為有事實足認為共犯嫌疑重大者，即得逕行拘 提之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "拘提，由司法警察或司法警察官執行，並得限制其執行之期間"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-040",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 40,
+    "question_type": "single",
+    "stem": "甲毆打乙之配偶丙，經警當場以現行犯逕行逮捕，甲供出受乙教唆，警方通知後乙拒絕到場說明。依 實務見解，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "乙係教唆甲實施傷害罪之現行犯，警方得逕行逮捕之"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙被甲指為教唆犯罪者，係準現行犯，警方得逕行逮捕之"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙教唆甲犯告訴乃論之罪，犯告訴乃論之罪之人，不得以現行犯逕行逮捕"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙不得依現行犯或準現行犯逕行逮捕 代號：1301 頁次：12－7"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-041",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 41,
+    "question_type": "single",
+    "stem": "偵查中，檢察官向法院聲請羈押殺人案件之被告甲。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "法院訊問甲後，僅因認其涉犯殺人罪嫌重大，非予羈押顯難進行追訴，即裁定羈押"
+      },
+      {
+        "choice_id": "c2",
+        "text": "檢察官請求法院限制或禁止甲及其辯護人獲知卷證時，應到場敘明理由，並指明限制或禁止之範圍， 以維護甲在訴訟上的防禦權"
+      },
+      {
+        "choice_id": "c3",
+        "text": "法官訊問甲時，檢察官應到場陳述聲請羈押理由及提出必要證據"
+      },
+      {
+        "choice_id": "c4",
+        "text": "法官訊問甲時，原則上毋庸辯護人在場"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-042",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 42,
+    "question_type": "single",
+    "stem": "甲因販賣毒品案件遭到通緝，被警員乙於實施臨檢時緝獲，於逮捕之際，乙對甲之身體、衣物等處進 行搜索。在此過程中，乙聽聞甲自稱其小客車停在約五百公尺外的停車場，乙遂將甲上銬並搭上警車， 帶往該停車場欲搜索甲之小客車。關於甲可否拒絕乙搜索其小客車，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "不得拒絕。此為甲所使用之交通工具，依法乙得實施附帶搜索"
+      },
+      {
+        "choice_id": "c2",
+        "text": "不得拒絕。甲仍有可能將犯罪相關物證藏匿於車上，有附帶搜索之必要"
+      },
+      {
+        "choice_id": "c3",
+        "text": "可以拒絕。因為該小客車不在逮捕之現場，且非甲可立即觸及之處所，不符合附帶搜索之要件"
+      },
+      {
+        "choice_id": "c4",
+        "text": "可以拒絕。因為甲並非因現行犯逮捕，不得為附帶搜索"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-043",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 43,
+    "question_type": "single",
+    "stem": "司法警察官乙因接獲線報指稱甲於自宅內經營賭場，遂帶隊前往一探究竟。抵達甲宅後，按門鈴並出 示證件、告知來意，取得甲之同意後，乙帶隊進入其住宅內搜索。雖查無經營賭場之相關事證，惟在 離去前，乙瞥見甲之窗戶花檯上種有多株大麻，遂將該批植物予以扣押。關於搜索、扣押等作為，下 列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "扣押大麻植栽之作為，係屬「另案扣押」"
+      },
+      {
+        "choice_id": "c2",
+        "text": "先前經同意之搜索既已結束，則不得再為任何搜索或扣押，此舉為違法搜索、違法扣押"
+      },
+      {
+        "choice_id": "c3",
+        "text": "司法警察官未持搜索票，屬無令狀之搜索，故不得為另案扣押"
+      },
+      {
+        "choice_id": "c4",
+        "text": "種植大麻之部分，既未發動偵查也未經起訴，則無扣押之必要性"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-044",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 44,
+    "question_type": "single",
+    "stem": "依實務見解，下列何種情形下取得之證據，不適用刑事訴訟法第158條之4權衡法則？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "審判長違反刑事訴訟法第186條第2項之拒絕證言權告知義務"
+      },
+      {
+        "choice_id": "c2",
+        "text": "犯罪嫌疑人身心未受拘束之情形下，司法警察違反刑事訴訟法第95條之告知義務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "司法警察詢問受拘提、逮捕之被告，無辯護人之被告表示已選任辯護人，司法警察未立即停止詢問"
+      },
+      {
+        "choice_id": "c4",
+        "text": "法院違法未通知當事人及辯護人於勘驗時到場"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-045",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 45,
+    "question_type": "single",
+    "stem": "甲、乙兩人共同闖入便利商店行搶，案經檢察官提起公訴，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "審理過程中，店員證稱：「案發當時，聽到共犯一人高喊甲的名字，催促離開」。若以店員供述證明 當時呼叫之對象為甲，乃屬傳聞證據"
+      },
+      {
+        "choice_id": "c2",
+        "text": "審理過程中，甲之友人證稱：「甲曾請託其作偽證稱：案發時甲在其住處睡覺」。若以甲之友人之供 述作為甲不在場係屬虛偽之證明，乃屬傳聞證據"
+      },
+      {
+        "choice_id": "c3",
+        "text": "審理過程中，乙之友人證稱：「乙曾邀約：一起到該便利商店行搶」。若以乙之友人供述證明乙曾邀 約共同犯案，乃屬傳聞證據"
+      },
+      {
+        "choice_id": "c4",
+        "text": "審理過程中，乙證稱：「案發當時，甲曾向店員喊：拿錢來，不然砍下去喔」。若以乙之供述證明甲 脅迫店員，非屬傳聞證據"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-046",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 46,
+    "question_type": "single",
+    "stem": "受命法官於準備程序，就檢察官聲請調查之被告甲之警詢自白，未訊問甲有關該份筆錄的證據能力之 意見，甲也未主動表示意見。甲於審判程序才抗辯該份警詢自白係出於刑求所致，並提出驗傷單為證。 依實務見解，法院對甲之抗辯是否應依職權調查？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "否。當事人關於證據能力之意見，應於準備程序表示；甲遲至於審判程序才提出抗辯，發生失權效， 法院毋庸依職權調查"
+      },
+      {
+        "choice_id": "c2",
+        "text": "是。甲主張警詢自白係出於刑求，並已提出驗傷單為證，依刑事訴訟法第163條第2項但書，法院 為發現真實並維護被告之利益，自應依職權調查"
+      },
+      {
+        "choice_id": "c3",
+        "text": "否。有關刑求抗辯之調查，屬於檢察官之舉證責任事項，而非法院職權調查事項"
+      },
+      {
+        "choice_id": "c4",
+        "text": "是。但法院得於調查其他犯罪事實之證據後再行調查 代號：1301 頁次：12－8"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-047",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 47,
+    "question_type": "single",
+    "stem": "甲駕車搭載前未婚妻乙返家途中肇事逃逸，警方通知乙作證，詢問時未命其具結，亦未告知得拒絕證 言，乙遂詳細說明案發經過。審判中，檢察官以乙之警詢筆錄舉證甲有罪，甲之辯護人聲請法院傳喚 乙作證，乙到庭後卻表示記憶已經模糊了，不太記得甲有無肇事。法院遂以乙之警詢筆錄作為認定甲 有罪之證據之一，依實務見解，其採證是否合法？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "不合法。因為員警未命乙具結，警詢筆錄無證據能力"
+      },
+      {
+        "choice_id": "c2",
+        "text": "不合法。因為員警未告知乙得拒絕證言，警詢筆錄無證據能力"
+      },
+      {
+        "choice_id": "c3",
+        "text": "合法。因為員警詢問乙之程序合法，且其陳述出於真意，相對於審判中之不一致陳述，其警詢陳述 經證明具有較可信之特別情況，故有證據能力"
+      },
+      {
+        "choice_id": "c4",
+        "text": "合法。因為員警詢問乙之程序合法，且其陳述出於真意，乙到庭後無正當理由拒絕陳述，警詢筆錄 即有證據能力"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-048",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 48,
+    "question_type": "single",
+    "stem": "甲對乙提出傷害罪之告訴，惟檢察官偵查終結作成不起訴處分，甲不服聲請再議，惟遭上級檢察機關 以無理由駁回。關於甲對此請求救濟之敘述，下列何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲可以直接向管轄法院提起自訴"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲可以在接受上開再議駁回之處分書後 10 日內，委任律師提出理由狀，向管轄第一審法院聲請准 許提起自訴"
+      },
+      {
+        "choice_id": "c3",
+        "text": "此時不起訴處分已經確定，甲在現行法之下，並無任何救濟管道"
+      },
+      {
+        "choice_id": "c4",
+        "text": "再議駁回之處分，性質上屬於行政處分之一，得以訴願之方式救濟之"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-049",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 49,
+    "question_type": "single",
+    "stem": "甲因涉嫌與跨國境詐欺集團之人共犯加重詐欺、洗錢等罪嫌，已被羈押。甲之辯護人與甲接見時，替 甲傳遞教其他人避罪的紙條予詐欺集團之人。檢察官認此有串證之虞，是否可直接命令看守所限制辯 護人與羈押之被告甲接見或互通書信？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "可以，檢察官偵查中對此有強制處分權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "原則上不可以，檢察官必須向法院聲請核發限制書，但遇有急迫情形時，得先為必要之處分，並應 於24小時內聲請該管法院補發限制書"
+      },
+      {
+        "choice_id": "c3",
+        "text": "原則上不可以，檢察官必須向法院聲請核發限制書，但遇有急迫情形時，得先為必要之處分，並應 於3日內聲請該管法院補發限制書"
+      },
+      {
+        "choice_id": "c4",
+        "text": "一律不可以，檢察官僅得向法院聲請核發限制書"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-050",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 50,
+    "question_type": "single",
+    "stem": "甲向法院自訴乙對其涉有刑法第 339 條第 1 項之詐欺取財罪嫌，法院審理中，甲具狀撤回對乙之自 訴，法院應如何處理，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "認撤回合法，為不受理判決"
+      },
+      {
+        "choice_id": "c2",
+        "text": "認撤回合法，以行政報結，並由書記官將撤回自訴事由通知被告"
+      },
+      {
+        "choice_id": "c3",
+        "text": "認撤回不合法，繼續審理"
+      },
+      {
+        "choice_id": "c4",
+        "text": "認撤回不合法，以裁定駁回"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-051",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 51,
+    "question_type": "single",
+    "stem": "檢察官從報上得知甲接受專訪時表示曾於 10 年前，因不堪乙苦苦哀求，幫一心尋死的乙注射毒藥， 檢察官於簽准分案後，命檢察事務官進行案情分析及擬定偵查策略，乙之妻丙亦在報紙得知上開消息 後，立即委請律師向法院提起自訴甲犯加工自殺罪。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "丙非犯罪之直接被害人，依法不得提起自訴"
+      },
+      {
+        "choice_id": "c2",
+        "text": "本件已開始偵查，丙依法不得提起自訴"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲所涉及之加工自殺罪係已得乙之囑託，且乙之遺書亦清楚表示「不得為難甲」，故丙因不得與乙 明示之意思相反，而不得提起自訴"
+      },
+      {
+        "choice_id": "c4",
+        "text": "本件檢察官雖已得知有犯罪嫌疑，命檢察事務官進行相關案情分析，尚未開始偵查，故丙雖提起自 訴在後，仍得為之 代號：1301 頁次：12－9"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-052",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 52,
+    "question_type": "single",
+    "stem": "甲涉犯過失傷害罪嫌，經檢察官偵查終結，為緩起訴處分，緩起訴期間2年。依實務見解，下列敘述 何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "檢察官命被告向公庫支付一定金額，須得被告之同意"
+      },
+      {
+        "choice_id": "c2",
+        "text": "檢察官命被告向被害人道歉，須得被害人同意"
+      },
+      {
+        "choice_id": "c3",
+        "text": "緩起訴期間屆滿後，未經撤銷時，本案仍無實質確定力"
+      },
+      {
+        "choice_id": "c4",
+        "text": "緩起訴期間，被害人得提起自訴"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-053",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 53,
+    "question_type": "single",
+    "stem": "法院依據國民法官法完成審理程序後，進入評議階段，經職業法官與國民法官針對案情進行討論後， 經評議有罪者五票（含一票職業法官），無罪者四票（含兩票職業法官）。此時合議庭應如何處理？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "應為無罪判決"
+      },
+      {
+        "choice_id": "c2",
+        "text": "適用國民法官法之案件均為重大刑事案件，合議庭應為一致決"
+      },
+      {
+        "choice_id": "c3",
+        "text": "審判長應向國民法官提示審理過程中之特定重要證據，請國民法官重新審酌"
+      },
+      {
+        "choice_id": "c4",
+        "text": "因有罪認定已取得多數票，且包括一名職業法官，因此審判長可以結束評議程序，並由合議庭作成 有罪判決"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-054",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 54,
+    "question_type": "single",
+    "stem": "下列何種情形，被告未到庭，法院不得逕行審判？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "被告心神喪失或因疾病不能到庭，顯有應諭知無罪或免刑判決之情形"
+      },
+      {
+        "choice_id": "c2",
+        "text": "應諭知有期徒刑之適用簡式審判程序案件"
+      },
+      {
+        "choice_id": "c3",
+        "text": "法院認為應科拘役、罰金或應諭知免刑或無罪之案件，被告經合法傳喚無正當理由不到庭者"
+      },
+      {
+        "choice_id": "c4",
+        "text": "最重本刑為拘役或專科罰金之罪得僅由代理人到庭之案件"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-055",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 55,
+    "question_type": "single",
+    "stem": "對於法院形式判決之敘述，依實務見解，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "通姦罪判決確定後，通姦罪經大法官解釋宣告違憲並自宣示之日起失其效力，檢察總長就原因案件 提起非常上訴，最高法院應諭知免訴"
+      },
+      {
+        "choice_id": "c2",
+        "text": "個案非屬我國刑法適用法效力範圍時，法院應諭知不受理"
+      },
+      {
+        "choice_id": "c3",
+        "text": "無管轄權之自訴案件，應諭知管轄錯誤，並同時諭知移送於管轄法院"
+      },
+      {
+        "choice_id": "c4",
+        "text": "免訴、不受理與管轄錯誤之判決，得不經言詞辯論為之"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-056",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 56,
+    "question_type": "single",
+    "stem": "行合議審判之案件，審判長指定一人為受命法官行準備程序，下列關於準備程序受命法官得為訴訟行 為之敘述，何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "詢問檢察官起訴範圍及是否要變更起訴法條"
+      },
+      {
+        "choice_id": "c2",
+        "text": "被告主張警詢自白係遭警察刑求，受命法官遂於準備庭中勘驗被告於警詢中之錄音光碟"
+      },
+      {
+        "choice_id": "c3",
+        "text": "被告主張證人警詢筆錄為傳聞證據無證據能力，受命法官當庭裁定證人警詢筆錄無證據能力，並曉 諭檢察官聲請傳喚證人到庭"
+      },
+      {
+        "choice_id": "c4",
+        "text": "被告經合法傳喚無正當理由不到庭者，受命法官仍可對到庭之人行準備程序"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-057",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 57,
+    "question_type": "single",
+    "stem": "辯護人於準備程序向法院聲請於審判期日調查證人甲後，法院得知甲將於近日被派往倫敦分公司任 職，應無法於審判期日出庭。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "法院應駁回調查證人甲之聲請"
+      },
+      {
+        "choice_id": "c2",
+        "text": "法院逕行傳喚甲，並不待當事人到場直接訊問"
+      },
+      {
+        "choice_id": "c3",
+        "text": "法院不傳喚甲，直接以偵查中筆錄作為書證，於審判期日調查之"
+      },
+      {
+        "choice_id": "c4",
+        "text": "法院得於審判期日前先行訊問甲，並應行交互詰問程序"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-058",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 58,
+    "question_type": "single",
+    "stem": "檢察官起訴被告於民國109年間同時持有A、B二把改造手槍，涉想像競合犯非法持有手槍1罪嫌。 第一審法院判決被告持有 A 槍有罪，持有 B 槍部分則於理由內說明不另為無罪之諭知。第二審法院 駁回檢察官及被告之上訴，維持第一審法院判決。下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "非法持有手槍罪係得上訴第三審之案件，檢察官就第二審判決全部都可以提起第三審上訴，不受任 何限制"
+      },
+      {
+        "choice_id": "c2",
+        "text": "被告僅對第二審有罪部分上訴，檢察官未上訴，上訴範圍不及於不另為無罪諭知部分"
+      },
+      {
+        "choice_id": "c3",
+        "text": "被告僅對第二審有罪部分上訴，檢察官未上訴。第三審如認被告上訴有理由，基於審判不可分原則， 應將不另為無罪諭知部分併同發回第二審更為審理"
+      },
+      {
+        "choice_id": "c4",
+        "text": "僅檢察官對第二審有罪部分上訴，依上訴不可分原則，及於不另為無罪諭知部分，第三審法院應全 部審理 代號：1301 頁次：12－10"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-059",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 59,
+    "question_type": "single",
+    "stem": "甲因偽造文書等案件，經第二審法院判處相關罪刑後，甲於法定上訴期間內提起第三審上訴，然其上 訴書狀並未敘述上訴理由，僅記載「理由後補」。第二審法院收受甲提出之上訴書狀後，應如何處理， 最為正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "以裁定定期命甲補提上訴理由，逾期不補正，則以裁定駁回上訴"
+      },
+      {
+        "choice_id": "c2",
+        "text": "以裁定定期命甲補提上訴理由，逾期不補正，則以判決駁回上訴"
+      },
+      {
+        "choice_id": "c3",
+        "text": "毋庸以裁定定期命甲補提上訴理由，直接以判決駁回上訴"
+      },
+      {
+        "choice_id": "c4",
+        "text": "毋庸以裁定定期命甲補提上訴理由，直接送最高法院審判"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-060",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 60,
+    "question_type": "single",
+    "stem": "A 因使用 GPS追蹤器調查他人行蹤，一審法院判決 A 有罪，二審法院認原審判決適用法條有誤，撤 銷後亦改判有罪。A上訴第三審，第三審法院以上訴違背法律上之程式，判決駁回。關於本件之非常 上訴，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "檢察總長為被告利益，應以第三審程序判決為對象提起非常上訴"
+      },
+      {
+        "choice_id": "c2",
+        "text": "檢察總長應以第二審實體判決為對象提起非常上訴"
+      },
+      {
+        "choice_id": "c3",
+        "text": "檢察總長得以最高法院法律見解已有變更作為非常上訴理由"
+      },
+      {
+        "choice_id": "c4",
+        "text": "非常上訴採強制辯護制度，A未選任辯護人者，應由審判長為其指定公設辯護人或律師"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-061",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 61,
+    "question_type": "single",
+    "stem": "關於法官、檢察官及律師依照專業倫理應遵守事項，下列何者錯誤？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "法官於任職期間，不但應該避免參加政治活動，也不可以在上班以外的時間公開支持、反對或評論 任何政黨、政治團體"
+      },
+      {
+        "choice_id": "c2",
+        "text": "檢察官應嚴守偵查不公開原則，但媒體報導之內容與偵查案件事實不符而有澄清之必要時，得經所 屬機關首長授權，對外就案情為必要之說明"
+      },
+      {
+        "choice_id": "c3",
+        "text": "律師先受房屋租約雙方委任，擔任某租賃契約之見證人。嗣後，律師受該出租人委任向該承租人起 訴請求返還系爭租賃物，其受委任毋庸取得該承租人之同意"
+      },
+      {
+        "choice_id": "c4",
+        "text": "提升專業能力為法律人重要的基本倫理，法官、檢察官及律師均負有從事在職進修之義務"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-062",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 62,
+    "question_type": "single",
+    "stem": "法官甲及法官乙為夫妻關係，服務於同一法院。法官甲審理承租人A主張終止租約，請求出租人B返 還押租金之爭議。言詞辯論期日，對於A與B間是否繼續存在租賃關係之爭點，當庭致電法官乙（另 案承辦 A 與 B 間給付租金事件）詢問其對於系爭爭點之心證，並以該心證作為勸諭和解之基礎。法 官甲之行為是否違反法官倫理規範？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "違反，因為法官甲、乙既為配偶關係，不應分別承辦相關案件，應屬當然迴避事由"
+      },
+      {
+        "choice_id": "c2",
+        "text": "違反，因為法官甲當庭致電法官乙，逕依法官乙之認定作為和解基礎，易使當事人對於法官審判獨 立性產生疑慮"
+      },
+      {
+        "choice_id": "c3",
+        "text": "不違反，因為法官甲用心良苦，係為避免兩案見解歧異，產生裁判矛盾之風險"
+      },
+      {
+        "choice_id": "c4",
+        "text": "不違反，因為法官甲基於便民措施，目的乃為促成和解，減少訟源"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-063",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 63,
+    "question_type": "single",
+    "stem": "甲法官擔任刑事審判工作多年，經驗豐富著有聲譽，獲某大學邀聘講學，甲即合法申報，並獲機關首 長許可後兼職授課。下列行為何者違反法官倫理規範？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲於授課內容批評最高法院之確定判決見解錯誤，重大影響當事人權利"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲應邀參加學校期末聚餐，席間並與多名學生合影。嗣後學生乙將合影照片張貼於社群媒體，並標 註甲之司法公職身分"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲於授課過程中，學生A因家族成員之民事糾紛涉訟，向甲請教相關法律問題。經甲詢問案情後即 於課堂答覆A，並提供具體之法律意見及訴訟策略"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲選擇由某出版社為其出版之著作，以之作為課程教材，並商請出版社以七折特別價惠價出售給修 課學生 代號：1301 頁次：12－11"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-064",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 64,
+    "question_type": "single",
+    "stem": "甲法官與其夫乙為某航空公司貴賓會員，某日在使用機場貴賓室時，乙因故摔倒受傷，甲法官當場表 明法官身分揚言提告，航空公司依甲當場之要求，隔日派員至甲之辦公室商談和解事宜，下列敘述何 者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "甲法官如係利用下班時間為之，並未違反法官倫理規範"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲法官如獲乙授權談判，並未違反法官倫理規範"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲法官表明法官身分，利用辦公處所進行私人事務之行為已違反法官倫理規範"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲法官所為係行使其法定權利，並未違反法官倫理規範"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-065",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 65,
+    "question_type": "single",
+    "stem": "關於法院首長對於所屬法官進行職務監督時，下列何者非屬法院首長職務監督的處分樣態？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "制止法官違法行使職權"
+      },
+      {
+        "choice_id": "c2",
+        "text": "糾正法官不當言行"
+      },
+      {
+        "choice_id": "c3",
+        "text": "督促法官依法迅速執行職務"
+      },
+      {
+        "choice_id": "c4",
+        "text": "命令移轉法官審理中之個案，改由其他法官審理"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-066",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 66,
+    "question_type": "single",
+    "stem": "甲、乙、丙、丁四人為大學同學，甲為執業律師，乙、丙、丁於民國105年間擔任檢察官，惟丙於109 年轉任律師，並與甲合夥經營律師事務所，甲於111年和A女結婚。下列何者違反檢察官倫理？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "丙轉任律師時，乙和丁基於同事情誼，具名致送花籃書寫「開幕致慶」"
+      },
+      {
+        "choice_id": "c2",
+        "text": "乙出席甲和A的婚宴時，包禮金3,000元給甲"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲律師、乙檢察官同時擔任行政院公共工程委員會之申訴委員"
+      },
+      {
+        "choice_id": "c4",
+        "text": "乙出席甲和 A 的婚宴時，丙當時擔任乙承辦案件中被告 B 的辯護人，且婚宴中乙與丙、B 同桌， 因屬正常社交，乙繼續用餐至婚宴結束"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "correct_choice_ids": [
+      "c4"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-067",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 67,
+    "question_type": "single",
+    "stem": "甲檢察官偕同書記官、法醫外出執行相驗屍體外勤任務，於現場相驗完畢後，已逾中午用餐時間，下 列何者不違反檢察官倫理規範之要求？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "為求方便且有助於檢、警聯繫，甲檢察官與共同前往相驗書記官、法醫，接受報驗之轄區司法警察 招待用餐"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲檢察官自行出錢，就近請書記官、法醫便餐"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲檢察官自行前往他處用餐，請報驗之轄區司法警察招待書記官、法醫便餐"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲檢察官與所率書記官、法醫，均不可接受報驗之轄區司法警察招待用餐，但可接受相驗之家屬付 費訂餐"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-068",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 68,
+    "question_type": "single",
+    "stem": "為端正檢察官風紀、促使檢察官嚴守辦案程序、遵守檢察官倫理規範，對違反之檢察官有懲戒之規定。 下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "檢察官應受懲戒之同一行為，不受二次懲戒"
+      },
+      {
+        "choice_id": "c2",
+        "text": "檢察官應受懲戒之同一行為已受刑罰或行政罰之處罰者，因一行為不二罰，不得再予以懲戒"
+      },
+      {
+        "choice_id": "c3",
+        "text": "法官與檢察官性質不同，法官之懲戒由懲戒法院職務法庭審理，檢察官之懲戒由法務部下設檢察官 人事審議委員會審理"
+      },
+      {
+        "choice_id": "c4",
+        "text": "檢察官違反檢察官倫理規範，不分情節輕重，均應付個案評鑑，認有懲戒之必要者，得移送懲戒"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-069",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 69,
+    "question_type": "single",
+    "stem": "律師之執行職務行為，下列何者不違反律師倫理？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "擔任詐欺罪之刑事案件之辯護人，與被告約定若獲無罪判決，以詐欺所得金額的百分之二十作為後 酬"
+      },
+      {
+        "choice_id": "c2",
+        "text": "代理原告起訴請求移轉不動產所有權，約定若勝訴，原告應以該不動產價值之十分之一作為後酬"
+      },
+      {
+        "choice_id": "c3",
+        "text": "代理土地所有權人請求拆屋還地，在訴訟進行中，受讓該土地所有權"
+      },
+      {
+        "choice_id": "c4",
+        "text": "代理妻起訴同時請求離婚及離婚後之剩餘財產，並約定全部勝訴後，以法院判決剩餘財產金額之百 分之十作為後酬"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-070",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 70,
+    "question_type": "single",
+    "stem": "當事人A委任甲律師進行民事訴訟，訴訟進行中，A要求甲律師將卷宗資料全部影印一份給A，甲律 師應如何處理？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "訴訟還在進行中，不可以影印給A，要等到訴訟終結之後才可以影印給A"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲律師自己寫的狀紙以及法院筆錄可以影印給當事人，對造律師的狀紙則必須先取得對造律師同意 才可以影印"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲應該依照A的要求將卷宗內的資料全部影印給A"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲律師自己寫的狀紙可以影印給當事人，但法院筆錄及對造律師的狀紙要取得法院及對造律師同意 才可以影印給A 代號：1301 頁次：12－12"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-071",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 71,
+    "question_type": "single",
+    "stem": "有關利益衝突之敘述，下列何者未違反律師倫理規範？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "A曾委託甲律師處理其對B之請求禁止B侵害A之專利權訴訟事件。該案件終結後，第三人C委 託甲律師對A提起分割某不動產之訴訟"
+      },
+      {
+        "choice_id": "c2",
+        "text": "A與B原為夫妻，後協議離婚，A委請甲律師擔任離婚協議書之見證人。後A與B因離婚協議書 約定事項發生爭議，B委任甲律師對A提起訴訟"
+      },
+      {
+        "choice_id": "c3",
+        "text": "甲律師曾受A公司委任對於董事B的競業禁止事項出具意見。甲後來接受B的委任，對A公司請 求停止執行關於B的競業禁止之董事會決議"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲律師聘僱乙律師，甲允許乙自行接案。若乙律師受當事人A之委任，甲得同時接受同一案件對造 B的委任"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-072",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 72,
+    "question_type": "single",
+    "stem": "甲律師擔任 A 公司之法律顧問，因而得知 A 公司所推出的金融商品其實是一個詐欺騙局，會讓投資 大眾遭受重大的財產損失。其後，甲律師終止與A公司的委任關係。在某次參加大學同學聚會時，甲 律師的同學乙談到想要投資A公司的該金融商品，甲可不可以警告乙該商品其實是一個詐欺騙局？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "可以，A公司推出的金融商品是會造成乙財產重大損害的犯罪行為，可以揭露"
+      },
+      {
+        "choice_id": "c2",
+        "text": "不可以，律師應該為當事人保守秘密，絕對不可以洩漏"
+      },
+      {
+        "choice_id": "c3",
+        "text": "不可以，因為金融詐欺只會造成財產損害，沒有危害到生命或身體"
+      },
+      {
+        "choice_id": "c4",
+        "text": "如果甲律師還是A公司的顧問就不可以，現在已經不是顧問，應該就可以"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-073",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 73,
+    "question_type": "single",
+    "stem": "某大學法律系甲教授擔任A及B兩人間工程承攬爭議事件之主任仲裁人，仲裁判斷有利於A。不久， 甲教授便離開教職，從事律師工作。B因不服該仲裁結果，提起撤銷仲裁判斷之訴訟，A欲聘請甲律 師擔任其訴訟代理人，下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "因仲裁判斷結果有利於A，甲可以受任擔任A之訴訟代理人，因其熟悉案情，有助於維護A之權益"
+      },
+      {
+        "choice_id": "c2",
+        "text": "甲律師先前擔任仲裁人，即使得A與B之同意，甲律師仍不得在撤銷仲裁判斷之訴訟中擔任A之 訴訟代理人"
+      },
+      {
+        "choice_id": "c3",
+        "text": "因 A 聘請甲律師擔任訴訟代理人時，等同 A 已認可並接受該利害衝突，故甲律師接受委任未違反 律師倫理"
+      },
+      {
+        "choice_id": "c4",
+        "text": "甲不可接受委任，因其未得仲裁協會同意"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "correct_choice_ids": [
+      "c2"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-074",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 74,
+    "question_type": "single",
+    "stem": "甲是律師事務所的合夥人，乙為事務所的受僱律師。乙為求勝訴，私下會見已委任律師之對造當事人。 下列敘述何者正確？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "乙之行為有助於當事人勝訴，縱使違反其他法令，但不違反律師倫理規範"
+      },
+      {
+        "choice_id": "c2",
+        "text": "委任人是委任甲處理案件，乙只是甲的受僱律師，乙之行為不影響甲的律師倫理義務"
+      },
+      {
+        "choice_id": "c3",
+        "text": "乙律師知道對造已委任律師，不應該私下會見對造"
+      },
+      {
+        "choice_id": "c4",
+        "text": "因乙為甲所僱用，甲不得將此事通知乙所屬之律師公會進行懲戒程序"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "correct_choice_ids": [
+      "c3"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  },
+  {
+    "question_id": "113-1301-075",
+    "year": 113,
+    "subject_code": "1301",
+    "question_no": 75,
+    "question_type": "single",
+    "stem": "甲律師受僱於某事務所並被指派承辦當事人A的案件，因為甲律師即將離職，受僱於另一事務所，甲 律師就向 A 說明因只有他最清楚案情，希望 A 能夠與原事務所終止委任，繼續由甲律師承辦。甲律 師之行為有沒有違反律師倫理相關規範？",
+    "choices": [
+      {
+        "choice_id": "c1",
+        "text": "有，受僱律師離職時不能夠促使當事人轉委任自己為受任人"
+      },
+      {
+        "choice_id": "c2",
+        "text": "沒有，律師業務的競爭本來就各憑本事，除非甲律師有惡意詐欺脅迫之行為，否則要求並促使當事 人轉委任自己，為法之所許"
+      },
+      {
+        "choice_id": "c3",
+        "text": "如果這個案件真的只有甲律師瞭解，甲律師可以促請當事人轉委任自己。如果原事務所還有其他律 師瞭解案情就不可以"
+      },
+      {
+        "choice_id": "c4",
+        "text": "如果甲律師新任職的事務所同意就可以，不同意就不行"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "correct_choice_ids": [
+      "c1"
+    ],
+    "feedback": {
+      "correct": "fireworks",
+      "incorrect": "crying_cat"
+    },
+    "tags": []
+  }
+]

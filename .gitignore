@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/
+
+# 題庫整合工作暫存區（已整合進 bank/ 後不需追蹤）
+json_ready_updates/
